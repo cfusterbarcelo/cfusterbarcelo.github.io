@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Background
 ======
-* B.Sc. in Telematics Engineering, Universitat de les Illes Balears, 2019
-* M.Sc. in Cibersecurity, Universidad Carlos III de Madrid, 2020
 * Ph.D. in Computer Science and Technology, Universidad Carlos III de Madrid, 2023 (expected)
+* M.Sc. in Cibersecurity, Universidad Carlos III de Madrid, 2020
+* B.Sc. in Telematics Engineering, Universitat de les Illes Balears, 2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional History
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhD Student: Sept 2020 - present
+  * PhD Candidate in Computer Science and Technology in UC3M
+  * Cybersecurity Solutions using Cardiac Signals
+  * Deep Learning applied to Biometrics
+  * Computer Vision and signal processing
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research Assistant: October 2019 - present
+  * COSEC Laboratory
+  * Computer Science Department in UC3M
+  * CYNAMON-CM Project
+  * Biometric identification using ECG via Deep Learning
   
-Talks
+Certifications
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Autopsy Software for Forensic Analysis
+* Ethical Hacking
+* English Level C1 (MECR)
+* French Level A2
+* Machine Learning with Python (edX)
+
+Core Competences
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python, C/C++, Java, Matlab
+* Deep Learning, Computer Vision
+* Python Libraries for DL (NumPy, Scikit-learn, Tensorflow, Keras, Pandas...)
+* Bash Scripting
+* Git
+* Latex
+* Communication Protocols
+
