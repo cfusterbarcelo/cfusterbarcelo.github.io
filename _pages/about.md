@@ -20,7 +20,6 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
-------
 * _September 2021_: I have participated in the [MUSKETEER 2nd Hackathon](https://musketeer.eu/2nd-hackathon/) about federated learning.
 * _April 2021_: Our new paper "ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks" is under review at [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
 
