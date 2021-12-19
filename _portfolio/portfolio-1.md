@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Per què el 5G no us deixarà sense hereus?"
+excerpt: "Article for the Setmanari Felanitx newspaper about healthcare and 5G (catalan)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Després de una sèrie d'articles al Setmanari Felanitx en contra del 5G i totes les conseüències, [Alejandro Guerrero López](alexjorguer.github.io) i jo vam decidir escriure un petit article desmentint els perills del 5G en base a publicacions científiques JCR.
+
+[Clica aquí per llegir-ho.](https://www.setmanarifelanitx.cat/author/caterina-fuster-barcelo-i-alejandro-guerrero-lopez/)
