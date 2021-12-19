@@ -15,7 +15,9 @@ When I am not working at the COSEC Lab, I love to cook. Healthy recipes are my a
 
 Here you can find where all this free time cooking is invested:
 
-{% include instagram.html id="CW3nk0SKINO" %}
+{% include instagram.html id="CW_TwMqqSTf" %}
+{% include instagram.html id="CW3nk0SKlNO" %}
+{% include instagram.html id="CWbS3out-ys" %}
 
 
 
