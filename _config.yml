@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caterina Fuster-Barceló / Ph.D. Candidate"
+title                    : "Caterina Fuster-Barceló"
 title_separator          : "-"
 name                     : &name "Caterina Fuster-Barceló"
 description              : &description "Ph.D. Candidate in Deep Learning applied to Biometrics"
