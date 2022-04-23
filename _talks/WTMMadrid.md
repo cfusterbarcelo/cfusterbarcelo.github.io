@@ -15,3 +15,4 @@ En mi tesis presento un sistema biométrico que puede usarse para proteger perfi
 
 Con esta charla pretendo enseñar otro aspecto de la ciberseguridad del que no se habla mucho: la biometría. Y además, como ya he comentado, introducir un poco cómo todo esto es posible gracias a la inteligencia artificial como herramienta.
 
+Puedes encontrar la presentación [aquí](https://cfusterbarcelo.github.io/files/WTMMadrid.pdf).
