@@ -20,11 +20,10 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _June  2022_: Assisting the [JNIC 2022](https://2022.jnic.es) organised by Tecnalia and INCIBE in Bilbao.
 * _April 2023_: Lecturer at the [Women Techmakers Madrid](http://wtmgdgmadrid.github.io/#program) presenting my thesis for people from all backgrounds together with all other fantastic women.
 * _April 2023_: Assisting [Conf.IT Talks](https://confit.es) organised by the alumni from Universidad Politécnica de Madrid.
 * _February 2022_: Volunteered helping the Stuff of Crypto Go in the activity [Learn Crypto with the Crypto Go Game](https://www.uc3m.es/secundaria/en/crypto-go) with 16-year-old students from different high schools.
-* _September 2021_: I have participated in the [MUSKETEER 2nd Hackathon](https://musketeer.eu/2nd-hackathon/) about federated learning.
-
 
 Short Bio
 ------
