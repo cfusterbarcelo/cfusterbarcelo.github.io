@@ -20,10 +20,11 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _July  2022_: Paper accepted at Neurocomputing as [ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks](https://doi.org/10.1016/j.neucom.2022.07.059)
 * _June  2022_: Assisting the [JNIC 2022](https://2022.jnic.es) organised by Tecnalia and INCIBE in Bilbao.
 * _April 2023_: Lecturer at the [Women Techmakers Madrid](http://wtmgdgmadrid.github.io/#program) presenting my thesis for people from all backgrounds together with all other fantastic women.
 * _April 2023_: Assisting [Conf.IT Talks](https://confit.es) organised by the alumni from Universidad Politécnica de Madrid.
-* _February 2022_: Volunteered helping the Stuff of Crypto Go in the activity [Learn Crypto with the Crypto Go Game](https://www.uc3m.es/secundaria/en/crypto-go) with 16-year-old students from different high schools.
+
 
 Short Bio
 ------
