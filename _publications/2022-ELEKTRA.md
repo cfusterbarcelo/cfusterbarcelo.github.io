@@ -5,7 +5,7 @@ permalink: /publication/2022-ELEKTRA
 excerpt: 'Biometric identification using ELEKTRokardiomatrix by Convolutional Neural Networks'
 date: 2021-04-01
 venue: 'Published at Neurocomputing'
-paperurl: '[ELEKTRA](https://doi.org/10.1016/j.neucom.2022.07.059)'
+paperurl: 'https://doi.org/10.1016/j.neucom.2022.07.059'
 citation: '@article{FUSTERBARCELO2022,
 title = {ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks},
 journal = {Neurocomputing},
