@@ -11,21 +11,21 @@ redirect_from:
 
 Academic Background
 ======
-* Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), 2023 (expected)
+* Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), _Dec. 2022_
 * M.Sc. in Cibersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
 * B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
 
 
 Professional History
 ======
-* PhD Student: Sept 2020 - present
+* __PhD Candidate__: _Sept 2020 - present_
   * PhD Candidate in Computer Science and Technology in [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology)
   * Cybersecurity Solutions using Cardiac Signals
   * Deep Learning applied to Biometrics
   * Computer Vision and signal processing
   * Supervised by [Pedro Peris-López](https://lightweightcryptography.com) and [Carmen Cámara](https://researchportal.uc3m.es/display/inv43106) 
 
-* Research Assistant: October 2019 - present
+* __Research Assistant__: _October 2019 - present_
   * [COSEC Laboratory](https://cosec.inf.uc3m.es)
   * Computer Science Department in [UC3M](https://www.uc3m.es/departamento-informatica/inicio)
   * [CYNAMON-CM Project](https://www.tic.itefi.csic.es/CYNAMON/)
