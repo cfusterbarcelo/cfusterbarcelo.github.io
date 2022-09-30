@@ -11,25 +11,38 @@ redirect_from:
 
 Academic Background
 ======
-* Ph.D. in Computer Science and Technology, Universidad Carlos III de Madrid, 2023 (expected)
-* M.Sc. in Cibersecurity, Universidad Carlos III de Madrid, 2020
-* B.Sc. in Telematics Engineering, Universitat de les Illes Balears, 2019
+* Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), 2023 (expected)
+* M.Sc. in Cibersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
+* B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
 
 
 Professional History
 ======
 * PhD Student: Sept 2020 - present
-  * PhD Candidate in Computer Science and Technology in UC3M
+  * PhD Candidate in Computer Science and Technology in [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology)
   * Cybersecurity Solutions using Cardiac Signals
   * Deep Learning applied to Biometrics
   * Computer Vision and signal processing
+  * Supervised by [Pedro Peris-López](https://lightweightcryptography.com) and [Carmen Cámara](https://researchportal.uc3m.es/display/inv43106) 
 
 * Research Assistant: October 2019 - present
-  * COSEC Laboratory
-  * Computer Science Department in UC3M
-  * CYNAMON-CM Project
+  * [COSEC Laboratory](https://cosec.inf.uc3m.es)
+  * Computer Science Department in [UC3M](https://www.uc3m.es/departamento-informatica/inicio)
+  * [CYNAMON-CM Project](https://www.tic.itefi.csic.es/CYNAMON/)
   * Biometric identification using ECG via Deep Learning
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Certifications
 ======
 * Autopsy Software for Forensic Analysis
@@ -47,4 +60,5 @@ Core Competences
 * Git
 * Latex
 * Communication Protocols
+
 
