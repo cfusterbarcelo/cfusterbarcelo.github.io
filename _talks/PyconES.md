@@ -17,4 +17,4 @@ De este modo, en esta charla, veremos cómo es posible identificar a las persona
 
 Más información sobre la [PyconES aquí](https://2022.es.pycon.org).
 
-Más info, diapos y demás en breves!
+Y [aquí](https://cfusterbarcelo.github.io/files/PyConES2022.pdf) tenéis la presentación que usé. 
