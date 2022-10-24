@@ -11,8 +11,8 @@ location: "Granada, Andalucía"
 
 La charla entera la podéis ver aquí:
 
-{% raw %}{% include youtube.html id="ejwLeCrf3pY&list=PLahUDl6AAwrjLvD5G4dZdkmXnGknydf8i&index=9" %}
-{% endraw %}
+{% include youtube.html id="ejwLeCrf3pY" %}
+
 
 
 
