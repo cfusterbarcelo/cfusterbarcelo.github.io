@@ -11,6 +11,11 @@ location: "Granada, Andalucía"
 La charla entera la podéis ver aquí:
 {% include youtube.html id="ejwLeCrf3pY&list=PLahUDl6AAwrjLvD5G4dZdkmXnGknydf8i&index=9" %}
 
+
+
+
+
+
 Sabías que igual que puedes identificarte con la huella dactilar también puedes hacerlo con tu corazón? Con esta charla pretendo mostrar cómo es posible usar los electrocardiogramas para proteger la caja fuerte de un banco. A través de este proyecto desarrollado 100% en python que va desde procesamiento de señales con PanTompkins hasta identificación y clasificación de usuarios con TensorFlow, veremos cuáles son las ventajas de identificar usuarios con electrocardiogramas y por qué deberíamos usar este método de identificación biométrica para proteger el oro de una caja fuerte.
 
 El objetivo de esta charla es acercar la biometría y cómo ésta se combina junto con la inteligencia artificial para lograr hacer un modelo de clasificación de usuarios.
