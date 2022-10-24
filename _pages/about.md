@@ -20,6 +20,7 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _October 2022_: NEW! PyConES talk available on [Youtube](https://www.youtube.com/watch?v=ejwLeCrf3pY)!
 * _October 2022_: Lecturer at the [PyconES](https://2022.es.pycon.org) presenting my thesis adding a little bit of... spice. Check it [here](https://charlas.2022.es.pycon.org/pycones2022/talk/review/BPRDBMLFMH9YW7RBALCHHS7THN7PPPKM).
 * _July 2022_: Paper sent to Engineering Applications of Artificial Intelligence from Elsevier. 
 * _July  2022_: Paper accepted at Neurocomputing as [ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks](https://doi.org/10.1016/j.neucom.2022.07.059)
