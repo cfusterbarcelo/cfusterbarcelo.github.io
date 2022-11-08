@@ -20,11 +20,11 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
-* _October 2022_: NEW! PyConES talk available on [Youtube](https://www.youtube.com/watch?v=ejwLeCrf3pY)!
+* _December 2022_: NEW! We have a date for my PhD defense! The 13th of December at 11:00h I will be presenting my thesis at the [UC3M](https://www.uc3m.es/Home).
+* _November 2022_: NEW! Participated in Skype A Scientist with [Linzer Technikum](https://www.litec.ac.at) for last year students. Check the slides [here](https://cfusterbarcelo.github.io/files/SkypeAScientist-08-11.pdf)!
+* _October 2022_: PyConES talk available on [Youtube](https://www.youtube.com/watch?v=ejwLeCrf3pY)!
 * _October 2022_: Lecturer at the [PyconES](https://2022.es.pycon.org) presenting my thesis adding a little bit of... spice. Check it [here](https://charlas.2022.es.pycon.org/pycones2022/talk/review/BPRDBMLFMH9YW7RBALCHHS7THN7PPPKM).
 * _July 2022_: Paper sent to Engineering Applications of Artificial Intelligence from Elsevier. 
-* _July  2022_: Paper accepted at Neurocomputing as [ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks](https://doi.org/10.1016/j.neucom.2022.07.059)
-* _June  2022_: Assisting the [JNIC 2022](https://2022.jnic.es) organised by Tecnalia and INCIBE in Bilbao.
 
 
 Short Bio
