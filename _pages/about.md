@@ -20,7 +20,9 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _January 2023_: Starting at the [AI4LIFE Project](https://www.eu-openscreen.eu/projects/ai4life.html) with [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz). More details will be coming!
 * _December 2022_: NEW! We have a date for my PhD defense! The 13th of December at 11:00h I will be presenting my thesis at the [UC3M](https://www.uc3m.es/Home).
+* _November 2022_: NEW! Giving a talk to [IDOVEN](https://es.idoven.ai) in Gran Vía, Madrid the 23th of November. I will be presenting my thesis.
 * _November 2022_: NEW! Participated in Skype A Scientist with [Linzer Technikum](https://www.litec.ac.at) for last year students. Check the slides [here](https://cfusterbarcelo.github.io/files/SkypeAScientist-08-11.pdf)!
 * _October 2022_: PyConES talk available on [Youtube](https://www.youtube.com/watch?v=ejwLeCrf3pY)!
 * _October 2022_: Lecturer at the [PyconES](https://2022.es.pycon.org) presenting my thesis adding a little bit of... spice. Check it [here](https://charlas.2022.es.pycon.org/pycones2022/talk/review/BPRDBMLFMH9YW7RBALCHHS7THN7PPPKM).
