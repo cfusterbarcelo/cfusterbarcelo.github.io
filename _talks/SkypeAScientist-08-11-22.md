@@ -19,3 +19,5 @@ My talk was divided in four main sections:
 The slides I used for the presentation are available [here](https://cfusterbarcelo.github.io/files/SkypeAScientist-08-11.pdf).
 
 If you are reading this because you are interested in my project and trajectory and you have some students interested in my research, don't hesitate to contact me! I will be very happy to give this talk again!
+
+![alt text](https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/photo1669130258.jpeg)
