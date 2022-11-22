@@ -20,4 +20,4 @@ The slides I used for the presentation are available [here](https://cfusterbarce
 
 If you are reading this because you are interested in my project and trajectory and you have some students interested in my research, don't hesitate to contact me! I will be very happy to give this talk again!
 
-![alt text](https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/photo1669130258.jpeg)
+<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/photo1669130258.jpeg" float="left">
