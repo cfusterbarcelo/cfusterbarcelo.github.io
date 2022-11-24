@@ -1,0 +1,22 @@
+---
+title: "IDOVEN - Protegiendo el oro con tu corazón"
+collection: talks
+type: "Talk"
+permalink: /talks/idoven
+venue: "Idoven"
+date: 2022-11-23
+location: "Gran Vía, Madrid"
+---
+
+I had the pleasure to visit [IDOVEN](https://es.idoven.ai) and give a small talk about my PhD Thesis in the Telefónica Building in Gran vía, where their office is placed. 
+
+Everything started when [Txema](https://www.linkedin.com/in/josemariabermudez/) came to talk with me after my talk in the PyConES Granada 2022. Txema enjoyed my presentation and offered me to come to IDOVEN offices to give the same talk. Of course I couldn't reject this oportunity. 
+
+In IDOVEN, I was amazed by the views, the people , the story of their company and, of course, the company itself. I had a great time and everyone was so kind with me! 
+It was a great opportunity!
+
+<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/IMG_3312.HEIC" alt='idoven'>
+
+<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/IMG_4752.HEIC" alt='idoven'>
+
+<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/IMG_4756.jpg" alt='idoven'>
