@@ -15,8 +15,8 @@ Everything started when [Txema](https://www.linkedin.com/in/josemariabermudez/) 
 In IDOVEN, I was amazed by the views, the people , the story of their company and, of course, the company itself. I had a great time and everyone was so kind with me! 
 It was a great opportunity!
 
-<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/IMG_3312.HEIC" alt='idoven'>
+![alt text](../images/idoven.jpg)
 
-<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/IMG_4752.HEIC" alt='idoven'>
+![alt text](../images/idoven2.jpg)
 
-<img src="https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/blob/master/images/IMG_4756.jpg" alt='idoven'>
+![alt text](../images/idoven3.jpg)
