@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-ELEKTRA-II
 excerpt: 'An in-depth study of ELEKTRA as a biometric system'
 date: 2022-07-26
-venue: 'Pending on Engineering Applications of Artificial Intelligence'
+venue: 'Submitted to Engineering Applications of Artificial Intelligence'
 paperurl: 'pending'
-citation: 'pending'
+citation: 'Submitted to Engineering Applications of Artificial Intelligence on July 2022'
 ---
 An in-depth study of ELEKTRA as a biometric system
 
