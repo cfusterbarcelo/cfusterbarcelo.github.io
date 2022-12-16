@@ -6,6 +6,7 @@ excerpt: 'Biometric identification using ELEKTRokardiomatrix by Convolutional Ne
 date: 2021-04-01
 venue: 'Published at Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2022.07.059'
+featuredin: 'https://www.20minutos.es/salud/actualidad/5084580/'
 citation: 'Fuster-Barceló, Caterina, Pedro Peris-Lopez, and Carmen Camara. "ELEKTRA: ELEKTRokardiomatrix application to biometric identification with convolutional neural networks." Neurocomputing 506 (2022): 37-49.'
 ---
 ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks
