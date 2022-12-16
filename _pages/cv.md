@@ -47,7 +47,7 @@ Talks
 Dissertations
 ======
 * _Caterina Fuster-Barceló_
-  * __Biopotential Signals and their Applicability to Cybersecurity__
+  * __Biopotential Signals and their Applicability to Cybersecurity__, _cum laude_
   * Ph.D. Thesis Dissertation, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), Dec. 2022
   * Under the supervision of [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
 * _Caterina Fuster-Barceló_
