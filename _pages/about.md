@@ -21,6 +21,7 @@ My main interests are:
 
 ## Last news
 * _January 2023_: Starting at the [AI4LIFE Project](https://www.eu-openscreen.eu/projects/ai4life.html) with [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) as post-doctoral researcher. More details will be coming!
+* _Deccember 2022_: __NEW!__ _"Puedes identificar a un paciente inconsciente por su actividad cardíaca": la nueva tecnología biométrica para salvar vidas_ , new article on [20 minutos](https://www.20minutos.es/salud/actualidad/puedes-identificar-paciente-inconsciente-actividad-cardiaca-la-tecnologia-biometrica-que-puede-salvar-vidas-5084580/) about my thesis presentation by Jorge García. 
 * _13 December 2022_: __NEW!__ Obtained the PhD in Computer Science and Technology (_cum laude_) at [UC3M](https://www.uc3m.es/Home).
 * _November 2022_: Giving a talk to [IDOVEN](https://es.idoven.ai) in Gran Vía, Madrid the 23th of November. I will be presenting my thesis.
 * _November 2022_: Participated in Skype A Scientist with [Linzer Technikum](https://www.litec.ac.at) for last year students. Check the slides [here](https://cfusterbarcelo.github.io/files/SkypeAScientist-08-11.pdf)!
