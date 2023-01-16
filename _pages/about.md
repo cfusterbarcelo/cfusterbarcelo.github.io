@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Who I am
-I am a post-doctoral researcher inmersed in the [AI4LIFE Project](https://www.eu-openscreen.eu/projects/ai4life.html). I have a PhD in Computer Science and Technology obtained at Carlos III University of Madrid (UC3M), Spain under the supervision of [Dr. Pedro Peris](https://lightweightcryptography.com) and [Dr. Carmen Cámara](https://carmen-camara.com). I possess a B.Sc. in Telematics Engineering in the University of the Balearic Islands (UIB) and a M.Sc. in Cybersecurity for the UC3M. My area of expertise is Computer Vision.
+I am a post-doctoral researcher inmersed in the [AI4LIFE Project](https://www.eu-openscreen.eu/projects/ai4life.html) together with [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz). I have a PhD in Computer Science and Technology obtained at Carlos III University of Madrid (UC3M), Spain under the supervision of [Dr. Pedro Peris](https://lightweightcryptography.com) and [Dr. Carmen Cámara](https://carmen-camara.com). I possess a B.Sc. in Telematics Engineering in the University of the Balearic Islands (UIB) and a M.Sc. in Cybersecurity for the UC3M. My area of expertise is Computer Vision.
 In addition, I am also participating in [Skype A Scientist](https://www.skypeascientist.com) as I love to spread the knowledge I have as much as I can with projects such as Skype A Scientist or presenting in any conference!
 
 ## Research
