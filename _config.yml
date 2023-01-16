@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caterina Fuster-Barceló"
+title                    : "Dra. Caterina Fuster-Barceló"
 title_separator          : "-"
 name                     : &name "Caterina Fuster-Barceló"
-description              : &description "Ph.D. Candidate in Deep Learning applied to Biometrics"
+description              : &description "Post-Doctoral Researcher"
 url                      : https://cfusterbarcelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfusterbarcelo/cfusterbarcelo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Caterina Fuster-Barceló"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Deep Learning applied to Biometrics"
+  bio              : "Post-Doctoral Researcher"
   location         : "Madrid, Spain"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "caterinafusterb"
-  orcid            : 
+  orcid            : "0000-0002-4784-6957"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
