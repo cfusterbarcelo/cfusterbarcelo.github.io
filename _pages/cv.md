@@ -21,11 +21,13 @@ Professional History
   * __Company__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
   * __Field__: Computer Vision and Deep Learning in medicine
   * __Supervisor__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
+  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu)
 
 * __PhD Candidate__: _Sept 2020 - Dec 2022_
   * __Company__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
   * __Field__: Deep Learning applied to Biometrics
-  * __Supervisors__:  [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106) under [CYNAMON-CM Project](https://www.tic.itefi.csic.es/CYNAMON/)
+  * __Supervisors__:  [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106) 
+  * __Project__: [CYNAMON-CM](https://www.tic.itefi.csic.es/CYNAMON/)
 
 * __Research Assistant__: _October 2019 - Dec 2022_
   * __Company__: Universidad Carlos III de Madrid, [COSEC Laboratory](https://cosec.inf.uc3m.es)
