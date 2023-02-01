@@ -80,6 +80,7 @@ Certifications
 * English Level C1 (MECR)
 * French Level A2
 * Machine Learning with Python (edX)
+* Deep Learning ([UC3M](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2))
 
 Core Competences
 ======
