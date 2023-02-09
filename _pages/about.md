@@ -32,7 +32,7 @@ My main interests are:
 
 Short Bio
 ------
-* PhD in Computer Science and Technology (_cum laude_) at [UC3M](https://www.uc3m.es/), Madrid, Spain.(https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Organismo_C/1371210365431/1371211778776/COSEC_(COmputer_SECurity_Lab)), UC3M, Madrid, Spain.
+* PhD in Computer Science and Technology (_cum laude_) at [UC3M](https://www.uc3m.es/), Madrid, Spain.
 * MSc in Cibersecurity at [UC3M](https://www.uc3m.es/), Madrid, Spain.
 * Telematics Engineer at [AirEuropa](https://www.aireuropa.com/es/es/home), Mallorca, Spain.
 * BSc in Telematics Engineering at [UIB](https://www.uib.cat), Mallorca, Spain.
