@@ -68,16 +68,13 @@ Conferences Attendance
 
 Dissertations
 ======
-* _Caterina Fuster-Barceló_
-  * __Biopotential Signals and their Applicability to Cybersecurity__, _cum laude_
+* __Biopotential Signals and their Applicability to Cybersecurity__, _cum laude_
   * Ph.D. Thesis Dissertation, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), Dec. 2022
   * Under the supervision of [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
-* _Caterina Fuster-Barceló_
-  * __A Novel Biometrics Technique based on Electrocardiomatrix__
+* __A Novel Biometrics Technique based on Electrocardiomatrix__
   * M.Sc. Thesis Dissertation, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020, July. 2020
   * Under the supervision of [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
-* _Caterina Fuster-Barceló_
-  * __Event Management and Safety Information__
+* __Event Management and Safety Information__
   * B.Sc. Thesis Dissertation, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), July 2019
   * Under the supervision of [Dra. María Francisca Hinarejos Campos](https://www.uib.es/es/personal/ABjExMDM1Nw/)
 
