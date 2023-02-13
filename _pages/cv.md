@@ -51,6 +51,21 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Trainings and Hackathons
+======
+* __Milan Hackathon__:
+  * __When:__ 05/02/2023-10/02/2023
+  * __Where:__ [Human Technopole](https://humantechnopole.it/en/)
+  * __What:__ Deep Learning in Java 
+  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+
+Conferences Attendance
+======
+* [PyConES 2022](https://2022.es.pycon.org), Granada, _Sept-Oct 2022_ 
+* [VII Jornadas Nacionales de Investigación en Ciberseguridad](https://2022.jnic.es), Bilbao, _June 2022_
+* [Women Techmakers](http://wtmgdgmadrid.github.io/#program), Madrid, _April 2022_
+* [VIII Jornades TIC Salut i Social, Tecnologia i humanisme: Teràpies digitals](https://ticsalutsocial.cat/event/8es-jornades-rdi-tic-salut-social/), Vic, _Sept 2018_
+
 Dissertations
 ======
 * _Caterina Fuster-Barceló_
@@ -65,13 +80,6 @@ Dissertations
   * __Event Management and Safety Information__
   * B.Sc. Thesis Dissertation, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), July 2019
   * Under the supervision of [Dra. María Francisca Hinarejos Campos](https://www.uib.es/es/personal/ABjExMDM1Nw/)
-
-Conferences Attendance
-======
-* [PyConES 2022](https://2022.es.pycon.org), Granada, _Sept-Oct 2022_ 
-* [VII Jornadas Nacionales de Investigación en Ciberseguridad](https://2022.jnic.es), Bilbao, _June 2022_
-* [Women Techmakers](http://wtmgdgmadrid.github.io/#program), Madrid, _April 2022_
-* [VIII Jornades TIC Salut i Social, Tecnologia i humanisme: Teràpies digitals](https://ticsalutsocial.cat/event/8es-jornades-rdi-tic-salut-social/), Vic, _Sept 2018_
 
 Certifications
 ======
