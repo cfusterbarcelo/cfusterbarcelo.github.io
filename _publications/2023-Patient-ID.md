@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-Patient-ID.md
 excerpt: 'Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals'
 date: 14/02/2023
-venue: 'Submitted to Journal of Biomedical and Health Informatics (JBHI) on February 2023'
+venue: 'Submitted to Journal of Biomedical and Health Informatics (JBHI)'
 paperurl: 'https://arxiv.org/abs/2302.06529'
 citation: 'Fuster-Barceló, Caterina, Carmen Camara, and Pedro Peris-Lopez. "Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals" Arxiv 2023'
 ---
