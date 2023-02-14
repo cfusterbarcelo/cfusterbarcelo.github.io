@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Who I am
-As a highly accomplished post-doctoral researcher, I am proud to be part of [AI4Life](https://www.eu-openscreen.eu/projects/ai4life.html), an ambitious project under the Horizon Europe Work Program that unites 10 leading partners from 8 countries in a comprehensive 3-year, 4 million EUR effort. Working closely with my supervisor, [Dr. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), I have made tremendous strides in the field of AI.
+As an accomplished post-doctoral researcher, I am proud to be part of [AI4Life](https://www.eu-openscreen.eu/projects/ai4life.html), an ambitious project under the Horizon Europe Work Program that unites 10 leading partners from 8 countries in a comprehensive 3-year, 4 million EUR effort. Working closely with my supervisor, [Dr. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), who has made big strides in the field of AI and Microscopy.
 
 I recently defended my PhD in Computer Science and Technology, earned at the prestigious Carlos III University of Madrid (UC3M) under the guidance of [Dr. Pedro Peris](https://lightweightcryptography.com) and [Dr. Carmen Cámara](https://carmen-camara.com). With a strong academic foundation, including a B.Sc. in Telematics Engineering from the University of the Balearic Islands (UIB) and a M.Sc. in Cybersecurity from UC3M, I am well-equipped to tackle the challenges of AI.
 
@@ -27,7 +27,7 @@ My main interests are:
 ## Last news
 * _February 2023_: New Article in the AI4life website: [CELEBRATING THE INTERNATIONAL DAY OF WOMEN AND GIRLS IN SCIENCE](https://ai4life.eurobioimaging.eu/feb-2023-celebrating-the-international-day-of-women-and-girls-in-science/). Check who are these amazing women!
 * _February 2023_: NEW! Assisted and participated to a Milan Hackathon for Deep Learning in java for 5 days at the [Human Technopole](https://humantechnopole.it/en/). 
-* _January 2023_: Just sent "Unleashing the power of ECG: A novel approach for Patient Identification inHealthcare Systems with ECG Signals" to [JBHI](https://www.embs.org/jbhi/). I'll be sharing a preprint very soon!
+* _January 2023_: Just sent "Unleashing the power of ECG: A novel approach for Patient Identification inHealthcare Systems with ECG Signals" to [JBHI](https://www.embs.org/jbhi/). Now available in [Arxiv](https://arxiv.org/abs/2302.06529).
 * _January 2023_: Starting at the [AI4Life European Project](https://www.eu-openscreen.eu/projects/ai4life.html) with [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) as post-doctoral researcher. 
 * _Deccember 2022_: _"Puedes identificar a un paciente inconsciente por su actividad cardíaca": la nueva tecnología biométrica para salvar vidas_ , new article on [20 minutos](https://www.20minutos.es/salud/actualidad/puedes-identificar-paciente-inconsciente-actividad-cardiaca-la-tecnologia-biometrica-que-puede-salvar-vidas-5084580/) about my thesis presentation by Jorge García. 
 * _13 December 2022_:  Obtained the PhD in Computer Science and Technology (_cum laude_) at [UC3M](https://www.uc3m.es/Home).
