@@ -19,8 +19,8 @@ Professional History
 ======
 * __Post-doctoral researcher__: _Jan 2023 - present_
   * __Company__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
-  * __Field__: Computer Vision and Deep Learning in medicine
-  * __Supervisor__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
+  * __Field__: Bioimage analysis
+  * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
   * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu)
 
 * __PhD Candidate__: _Sept 2020 - Dec 2022_
@@ -53,10 +53,15 @@ Talks
 
 Trainings and Hackathons
 ======
+* __Microscopy and Applications Course__:
+  * __What:__ Computational Microscopy, Fluorescence Microscopy, Superresolution, High Content Screening and others. [Program](http://visilab.etsii.uclm.es/?page_id=2660).
+  * __When:__ 19/04/2023-21/04/2023
+  * __Where:__ [CSIC](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones)
+
 * __Milan Hackathon__:
+  * __What:__ Deep Learning in Java 
   * __When:__ 05/02/2023-10/02/2023
   * __Where:__ [Human Technopole](https://humantechnopole.it/en/)
-  * __What:__ Deep Learning in Java 
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
 
 Conferences Attendance
@@ -80,6 +85,7 @@ Dissertations
 
 Certifications
 ======
+* [Microscopy and Application Course](files\Curso-microscopia-csic.pdf) - CSIC
 * Autopsy Software for Forensic Analysis
 * Ethical Hacking
 * English Level C1 (MECR)
