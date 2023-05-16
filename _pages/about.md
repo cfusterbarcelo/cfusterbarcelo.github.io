@@ -9,11 +9,19 @@ redirect_from:
 ---
 
 ## Who I am
-As an accomplished post-doctoral researcher, I am proud to be part of [AI4Life](https://www.eu-openscreen.eu/projects/ai4life.html), an ambitious project under the Horizon Europe Work Program that unites 10 leading partners from 8 countries in a comprehensive 3-year, 4 million EUR effort. Working closely with my supervisor, [Dr. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), who has made big strides in the field of AI and Microscopy.
+Hello, I'm Caterina!
 
-I recently defended my PhD in Computer Science and Technology, earned at the prestigious Carlos III University of Madrid (UC3M) under the guidance of [Dr. Pedro Peris](https://lightweightcryptography.com) and [Dr. Carmen Cámara](https://carmen-camara.com). With a strong academic foundation, including a B.Sc. in Telematics Engineering from the University of the Balearic Islands (UIB) and a M.Sc. in Cybersecurity from UC3M, I am well-equipped to tackle the challenges of AI.
+I am a Post-doctoral researcher at the Universidad Carlos III de Madrid (UC3M) in the [BSEL](https://www.uc3m.es/ss/Satellite/GruposInvestigacion/es/Detalle/Organismo_C/1371353731440/1371325143833/BSEL_-_Laboratorio_de_Ciencia_e_Ingenieria_Biomedica) group. I work closely with my supervisor, Dra. Arrate Muñoz Barrutia, exploring the exciting field of biomedical science and engineering.
 
-In addition to my research, I am passionate about sharing my knowledge and expertise with a diverse range of communities, which is why I participate in [Skype A Scientist](https://www.skypeascientist.com) and have presented my groundbreaking thesis at numerous conferences to audiences from various backgrounds. To learn more about my work and achievements, please visit my Talks and CV Section.
+Currently, I am actively involved in the [AI4Life project](https://ai4life.eurobioimaging.eu), a groundbreaking initiative supported by the Horizon Europe Work Program. This ambitious project brings together 10 leading partners from 8 countries, with a dedicated 3-year, 4 million EUR investment. Through this project, we aim to advance the frontiers of artificial intelligence in the realm of life sciences.
+
+In addition to my work on AI4Life, I am also passionate about various projects in the field of bioimage analysis. I specialize in areas such as microscopy, histopathology, and magnetic resonances.
+
+Last year, I successfully defended my PhD thesis, receiving a cum laude mention. My research focused on the intersection of cybersecurity and biometrics. Specifically, I explored the identification of individuals using their own Electrocardiogram signals transformed into images.
+
+Through my website, I aim to share my expertise, experiences, and discoveries with the broader scientific community. Join me on this exciting journey as we explore the frontiers of biomedical research.
+
+Feel free to reach out, collaborate, or explore more about my work and interests.
 
 
 ## Research
