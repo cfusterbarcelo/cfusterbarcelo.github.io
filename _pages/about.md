@@ -33,13 +33,12 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _May 2023_: Short seminar of GitHub Copilot to my collegues from the Department! Details available [here](https://cfusterbarcelo.github.io/talks/GitHubCopilot).
 * _May 2023_: Check this [article on AI4Life](https://ai4life.eurobioimaging.eu/the-bioimage-model-zoo-is-a-partner-in-image-sc/) on how the [Bioimage Model Zoo](https://bioimage.io/#/) has joined the [image.sc](https://forum.image.sc) forum as a new Community Partner!
 * _April 2023_: Attended to the [VI Course of Microscopy and Applications](http://visilab.etsii.uclm.es/?page_id=2660) given by the CSIC. 
 * _February 2023_: New Article in the AI4life website: [CELEBRATING THE INTERNATIONAL DAY OF WOMEN AND GIRLS IN SCIENCE](https://ai4life.eurobioimaging.eu/feb-2023-celebrating-the-international-day-of-women-and-girls-in-science/). Check who are these amazing women!
 * _February 2023_: NEW! Assisted and participated to a Milan Hackathon for Deep Learning in java for 5 days at the [Human Technopole](https://humantechnopole.it/en/). 
-* _January 2023_: Just sent "Unleashing the power of ECG: A novel approach for Patient Identification inHealthcare Systems with ECG Signals" to [JBHI](https://www.embs.org/jbhi/). Now available in [Arxiv](https://arxiv.org/abs/2302.06529).
 * _January 2023_: Starting at the [AI4Life European Project](https://www.eu-openscreen.eu/projects/ai4life.html) with [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) as post-doctoral researcher. 
-
 
 
 Short Bio
