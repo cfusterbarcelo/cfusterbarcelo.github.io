@@ -33,7 +33,9 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _June 2023_: Talk to students from [Unidreams](https://unidreams.es) about my professional career. Slides available [here](https://cfusterbarcelo.github.io/talks/Unidreams).
 * _May 2023_: Short seminar of GitHub Copilot to my collegues from the Department! Details available [here](https://cfusterbarcelo.github.io/talks/GitHubCopilot).
+* _May 2023_: Attended the EMBL Microscopy Course. 
 * _May 2023_: Check this [article on AI4Life](https://ai4life.eurobioimaging.eu/the-bioimage-model-zoo-is-a-partner-in-image-sc/) on how the [Bioimage Model Zoo](https://bioimage.io/#/) has joined the [image.sc](https://forum.image.sc) forum as a new Community Partner!
 * _April 2023_: Attended to the [VI Course of Microscopy and Applications](http://visilab.etsii.uclm.es/?page_id=2660) given by the CSIC. 
 * _February 2023_: New Article in the AI4life website: [CELEBRATING THE INTERNATIONAL DAY OF WOMEN AND GIRLS IN SCIENCE](https://ai4life.eurobioimaging.eu/feb-2023-celebrating-the-international-day-of-women-and-girls-in-science/). Check who are these amazing women!
