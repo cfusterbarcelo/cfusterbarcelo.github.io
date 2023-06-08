@@ -54,7 +54,7 @@ Talks
 Trainings and Hackathons
 ======
 * __Cloud Based and AI Hackathon__:
-  * __What:__ (Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis)[https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/]
+  * __What:__ [Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/)
   * __When:__ 05/06/2023-09/06/2023
   * __Where:__ [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
