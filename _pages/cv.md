@@ -18,24 +18,24 @@ Academic Background
 Professional History
 ======
 * __Post-doctoral researcher__: _Jan 2023 - present_
-  * __Company__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
+  * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
   * __Field__: Bioimage analysis
   * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
-  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu)
+  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
 
 * __PhD Candidate__: _Sept 2020 - Dec 2022_
-  * __Company__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
+  * __Where__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
   * __Field__: Deep Learning applied to Biometrics
   * __Supervisors__:  [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106) 
   * __Project__: [CYNAMON-CM](https://www.tic.itefi.csic.es/CYNAMON/)
 
 * __Research Assistant__: _October 2019 - Dec 2022_
-  * __Company__: Universidad Carlos III de Madrid, [COSEC Laboratory](https://cosec.inf.uc3m.es)
+  * __Where__: Universidad Carlos III de Madrid, [COSEC Laboratory](https://cosec.inf.uc3m.es)
   * __Field__: Cibersecurity  
   * __Supervisors__: [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
 
 * __Security and DevOps Systems Technician__: _June 2019 - September 2019_
-  * __Company__: [Air Europa, S.L.](https://www.aireuropa.com)
+  * __Where__: [Air Europa, S.L.](https://www.aireuropa.com)
   * __Field__: Server and infraestructure mantainance and cibersecurity management
   * __Supervisor__: [Bernat Mut González](https://es.linkedin.com/in/bernatmut)
 
@@ -53,15 +53,28 @@ Talks
 
 Trainings and Hackathons
 ======
+* __Cloud Based and AI Hackathon__:
+  * __What:__ (Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis)[https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/]
+  * __When:__ 05/06/2023-09/06/2023
+  * __Where:__ [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden
+  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+
+* __Microscopy data analysis Course__:
+  * __What:__ [EMBL Course on Microscopy data analysis: machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/)
+  * __When:__ 22/05/2023-26/06/2023
+  * __Where:__ [EMBL-EBI Training](https://www.ebi.ac.uk/training/)
+  * __Certificate:__ [here](https://cfusterbarcelo.github.io/files/EMBL-Microscopy-Course.pdf)
+
 * __Microscopy and Applications Course__:
   * __What:__ Computational Microscopy, Fluorescence Microscopy, Superresolution, High Content Screening and others. [Program](http://visilab.etsii.uclm.es/?page_id=2660).
   * __When:__ 19/04/2023-21/04/2023
   * __Where:__ [CSIC](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones)
+  * __Certificate:__ [here](https://cfusterbarcelo.github.io/files/Curso-microscopia-csic.pdf) 
 
-* __Milan Hackathon__:
-  * __What:__ Deep Learning in Java 
+* __Accessibility of DL models from Java Hackathon__:
+  * __Summary:__ [Deep Learning in Java - AI4Life](https://ai4life.eurobioimaging.eu/hackathon-deep-learning-in-java/)
   * __When:__ 05/02/2023-10/02/2023
-  * __Where:__ [Human Technopole](https://humantechnopole.it/en/)
+  * __Where:__ [Human Technopole](https://humantechnopole.it/en/), Milan, Italy
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
 
 Conferences Attendance
@@ -85,7 +98,8 @@ Dissertations
 
 Certifications
 ======
-* [Microscopy and Application Course](files\Curso-microscopia-csic.pdf) - CSIC
+* [Microscopy data analysis: machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/) - EMBL
+* [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones) - CSIC
 * Autopsy Software for Forensic Analysis
 * Ethical Hacking
 * English Level C1 (MECR)
@@ -93,15 +107,6 @@ Certifications
 * Machine Learning with Python (edX)
 * Deep Learning ([UC3M](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2))
 
-Core Competences
-======
-* Python, C/C++, Java, Matlab
-* Deep Learning, Computer Vision
-* Python Libraries for DL (NumPy, Scikit-learn, Tensorflow, Keras, Pandas...)
-* Bash Scripting
-* Git
-* Latex
-* Communication Protocols
 
 Others
 ======

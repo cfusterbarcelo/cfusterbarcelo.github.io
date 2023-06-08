@@ -33,15 +33,13 @@ My main interests are:
 - Coffee with soy milk
 
 ## Last news
+* _June 2023_: Attended the [Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/) in the [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden.
+* _June 2023_: Paper sent to [IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (IEEE BSN 2023)](https://bsn.embs.org/2023/).
 * _June 2023_: Talk to students from [Unidreams](https://unidreams.es) about my professional career. Slides available [here](https://cfusterbarcelo.github.io/talks/Unidreams).
 * _May 2023_: Short seminar of GitHub Copilot to my collegues from the Department! Details available [here](https://cfusterbarcelo.github.io/talks/GitHubCopilot).
-* _May 2023_: Attended the EMBL Microscopy Course. 
+* _May 2023_: Attended to the [EMBL Course on Machine Learning for Image Analysis](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/) given by the EMBL. Certificate available [here](https://cfusterbarcelo.github.io/files/EMBL-Microscopy-Course.pdf). 
 * _May 2023_: Check this [article on AI4Life](https://ai4life.eurobioimaging.eu/the-bioimage-model-zoo-is-a-partner-in-image-sc/) on how the [Bioimage Model Zoo](https://bioimage.io/#/) has joined the [image.sc](https://forum.image.sc) forum as a new Community Partner!
 * _April 2023_: Attended to the [VI Course of Microscopy and Applications](http://visilab.etsii.uclm.es/?page_id=2660) given by the CSIC. 
-* _February 2023_: New Article in the AI4life website: [CELEBRATING THE INTERNATIONAL DAY OF WOMEN AND GIRLS IN SCIENCE](https://ai4life.eurobioimaging.eu/feb-2023-celebrating-the-international-day-of-women-and-girls-in-science/). Check who are these amazing women!
-* _February 2023_: NEW! Assisted and participated to a Milan Hackathon for Deep Learning in java for 5 days at the [Human Technopole](https://humantechnopole.it/en/). 
-* _January 2023_: Starting at the [AI4Life European Project](https://www.eu-openscreen.eu/projects/ai4life.html) with [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) as post-doctoral researcher. 
-
 
 Short Bio
 ------
