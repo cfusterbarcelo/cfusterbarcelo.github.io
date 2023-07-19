@@ -28,18 +28,19 @@ Feel free to reach out, collaborate, or explore more about my work and interests
 My main interests are:
 - Bioimage analysis
 - Deep Learning
-- Computer Vision
 - Bioengineering
-- Coffee with soy milk
+- Microscopy
+
 
 ## Last news
+* _July 2023_: We’ve just submitted a new paper titled Exploring the Power of PPG Matrix for Atrial Fibrillation Detection with Integrated Explainability to the Computer Methods and Programs in Biomedicine journal. The prepint will be available soon!
 * _June 2023_: Published an article in FocalPlane: [Outcomes of the Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://focalplane.biologists.com/2023/06/22/outcomes-of-the-hackathon-on-web-and-cloud-infrastructure-for-ai-powered-bioimage-analysis/).
 * _June 2023_: Attended the [Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/) in the [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden.
 * _June 2023_: Paper sent to [IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (IEEE BSN 2023)](https://bsn.embs.org/2023/).
 * _June 2023_: Talk to students from [Unidreams](https://unidreams.es) about my professional career. Slides available [here](https://cfusterbarcelo.github.io/talks/Unidreams).
 * _May 2023_: Short seminar of GitHub Copilot to my collegues from the Department! Details available [here](https://cfusterbarcelo.github.io/talks/GitHubCopilot).
-* _May 2023_: Attended to the [EMBL Course on Machine Learning for Image Analysis](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/) given by the EMBL. Certificate available [here](https://cfusterbarcelo.github.io/files/EMBL-Microscopy-Course.pdf). 
-* _May 2023_: Check this [article on AI4Life](https://ai4life.eurobioimaging.eu/the-bioimage-model-zoo-is-a-partner-in-image-sc/) on how the [Bioimage Model Zoo](https://bioimage.io/#/) has joined the [image.sc](https://forum.image.sc) forum as a new Community Partner!
+
+
 
 Short Bio
 ------
