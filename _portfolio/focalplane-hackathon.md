@@ -11,6 +11,6 @@ I am thrilled to share an article in FocalPlane that highlights the achievements
 
 To learn more about the outcomes and insights from this event, please check out the full article [here](https://focalplane.biologists.com/2023/06/22/outcomes-of-the-hackathon-on-web-and-cloud-infrastructure-for-ai-powered-bioimage-analysis/).
 
-This hackathon was funded by [AI4Life](ai4life.eurobioimaging.eu).
+This hackathon was funded by [AI4Life](https://ai4life.eurobioimaging.eu).
 
-![Stockholm Hackathon at SciLifeLab](../images/stockholm-hackathon.jpeg)
+![Stockholm Hackathon at SciLifeLab](https://github.com/cfusterbarcelo/cfusterbarcelo.github.io/edit/master/images/stockholm-hackathon.jpeg)
