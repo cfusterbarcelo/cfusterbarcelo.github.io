@@ -33,12 +33,14 @@ My main interests are:
 
 
 ## Last news
-* _July 2023_: We’ve just submitted a new paper titled Exploring the Power of PPG Matrix for Atrial Fibrillation Detection with Integrated Explainability to the Computer Methods and Programs in Biomedicine journal. The prepint will be available soon!
-* _June 2023_: Published an article in FocalPlane: [Outcomes of the Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://focalplane.biologists.com/2023/06/22/outcomes-of-the-hackathon-on-web-and-cloud-infrastructure-for-ai-powered-bioimage-analysis/).
+* _September 2023_: Embarking in a new adventure! Going for one month and one week to the [KTH Royal Institute of Technology](https://www.kth.se/en) to work with [Dr. Wei Ouyang](https://oeway.github.io) in the [AICell Lab](https://aicell.io) at the [SciLifeLab](https://www.scilifelab.se), Sweden. See you in Stockholm!
+* _August 2023_: Our paper titled titled: _Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection_ and sent to [IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (IEEE BSN 2023)](https://bsn.embs.org/2023/) has been accepted for Oral Presentation.
+* _July 2023_: We’ve just submitted a new paper titled _Exploring the Power of PPG Matrix for Atrial Fibrillation Detection with Integrated Explainability to the Computer Methods and Programs in Biomedicine journal. The prepint will be available soon!
+* _June 2023_: Published an article in FocalPlane: [Outcomes of the Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://focalplane.biologists.com/2023/06/22/)outcomes-of-the-hackathon-on-web-and-cloud-infrastructure-for-ai-powered-bioimage-analysis/).
 * _June 2023_: Attended the [Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/) in the [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden.
 * _June 2023_: Paper sent to [IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (IEEE BSN 2023)](https://bsn.embs.org/2023/).
 * _June 2023_: Talk to students from [Unidreams](https://unidreams.es) about my professional career. Slides available [here](https://cfusterbarcelo.github.io/talks/Unidreams).
-* _May 2023_: Short seminar of GitHub Copilot to my collegues from the Department! Details available [here](https://cfusterbarcelo.github.io/talks/GitHubCopilot).
+
 
 
 

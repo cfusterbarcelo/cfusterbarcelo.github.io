@@ -6,7 +6,7 @@ excerpt: 'Unleashing the Power of Electrocardiograms: A novel approach for Patie
 date: 03/07/2023
 venue: 'Submitted to IEEE Open Journal of Engineering in Medicine and Biology'
 paperurl: 'https://doi.org/10.48550/arXiv.2302.06529'
-citation: 'Fuster-Barceló, Caterina, Carmen Camara, and Pedro Peris-Lopez. "Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals" Arxiv 2023'
+citation: 'Caterina Fuster-Barceló, Carmen Camara, and Pedro Peris-Lopez. "Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals" Arxiv 2023'
 ---
 Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals
 
