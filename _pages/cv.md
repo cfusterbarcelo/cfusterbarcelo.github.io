@@ -21,13 +21,13 @@ Professional History
   * __Where__: [KTH](https://www.kth.se/en),  [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden.
   * __Field__: Bioimage analysis
   * __PI__: [Dr. Wei Ouyang](https://oeway.github.io)  
-  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
+  * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
 
 * __Post-doctoral Researcher__: _Jan 2023 - present_
   * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
   * __Field__: Bioimage analysis
   * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
-  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](deepimagej.github.io)
+  * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
 
 * __PhD Candidate__: _Sept 2020 - Dec 2022_
   * __Where__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
