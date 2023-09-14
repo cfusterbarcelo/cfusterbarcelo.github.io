@@ -17,11 +17,17 @@ Academic Background
 
 Professional History
 ======
-* __Post-doctoral researcher__: _Jan 2023 - present_
+* __Visiting Researcher__: _Sept 2023 - Oct 2023_
+  * __Where__: [KTH](https://www.kth.se/en),  [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden.
+  * __Field__: Bioimage analysis
+  * __PI__: [Dr. Wei Ouyang](https://oeway.github.io)  
+  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
+
+* __Post-doctoral Researcher__: _Jan 2023 - present_
   * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
   * __Field__: Bioimage analysis
   * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
-  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
+  * __Project__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](deepimagej.github.io)
 
 * __PhD Candidate__: _Sept 2020 - Dec 2022_
   * __Where__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
@@ -30,7 +36,7 @@ Professional History
   * __Project__: [CYNAMON-CM](https://www.tic.itefi.csic.es/CYNAMON/)
 
 * __Research Assistant__: _October 2019 - Dec 2022_
-  * __Where__: Universidad Carlos III de Madrid, [COSEC Laboratory](https://cosec.inf.uc3m.es)
+  * __Where__: [UC3M](https://www.uc3m.es/home), [COSEC Laboratory](https://cosec.inf.uc3m.es)
   * __Field__: Cibersecurity  
   * __Supervisors__: [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
 
@@ -112,6 +118,10 @@ Others
 ======
 * Finalist for the [Thesis Talks 2021](https://www.uc3m.es/doctorado/thesis-talk-2021), video available [here](https://media.uc3m.es/video/60d2df8c8f4208a50b8b456d?track_id=60d2e01c8f4208f50b8b4567), _2021_
 * Collaborator student maintaining a the University webpage for online courses, _2018_
+* Trainee at [Fundació Bit](https://www.fundaciobit.org/es/inicio/), Parc Bit, _May to September 2018_
+* Waitress at Restaurant Es Port, Portocolom, _2017_
 * Volunteer instructor at the Science Fair at the [UIB](https://seras.uib.cat/ciencia/2016/) , _2016 and 2017_
 * Linear Algebra and Discrete Mathematics with honours in the B.Sc. in Telemmatics Engineering, _2016_
 * Award-winning for the short-story contest in Setmanari Felanitx, _2016_
+* Waitress at [Sa Cova Dets Ases](https://goo.gl/maps/RrAiCwAej4EKAkbh8), Portocolom, _2015 and 2016_
+
