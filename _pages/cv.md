@@ -51,7 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Workshops and Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -59,6 +59,12 @@ Talks
 
 Trainings and Hackathons
 ======
+* __AI4Life Hackathon and Solvathon__:
+  * __What:__ [Hackathon and Solvathon of AI4Life](https://ai4life.eurobioimaging.eu/event/ai4life-hackathon-solvathon/)
+  * __When:__ 09/10/2023-13/10/2023
+  * __Where:__ [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/), Germany
+  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+
 * __Cloud Based and AI Hackathon__:
   * __What:__ [Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/)
   * __When:__ 05/06/2023-09/06/2023
