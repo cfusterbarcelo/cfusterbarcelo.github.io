@@ -59,9 +59,7 @@ Talks
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-teaching-cv.html %}
-  {% endfor %}</ul>
+
 
 Trainings and Hackathons
 ======

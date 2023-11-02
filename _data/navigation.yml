@@ -2,13 +2,10 @@
 main:
   - title: "CV"
     url: /cv/
-
+    
   - title: "Publications"
     url: /publications/
     
-# - title: "Guide"
-#   url: /markdown/
-
   - title: "Teaching"
     url: /teaching/
 
@@ -23,3 +20,6 @@ main:
 
 # - title: "C4tchen"
 #   url: /year-archive/
+
+# - title: "Guide"
+#   url: /markdown/
