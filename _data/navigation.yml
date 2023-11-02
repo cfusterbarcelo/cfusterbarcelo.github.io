@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Portfolio"
-    url: /portfolio/
-       
   - title: "CV"
     url: /cv/
-    
-  - title: "C4tchen"
-    url: /c4tchen/
+
+  - title: "Publications"
+    url: /publications/
     
 # - title: "Guide"
 #   url: /markdown/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Talks"
     url: /talks/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
 
- - title: "Teaching"
-   url: /teaching/  
+  - title: "C4tchen"
+    url: /c4tchen/ 
 
 # - title: "C4tchen"
 #   url: /year-archive/
