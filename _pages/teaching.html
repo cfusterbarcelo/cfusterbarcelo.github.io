@@ -83,7 +83,7 @@ function toggleSection(sectionId) {
 <h2 class="section-toggle" onclick="toggleSection('workshop')">Corporate Training <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
 <div id="workshop" class="section-content">
   {% for post in site.teaching %}
-    {% if post.type == "Worskhops" %}
+    {% if post.type == "Worskhop" %}
       {% include archive-single.html %}
     {% endif %}
   {% endfor %}
