@@ -18,8 +18,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/  
+ - title: "Teaching"
+   url: /teaching/  
 
 # - title: "C4tchen"
 #   url: /year-archive/
