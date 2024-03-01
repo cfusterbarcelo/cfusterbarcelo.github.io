@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/2023-CASEIB
 excerpt: 'Estudio sobre la proporción de hidrops endolinfático en pacientes con la enfermedad de Mèniére con técnicas de Deep Learning.'
 date: 2023-11-23
-venue: 'CASEIB 2023'
+venue: 'CASEIB'
 paperurl: ''
-featuredin: ''
 citation: 'G.R. Delicado-Correa, C. Fuster-Barceló, V.M. Suárez-Vega, N. Pérez-Fernández, G. Bastarrika, A. Muñoz-Barrutia "Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Mèniére" CASEIB (2023).'
 ---
 Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Mèniére
