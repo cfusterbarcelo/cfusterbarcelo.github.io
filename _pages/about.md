@@ -32,8 +32,8 @@ My main interests are:
 
 
 ## Last news
-*_March 2024_*: Presenting our precious [BioImage.IO Chatbot](https://arxiv.org/abs/2310.18351) at the [Virtual Pub of Euro-Bioimaging](https://www.eurobioimaging.eu/about-us/virtual-pub) as part of the AI4Life Project.
-*_February 2024_*: Attending and presenting at the Workshop for [Effectively Communicating Bioimage Analysis](https://www.biologists.com/workshops/february-2024/) in East Sussex, UK organised by [The Company of Biologists](https://www.biologists.com) and [Focal Plane](https://focalplane.biologists.com).
+* _March 2024_*: Presenting our precious [BioImage.IO Chatbot](https://arxiv.org/abs/2310.18351) at the [Virtual Pub of Euro-Bioimaging](https://www.eurobioimaging.eu/about-us/virtual-pub) as part of the AI4Life Project.
+* _February 2024_*: Attending and presenting at the Workshop for [Effectively Communicating Bioimage Analysis](https://www.biologists.com/workshops/february-2024/) in East Sussex, UK organised by [The Company of Biologists](https://www.biologists.com) and [Focal Plane](https://focalplane.biologists.com).
 * _November 2023_: Meeting you at [CASEIB 2023](https://caseib.es/2023/) to present our paper called "Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Mèniére". See you in Cartagena, Murcia!
 * _October 2023_: BioImage.IO Chatbot is soon to be out! We have created this chatbot that will transform bioimage analysis as we know it! Check the preprint [here](https://doi.org/10.48550/arXiv.2310.18351). To know more about it, visit our [GitHub Page](https://github.com/bioimage-io/bioimageio-chatbot).
 * _October 2023_: Participated in the [I2K Conference](https://www.i2kconference.org/workshops) with a workshop on [BAND](https://band.embl.de/#/eosc-landingpage), [deepImageJ](https://deepimagej.github.io) and the [BioImage Model Zoo](https://bioimage.io) titled _Leveraging Cloud-Based Virtual Desktops for Bioimage Analysis with BAND and DeepImageJ_ together with Yi Sun. Materials are available [here](https://github.com/deepimagej/Workshop-materials/blob/main/I2K2023.md).

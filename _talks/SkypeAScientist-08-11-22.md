@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/SkypeAScientist-08-11
 venue: "SkypeAScientist"
 date: 2022-11-08
-location: "Linz, Austria"
+location: "Virtual"
 ---
 
 Thanks to the [Skype A Scientist Program](https://www.skypeascientist.com) I was connected to Gerda Resinger from the [Linzer Technikum](https://www.litec.ac.at/) Highschool to give last year students a talk.

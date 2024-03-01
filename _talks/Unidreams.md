@@ -5,7 +5,7 @@ type: "talk"
 permalink: /talks/Unidreams
 venue: "Unidreams"
 date: 2023-06-02
-location: "online"
+location: "Virtual"
 ---
 
 He tenido el placer de dar una pequeña charla en la semifinal de [Unidreams](https://unidreams.es) sobre mi trayectoria profesional. 
