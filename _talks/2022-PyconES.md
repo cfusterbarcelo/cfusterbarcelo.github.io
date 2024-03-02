@@ -2,7 +2,7 @@
 title: "Protegiendo el oro con tu corazón y un poco de Python"
 collection: talks
 type: "Talk"
-permalink: /talks/PyconES
+permalink: /talks/2022-PyconES
 venue: "PyconES"
 date: 2022-10-01
 location: "Granada, Andalucía"

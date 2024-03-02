@@ -1,6 +1,7 @@
 ---
 title: "BioImage.IO Chatbot: A Personalized Assistant for BioImage Analysis Augmented by Community Knowledge Base"
 collection: publications
+category: "Preprints"
 permalink: /publication/2023-ChatBot
 excerpt: 'BioImage.IO Chatbot: Transforming Bioimage Analysis'
 date: 2023-12-31

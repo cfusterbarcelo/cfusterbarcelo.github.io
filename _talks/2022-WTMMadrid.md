@@ -2,7 +2,7 @@
 title: "Protegiendo el oro con tu corazón"
 collection: talks
 type: "Talk"
-permalink: /talks/WTMMadrid
+permalink: /talks/2022-WTMMadrid
 venue: "Women Techmakers Madrid 2022"
 date: 2022-04-23
 location: "Puerta de Toledo, Madrid"

@@ -17,17 +17,23 @@ Academic Background
 
 Professional History
 ======
+* __Post-doctoral Researcher__: _Jan 2023 - present_
+  * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
+  * __Field__: Bioimage analysis
+  * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) 
+  * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
+
+* __Post-doctoral Researcher__: _Jan 2024 - present_
+  * __Where__: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/),  Biomedical Applications for Engineering
+  * __Field__: Artificial Intelligence in biomedical imaging
+  * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) and [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
+
+
 * __Visiting Researcher__: _Sept 2023 - Oct 2023_
   * __Where__: [KTH](https://www.kth.se/en),  [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden.
   * __Field__: Bioimage analysis
   * __PI__: [Dr. Wei Ouyang](https://oeway.github.io)  
   * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
-
-* __Post-doctoral Researcher__: _Jan 2023 - present_
-  * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
-  * __Field__: Bioimage analysis
-  * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
-  * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
 
 * __PhD Candidate__: _Sept 2020 - Dec 2022_
   * __Where__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
@@ -59,7 +65,25 @@ Talks
 
 Teaching
 ======
+<!-- Bachelor Theses -->
+<h3 class="section-toggle" onclick="toggleSection('bt-section')">Bachelor Theses <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h3>
+<div id="bt-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Bachelor Thesis" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
+<!-- Master Programs -->
+<h3 class="section-toggle" onclick="toggleSection('master-section')">Master Programs <span id="toggle-icon-master-section" class="toggle-icon">+</span></h3>
+<div id="master-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Master course" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 Trainings and Hackathons
 ======

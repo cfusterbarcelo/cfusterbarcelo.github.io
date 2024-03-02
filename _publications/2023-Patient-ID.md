@@ -1,6 +1,7 @@
 ---
 title: "Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals"
 collection: publications
+category: "Preprints"
 permalink: /publication/2023-Patient-ID
 excerpt: 'Unleashing the Power of Electrocardiograms: A novel approach for Patient Identification in Healthcare Systems with ECG Signals'
 date: 03/07/2023

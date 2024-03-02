@@ -1,6 +1,7 @@
 ---
 title: "ELEKTRA: ELEKTRokardiomatrix Application to biometric identification with Convolutional Neural Networks"
 collection: publications
+category: "Peer-review Journals"
 permalink: /publication/2022-ELEKTRA
 excerpt: 'Biometric identification using ELEKTRokardiomatrix by Convolutional Neural Networks'
 date: 2021-04-01

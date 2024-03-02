@@ -2,7 +2,7 @@
 title: "IDOVEN - Protegiendo el oro con tu corazón"
 collection: talks
 type: "Talk"
-permalink: /talks/idoven
+permalink: /talks/2022-IDOVEN
 venue: "Idoven"
 date: 2022-11-23
 location: "Gran Vía, Madrid"

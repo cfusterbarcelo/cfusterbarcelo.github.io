@@ -2,7 +2,7 @@
 title: "The BioImage.IO Chatbot"
 collection: talks
 type: "Talk"
-permalink: /talks/Virtual-Pub
+permalink: /talks/2024-Virtual-Pub
 venue: "Euro-Bioimaging Virtual Pub"
 date: 2024-03-01
 location: "Virtual"

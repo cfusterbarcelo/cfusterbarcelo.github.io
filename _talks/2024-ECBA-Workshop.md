@@ -2,7 +2,7 @@
 title: "Harnessing deep learning in bioimaging: the deepImageJ journey"
 collection: talks
 type: "Talk"
-permalink: /talks/ECBA-Workshop
+permalink: /talks/2024-ECBA-Workshop
 venue: "Effectively Communicating Bioimage Analysis Workshop"
 date: 2024-02-14
 location: "East Sussex, UK"

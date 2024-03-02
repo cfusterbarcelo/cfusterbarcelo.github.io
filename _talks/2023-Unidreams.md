@@ -2,7 +2,7 @@
 title: "¿Quién me lo habría dicho?"
 collection: talks
 type: "talk"
-permalink: /talks/Unidreams
+permalink: /talks/2023-Unidreams
 venue: "Unidreams"
 date: 2023-06-02
 location: "Virtual"

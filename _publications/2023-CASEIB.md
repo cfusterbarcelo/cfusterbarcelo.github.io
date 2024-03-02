@@ -1,6 +1,7 @@
 ---
 title: "Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Mèniére"
 collection: publications
+category: "Conference Proceedings"
 permalink: /publication/2023-CASEIB
 excerpt: 'Estudio sobre la proporción de hidrops endolinfático en pacientes con la enfermedad de Mèniére con técnicas de Deep Learning.'
 date: 2023-11-23

@@ -2,7 +2,7 @@
 title: "Skype A Scientist"
 collection: talks
 type: "Talk"
-permalink: /talks/SkypeAScientist-08-11
+permalink: /talks/2022-SkypeAScientist
 venue: "SkypeAScientist"
 date: 2022-11-08
 location: "Virtual"
