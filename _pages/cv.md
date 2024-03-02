@@ -87,6 +87,18 @@ Teaching
 
 Trainings and Hackathons
 ======
+* __deepImageJ and friends hackathon__:
+  * __What:__ Hackathon on deepImageJ and Fiji plugins
+  * __When:__ 15/01/2024-19/01/2024
+  * __Where:__ Universidad Carlos III de Madrid, Spain
+  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+
+* __Academic Teaching Excellence__:
+  * __What:__ [Teaching in English course](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido)
+  * __When:__ October to December 2023
+  * __Where:__ Virtual
+  * __Supported by:__ British Council
+
 * __AI4Life Hackathon and Solvathon__:
   * __What:__ [Hackathon and Solvathon of AI4Life](https://ai4life.eurobioimaging.eu/event/ai4life-hackathon-solvathon/)
   * __When:__ 09/10/2023-13/10/2023
