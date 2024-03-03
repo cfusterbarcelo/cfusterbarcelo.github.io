@@ -53,9 +53,20 @@ Professional History
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign categories_order = "Peer-review Journals,Preprints,Conference Proceedings,Conference Abstracts,Datasets,Misc" | split: "," %}
+
+{% for category in categories_order %}
+  {% assign publications_in_category = site.publications | where: "category", category %}
+
+  {% if publications_in_category.size > 0 %}
+<h2 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">+</span></h2>
+<div id="publications-{{ category | slugify }}" class="publications-section">
+      {% for post in publications_in_category %}
+        {% include archive-single.html %}
+      {% endfor %}
+</div>
+  {% endif %}
+{% endfor %}
   
 Talks
 ======
@@ -196,6 +207,13 @@ Others
     display: none; /* Hide the content by default */
   }
 
+.category-toggle {
+  cursor: pointer;
+}
+
+.toggle-icon {
+  margin-left: 5px;
+}
 
 </style>
 
@@ -237,4 +255,20 @@ function toggleSection(sectionId) {
     toggleIcon.innerHTML = "+";
   }
 }
+var categoryToggles = document.querySelectorAll('.category-toggle');
+categoryToggles.forEach(function(toggle) {
+  toggle.addEventListener('click', function() {
+    var publicationsSection = this.nextElementSibling;
+    var toggleIcon = this.querySelector('.toggle-icon');
+    
+    if (publicationsSection.style.display === 'none') {
+      publicationsSection.style.display = 'block';
+      toggleIcon.innerHTML = '-';
+    } else {
+      publicationsSection.style.display = 'none';
+      toggleIcon.innerHTML = '+';
+    }
+  });
+});
 </script>
+
