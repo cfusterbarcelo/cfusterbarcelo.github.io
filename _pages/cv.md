@@ -101,7 +101,7 @@ Talks
 
 Teaching
 ======
-<!-- Bachelor Theses -->
+<!-- Bachelor Thesis -->
 <h3 class="section-toggle" onclick="toggleSection('bt-section')">Bachelor Theses <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h3>
 <div id="bt-section" class="section-content">
   {% for post in site.teaching %}
@@ -123,6 +123,12 @@ Teaching
 
 Trainings and Hackathons
 ======
+* __BioImage Model Zoo Enhancements Hackathon__:
+  * __What:__ Working on the rework of the Bioimage.io documentation and other enhancements of the BioImage Model Zoo ([see here](https://ai4life.eurobioimaging.eu/hackathon-summary-bioimage-model-zoo-enhancements/))
+  * __When:__ 11/03/2024-15/03/2024
+  * __Where:__ [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/), Germany
+  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+
 * __deepImageJ and friends Hackathon__:
   * __What:__ Hackathon on deepImageJ and Fiji plugins
   * __When:__ 15/01/2024-19/01/2024
@@ -165,8 +171,9 @@ Trainings and Hackathons
   * __Where:__ [Human Technopole](https://humantechnopole.it/en/), Milan, Italy
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
 
-Conferences Attendance
-======
+Conferences and Workshops
+====== 
+* [Effectively Communicating Bioimage Analysis Workshop](https://www.biologists.com/workshops/february-2024/), East Sussex, UK, _Feb 2024_
 * [CASEIB 2023](https://caseib.es/2023/), Cartagena, _Nov 2023_
 * [PyConES 2022](https://2022.es.pycon.org), Granada, _Sept-Oct 2022_ 
 * [VII Jornadas Nacionales de Investigación en Ciberseguridad](https://2022.jnic.es), Bilbao, _June 2022_
