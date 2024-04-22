@@ -31,7 +31,6 @@ Professional History
   * __Field__: Artificial Intelligence in biomedical imaging
   * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) and [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
 
-
 * __Visiting Researcher__: _Sept 2023 - Oct 2023_
   * __Where__: [KTH](https://www.kth.se/en),  [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden.
   * __Field__: Bioimage analysis
@@ -121,8 +120,14 @@ Teaching
   {% endfor %}
 </div>
 
-Trainings and Hackathons
+Hackathons
 ======
+* __ImgLib2 and BigDataViewer Hackathon Prague__:
+  * __What:__ Working on [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ) and some exciting new projects related to ImagLib2. Visit the even webpage [here](https://www.ceitec.eu/imglib2-and-bigdataviewer-hackathon-prague/a4679).
+  * __When:__ 15/04/2024-23/04/2024
+  * __Where:__ Prague, Czech Republic
+  * __Supported by:__ [CEITEC](https://www.ceitec.eu) and [CZI](https://chanzuckerberg.com)
+
 * __BioImage Model Zoo Enhancements Hackathon__:
   * __What:__ Working on the rework of the Bioimage.io documentation and other enhancements of the BioImage Model Zoo ([see here](https://ai4life.eurobioimaging.eu/hackathon-summary-bioimage-model-zoo-enhancements/))
   * __When:__ 11/03/2024-15/03/2024
@@ -134,12 +139,6 @@ Trainings and Hackathons
   * __When:__ 15/01/2024-19/01/2024
   * __Where:__ Universidad Carlos III de Madrid, Spain
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
-
-* __Academic Teaching Excellence Course__:
-  * __What:__ [Teaching in English course](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido)
-  * __When:__ October to December 2023
-  * __Where:__ Virtual
-  * __Supported by:__ British Council
 
 * __AI4Life Hackathon and Solvathon__:
   * __What:__ [Hackathon and Solvathon of AI4Life](https://ai4life.eurobioimaging.eu/event/ai4life-hackathon-solvathon/)
@@ -153,23 +152,12 @@ Trainings and Hackathons
   * __Where:__ [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
 
-* __Microscopy data analysis Course__:
-  * __What:__ [EMBL Course on Microscopy data analysis: machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/)
-  * __When:__ 22/05/2023-26/06/2023
-  * __Where:__ [EMBL-EBI Training](https://www.ebi.ac.uk/training/)
-  * __Certificate:__ [here](https://cfusterbarcelo.github.io/files/EMBL-Microscopy-Course.pdf)
-
-* __Microscopy and Applications Course__:
-  * __What:__ Computational Microscopy, Fluorescence Microscopy, Superresolution, High Content Screening and others. [Program](http://visilab.etsii.uclm.es/?page_id=2660).
-  * __When:__ 19/04/2023-21/04/2023
-  * __Where:__ [CSIC](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones)
-  * __Certificate:__ [here](https://cfusterbarcelo.github.io/files/Curso-microscopia-csic.pdf) 
-
 * __Accessibility of DL models from Java Hackathon__:
   * __Summary:__ [Deep Learning in Java - AI4Life](https://ai4life.eurobioimaging.eu/hackathon-deep-learning-in-java/)
   * __When:__ 05/02/2023-10/02/2023
   * __Where:__ [Human Technopole](https://humantechnopole.it/en/), Milan, Italy
   * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+
 
 Conferences and Workshops
 ====== 
@@ -194,6 +182,7 @@ Dissertations
 
 Certifications
 ======
+* [Academic Teaching Excellence](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido) - British Council
 * [Microscopy data analysis: machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/) - EMBL
 * [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones) - CSIC
 * Autopsy Software for Forensic Analysis

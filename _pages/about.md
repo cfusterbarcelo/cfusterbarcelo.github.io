@@ -32,6 +32,8 @@ My main interests are:
 
 
 ## Last news
+* _April 2024_*: Presented the [BioImage.IO Chatbot](https://github.com/bioimage-io/bioimageio-chatbot) at the [ELIXIR](https://elixir-europe.org) monthly talks about Generative AI. 
+* _April 2024_*: Attending the [ImgLib2 and BigDataViewer Hackathon](https://www.ceitec.eu/imglib2-and-bigdataviewer-hackathon-prague/a4679) in Prague to work on some Img2Lib related projects.
 * _April 2024_*: The rebuttal of our paper on the BioImage.IO Chatbot has been sent to the reviewers. Check the new version of the preprint [here](https://doi.org/10.5281/zenodo.10032227). Fingers crossed!
 * _March 2024_*: Our paper "Exploring the Power of Ppg Matrix for Atrial Fibrillation Detection with Integrated Explainability" has been accepted at [Engineering Applications of Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.108325)!
 * _March 2024_*: Presenting our precious [BioImage.IO Chatbot](https://arxiv.org/abs/2310.18351) at the [Virtual Pub of Euro-Bioimaging](https://www.eurobioimaging.eu/about-us/virtual-pub) as part of the AI4Life Project.
