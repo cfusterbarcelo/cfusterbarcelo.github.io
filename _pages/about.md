@@ -32,13 +32,13 @@ My main interests are:
 
 
 ## Last news
+* _June 2024_*: Attending the [Zidas Summer School](https://2024.zidas.org) as a speaker and trainer in ETH Zurich, Switzerland. 
+* _June 2024_*: Hosting and organizing [AI4Life Workshop, Hackathon and Uploathon on Zero-Code Tools and BioImage Model Zoo Community Partners](https://ai4life.eurobioimaging.eu/ai4life-workshop-hackathon-uploathon-in-madrid-a-summary/) in Universidad Carlos III de Madrid. Read about it in [Focal Plane](https://focalplane.biologists.com/2024/06/25/ai4life-event-highlights-a-successful-fusion-of-workshops-hackathon-and-uploathon/).
 * _April 2024_*: Presented the [BioImage.IO Chatbot](https://github.com/bioimage-io/bioimageio-chatbot) at the [ELIXIR](https://elixir-europe.org) monthly talks about Generative AI. 
 * _April 2024_*: Attending the [ImgLib2 and BigDataViewer Hackathon](https://www.ceitec.eu/imglib2-and-bigdataviewer-hackathon-prague/a4679) in Prague to work on some Img2Lib related projects.
 * _April 2024_*: The rebuttal of our paper on the BioImage.IO Chatbot has been sent to the reviewers. Check the new version of the preprint [here](https://doi.org/10.5281/zenodo.10032227). Fingers crossed!
 * _March 2024_*: Our paper "Exploring the Power of Ppg Matrix for Atrial Fibrillation Detection with Integrated Explainability" has been accepted at [Engineering Applications of Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.108325)!
 * _March 2024_*: Presenting our precious [BioImage.IO Chatbot](https://arxiv.org/abs/2310.18351) at the [Virtual Pub of Euro-Bioimaging](https://www.eurobioimaging.eu/about-us/virtual-pub) as part of the AI4Life Project.
-* _March 2024_ *: Gone to [Heidelberg EMBL](https://www.embl.org/sites/heidelberg/) for one week to work on the [BioImage Model Zoo](bioimage.io). Check it [here](https://ai4life.eurobioimaging.eu/hackathon-summary-bioimage-model-zoo-enhancements/).
-* _February 2024_*: Attending and presenting at the Workshop for [Effectively Communicating Bioimage Analysis](https://www.biologists.com/workshops/february-2024/) in East Sussex, UK organised by [The Company of Biologists](https://www.biologists.com) and [Focal Plane](https://focalplane.biologists.com).
 
 
 Short Bio
