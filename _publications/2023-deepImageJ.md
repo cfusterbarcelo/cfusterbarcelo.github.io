@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ"
 collection: publications
-category: "Preprints"
+category: "Peer-review Journals"
 permalink: /publication/2023-deepImageJ
 excerpt: 'Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ'
 date: 2023-11-23
