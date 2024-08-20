@@ -13,4 +13,4 @@ To learn more about the outcomes and insights from this event, please check out 
 
 This hackathon was funded by [AI4Life](https://ai4life.eurobioimaging.eu).
 
-![alt text](../images/stockholm-hackathon.jpeg)
+![Stockholm Hackathon](..\images\stockholm-hackathon.jpeg)
