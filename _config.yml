@@ -249,12 +249,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _talks
+  # _hackathons
   - scope:
       path: ""
       type: hackathons
     values:
-      layout: single
+      layout: hackathons
       author_profile: true
       share: true
       
