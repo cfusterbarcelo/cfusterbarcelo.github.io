@@ -20,13 +20,13 @@ Academic Background
 
 Professional History
 ======
-* __Post-doctoral Researcher__: _Jan 2023 - present_
+* __Post-doctoral Researcher__: _Jan 2023 - Aug 2025_
   * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
   * __Field__: Bioimage analysis
   * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) 
   * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
 
-* __Post-doctoral Researcher__: _Jan 2024 - present_
+* __Post-doctoral Researcher__: _Jan 2024 - Aug 2025_
   * __Where__: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/),  Biomedical Applications for Engineering
   * __Field__: Artificial Intelligence in biomedical imaging
   * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) and [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
@@ -120,53 +120,60 @@ Teaching
   {% endfor %}
 </div>
 
-Hackathons
+<!-- Master Theses -->
+<h3 class="section-toggle" onclick="toggleSection('mt-section')">Master Theses <span id="toggle-icon-mt-section" class="toggle-icon">+</span></h3>
+<div id="mt-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Master Thesis" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Mentoring -->
+<h3 class="section-toggle" onclick="toggleSection('mentoring-section')">Mentoring <span id="toggle-icon-mentoring-section" class="toggle-icon">+</span></h3>
+<div id="mentoring-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Mentoring" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+Events
 ======
-* __ImgLib2 and BigDataViewer Hackathon Prague__:
-  * __What:__ Working on [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ) and some exciting new projects related to ImagLib2. Visit the even webpage [here](https://www.ceitec.eu/imglib2-and-bigdataviewer-hackathon-prague/a4679).
-  * __When:__ 15/04/2024-23/04/2024
-  * __Where:__ Prague, Czech Republic
-  * __Supported by:__ [CEITEC](https://www.ceitec.eu) and [CZI](https://chanzuckerberg.com)
+<!-- Hackathons -->
+<h3 class="section-toggle" onclick="toggleSection('hackathon-section')">Hackathons <span id="toggle-icon-hackathon-section" class="toggle-icon">+</span></h3>
+<div id="hackathon-section" class="section-content">
+  {% for post in site.events %}
+    {% if post.type == "Hackathon" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
-* __BioImage Model Zoo Enhancements Hackathon__:
-  * __What:__ Working on the rework of the Bioimage.io documentation and other enhancements of the BioImage Model Zoo ([see here](https://ai4life.eurobioimaging.eu/hackathon-summary-bioimage-model-zoo-enhancements/))
-  * __When:__ 11/03/2024-15/03/2024
-  * __Where:__ [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/), Germany
-  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+<!-- Workshops -->
+<h3 class="section-toggle" onclick="toggleSection('workshop-section')">Workshops <span id="toggle-icon-workshop-section" class="toggle-icon">+</span></h3>
+<div id="workshop-section" class="section-content">
+  {% for post in site.events %}
+    {% if post.type == "Workshop" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
-* __deepImageJ and friends Hackathon__:
-  * __What:__ Hackathon on deepImageJ and Fiji plugins
-  * __When:__ 15/01/2024-19/01/2024
-  * __Where:__ Universidad Carlos III de Madrid, Spain
-  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
-
-* __AI4Life Hackathon and Solvathon__:
-  * __What:__ [Hackathon and Solvathon of AI4Life](https://ai4life.eurobioimaging.eu/event/ai4life-hackathon-solvathon/)
-  * __When:__ 09/10/2023-13/10/2023
-  * __Where:__ [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/), Germany
-  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
-
-* __Cloud Based and AI Hackathon__:
-  * __What:__ [Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis](https://www.scilifelab.se/event/hackathon-on-cloud-based-and-ai-powered-bioimage-analysis/)
-  * __When:__ 05/06/2023-09/06/2023
-  * __Where:__ [SciLifeLab](https://www.scilifelab.se), Stockholm, Sweden
-  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
-
-* __Accessibility of DL models from Java Hackathon__:
-  * __Summary:__ [Deep Learning in Java - AI4Life](https://ai4life.eurobioimaging.eu/hackathon-deep-learning-in-java/)
-  * __When:__ 05/02/2023-10/02/2023
-  * __Where:__ [Human Technopole](https://humantechnopole.it/en/), Milan, Italy
-  * __Supported by:__ [AI4Life](https://ai4life.eurobioimaging.eu)
+<!-- Conferences -->
+<h3 class="section-toggle" onclick="toggleSection('conference-section')">Conferences <span id="toggle-icon-conference-section" class="toggle-icon">+</span></h3>
+<div id="conference-section" class="section-content">
+  {% for post in site.events %}
+    {% if post.type == "Conference" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 
-Conferences and Workshops
-====== 
-* [Effectively Communicating Bioimage Analysis Workshop](https://www.biologists.com/workshops/february-2024/), East Sussex, UK, _Feb 2024_
-* [CASEIB 2023](https://caseib.es/2023/), Cartagena, _Nov 2023_
-* [PyConES 2022](https://2022.es.pycon.org), Granada, _Sept-Oct 2022_ 
-* [VII Jornadas Nacionales de Investigación en Ciberseguridad](https://2022.jnic.es), Bilbao, _June 2022_
-* [Women Techmakers](http://wtmgdgmadrid.github.io/#program), Madrid, _April 2022_
-* [VIII Jornades TIC Salut i Social, Tecnologia i humanisme: Teràpies digitals](https://ticsalutsocial.cat/event/8es-jornades-rdi-tic-salut-social/), Vic, _Sept 2018_
 
 Dissertations
 ======

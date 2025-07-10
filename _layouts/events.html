@@ -1,0 +1,76 @@
+---
+layout: archive
+title: "Events"
+permalink: /events/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+.section-title {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 40px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 4px;
+}
+
+.event-entry {
+  margin-bottom: 20px;
+}
+
+.event-entry a {
+  font-size: 1.1em;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.event-entry .meta {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.event-entry .year-badge {
+  display: inline-block;
+  font-size: 0.85em;
+  background-color: #f2f2f2;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin-left: 10px;
+  color: #444;
+}
+</style>
+
+<!-- Conferences -->
+<h2 class="section-title">Conferences</h2>
+{% assign conf = site.events | where: "type", "Conference" | sort: "date" | reverse %}
+{% for post in conf %}
+  <div class="event-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}
+
+<!-- Workshops -->
+<h2 class="section-title">Workshops</h2>
+{% assign ws = site.events | where: "type", "Workshop" | sort: "date" | reverse %}
+{% for post in ws %}
+  <div class="event-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}
+
+<!-- Hackathons -->
+<h2 class="section-title">Hackathons</h2>
+{% assign hack = site.events | where: "type", "Hackathon" | sort: "date" | reverse %}
+{% for post in hack %}
+  <div class="event-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}

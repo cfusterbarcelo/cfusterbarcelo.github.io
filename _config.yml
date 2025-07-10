@@ -175,9 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -190,7 +187,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  hackathons:
+  events:
     output: true
     permalink: /:collection/:path/
 
@@ -249,14 +246,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _hackathons
+  # _events
   - scope:
       path: ""
-      type: hackathons
+      type: events
     values:
-      layout: hackathons
+      layout: event
       author_profile: true
       share: true
+
       
 # Sass/SCSS
 sass:
