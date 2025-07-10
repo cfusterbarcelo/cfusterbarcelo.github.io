@@ -1,22 +1,9 @@
 var addressPoints = [
-  [
-    "Madrid, Spain",
-    40.416831,
-    -3.704037
-  ],
-  [
-    "Granada, Spain",
-    37.196788,
-    -3.624517
-  ],
-  [
-    "East Sussex, UK",
-    50.893217,
-    0.055499
-  ],
-  [ 
-    "Zurich, Switzerland",
-    47.3768866,
-    8.541694
-  ]
+  ["Madrid, Spain", 40.4168, -3.7038],
+  ["Granada, Spain", 37.1765, -3.5979],
+  ["Toledo, Spain", 39.8628, -4.0273],
+  ["East Sussex, UK", 50.9316, 0.2106],
+  ["Zurich, Switzerland", 47.3769, 8.5417],
+  ["Lausanne, Switzerland", 46.5197, 6.6339],
+  ["Paris, France", 48.8566, 2.3522]
 ];
