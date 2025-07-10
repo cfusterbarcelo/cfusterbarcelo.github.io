@@ -77,9 +77,12 @@ author_profile: true
 
 <!-- Mentoring -->
 <h2 class="section-title">Mentoring</h2>
-<div class="teaching-entry">
-  <p>
-    I actively mentor students at various academic levels. I participate in UC3M's official **tutorship program** for bachelor's students, and in 2023 I supervised **two international students** for a 5-week intensive research project.  
-    More details coming soon.
-  </p>
-</div>
+{% assign mentoring = site.teaching | where: "type", "Mentoring" | sort: "date" | reverse %}
+{% for post in mentoring %}
+  <div class="teaching-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}
+
