@@ -7,84 +7,79 @@ author_profile: true
 
 {% include base_path %}
 
-<script>
-function toggleSection(sectionId) {
-  var sectionContent = document.getElementById(sectionId);
-  var toggleIcon = document.getElementById("toggle-icon-" + sectionId);
-  
-  if (sectionContent.style.display === "none") {
-    sectionContent.style.display = "block";
-    toggleIcon.innerHTML = "-";
-  } else {
-    sectionContent.style.display = "none";
-    toggleIcon.innerHTML = "+";
-  }
-}
-</script>
-
 <style>
-.section-toggle {
-  cursor: pointer;
-  margin-bottom: 5px;
+.section-title {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 40px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 4px;
 }
 
-.section-content {
-  display: none;
+.teaching-entry {
   margin-bottom: 20px;
 }
 
-.toggle-icon {
-  margin-left: 5px;
+.teaching-entry a {
+  font-size: 1.1em;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.teaching-entry .meta {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.teaching-entry .year-badge {
+  display: inline-block;
+  font-size: 0.85em;
+  background-color: #f2f2f2;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin-left: 10px;
+  color: #444;
 }
 </style>
 
-<!-- Undergraduate Courses -->
-<!-- <h2 class="section-toggle" onclick="toggleSection('undergraduate-section')">Undergraduate Courses <span id="toggle-icon-undergraduate-section" class="toggle-icon">+</span></h2>
-<div id="undergraduate-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Undergraduate course" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div> -->
-
 <!-- Bachelor Thesis -->
-<h2 class="section-toggle" onclick="toggleSection('bt-section')">Bachelor Thesis <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
-<div id="bt-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Bachelor Thesis" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-<!-- Master Programs -->
-<h2 class="section-toggle" onclick="toggleSection('master-section')">Master Programs <span id="toggle-icon-master-section" class="toggle-icon">+</span></h2>
-<div id="master-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Master course" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+<h2 class="section-title">Bachelor Theses</h2>
+{% assign bt = site.teaching | where: "type", "Bachelor Thesis" | sort: "date" | reverse %}
+{% for post in bt %}
+  <div class="teaching-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}
 
 <!-- Master Thesis -->
-<!-- <h2 class="section-toggle" onclick="toggleSection('mt-section')">Master Thesis <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
-<div id="mt-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Master Thesis" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div> -->
+<h2 class="section-title">Master Theses</h2>
+{% assign mt = site.teaching | where: "type", "Master Thesis" | sort: "date" | reverse %}
+{% for post in mt %}
+  <div class="teaching-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}
 
+<!-- Master Courses -->
+<h2 class="section-title">Courses in Master Programs</h2>
+{% assign mc = site.teaching | where: "type", "Master course" | sort: "date" | reverse %}
+{% for post in mc %}
+  <div class="teaching-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
+{% endfor %}
 
-<!-- Workshops -->
-<h2 class="section-toggle" onclick="toggleSection('workshop')">Corporate Training <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
-<div id="workshop" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Worskhop" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
+<!-- Mentoring -->
+<h2 class="section-title">Mentoring</h2>
+<div class="teaching-entry">
+  <p>
+    I actively mentor students at various academic levels. I participate in UC3M's official **tutorship program** for bachelor's students, and in 2023 I supervised **two international students** for a 5-week intensive research project.  
+    More details coming soon.
+  </p>
 </div>

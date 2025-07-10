@@ -7,15 +7,20 @@ venue: "Degree in Biomedical Engineering, Universidad Carlos III de Madrid"
 date: 2023-09-23
 location: "Madrid, Spain"
 ---
+
 ## Estimation of Endolymphatic Hydrops Ratios in Ménière’s Disease
 
-**Institution**: [Universidad Carlos III de Madrid](https://www.uc3m.es), Degree in Biomedical Engineering  
-**Co-Tutors**: Arrate Muñoz-Barrutia and Myself  
-**Mark**: 10/10  
+🎓 **Institution**: [Universidad Carlos III de Madrid](https://www.uc3m.es)  
+📚 **Program**: Degree in Biomedical Engineering  
+👥 **Co-Tutors**: Arrate Muñoz-Barrutia and myself  
+🏅 **Grade**: 10 / 10  
 
-This bachelor thesis, titled *"Estimation of Endolymphatic Hydrops Ratios in Ménière’s Disease,"* was a collaborative project between Universidad Carlos III de Madrid and Clínica Universidad de Navarra. The research focused on the development and validation of computational techniques for analyzing endolymphatic hydrops ratios in patients with Ménière’s disease.
+---
 
-### Highlights
-- **Poster Presentation**: This work was presented at the *XLI Congreso Anual de la Sociedad Española de Ingeniería Biomédica*. You can view the paper [here](https://repositorio.upct.es/server/api/core/bitstreams/ba63924d-9e64-447b-aadc-9faad5bbe0bf/content).
-- Collaboration with a leading clinical institution for practical validation.
-- Achieved top academic recognition with a perfect score.
+This bachelor thesis was a collaborative project between **Universidad Carlos III de Madrid** and **Clínica Universidad de Navarra**, focused on developing computational techniques to analyze **endolymphatic hydrops ratios** in patients with **Ménière’s disease**.
+
+### 🧪 Highlights
+- 📄 **Poster presented** at *XLI Congreso Anual de la Sociedad Española de Ingeniería Biomédica*  
+  [Access paper here](https://repositorio.upct.es/server/api/core/bitstreams/ba63924d-9e64-447b-aadc-9faad5bbe0bf/content)
+- 🤝 Collaboration with a top-tier clinical research team
+- 🏆 Recognized with a perfect academic score
