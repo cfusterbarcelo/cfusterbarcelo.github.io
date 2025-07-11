@@ -70,7 +70,7 @@ author_profile: true
           <div class="meta">Published in {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}</div>
         {% endif %}
         {% if post.excerpt %}
-          <div class="description">{{ post.excerpt | markdownify }}</div>
+          <div class="description">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</div>
         {% endif %}
       </div>
     {% endfor %}
