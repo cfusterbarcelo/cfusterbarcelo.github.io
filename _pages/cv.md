@@ -9,60 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-
 I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on AI4Life project, Bioimage Model Zoo, the BioImage.IO Chatbot, and deepImageJ. My Ph.D. in Computer Science and Technology kickstarted this journey, leading me into the fascinating realm of bioimage analysis. Through projects like deepImageJ and the Bioimage Model Zoo, I'm on the front lines of integrating artificial intelligence into biomedical imaging, making strides in how we analyze and interpret biological images. Whether it's developing a chatbot to streamline bioimage analysis or pushing the boundaries with AI4Life, my work is all about leveraging technology to unveil the microscopic mysteries of biology. It's not just about the tech; it's about opening new doors in healthcare and research, one pixel at a time.
 
-Academic Background
-======
-* Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), _13 Dec. 2022_
-* M.Sc. in Cibersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
-* B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
+## Academic Background
+- Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), _13 Dec. 2022_
+- M.Sc. in Cibersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
+- B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
 
-Professional History
-======
-* __Post-doctoral Researcher__: _Jan 2023 - Aug 2025_
-  * __Where__: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department),  Bioengineering Department
-  * __Field__: Bioimage analysis
-  * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) 
-  * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
+## Professional History
+- **Post-doctoral Researcher**: _Jan 2023 - Aug 2025_  
+  **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department  
+  **Field**: Bioimage analysis  
+  **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
+  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
 
-* __Post-doctoral Researcher__: _Jan 2024 - Aug 2025_
-  * __Where__: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/),  Biomedical Applications for Engineering
-  * __Field__: Artificial Intelligence in biomedical imaging
-  * __PI__: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz) and [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
+- **Post-doctoral Researcher**: _Jan 2024 - Aug 2025_  
+  **Where**: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/)  
+  **Field**: Artificial Intelligence in biomedical imaging  
+  **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
 
-* __Visiting Researcher__: _Sept 2023 - Oct 2023_
-  * __Where__: [KTH](https://www.kth.se/en),  [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden.
-  * __Field__: Bioimage analysis
-  * __PI__: [Dr. Wei Ouyang](https://oeway.github.io)  
-  * __Projects__: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
+- **Visiting Researcher**: _Sept 2023 - Oct 2023_  
+  **Where**: [KTH](https://www.kth.se/en), [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden  
+  **Field**: Bioimage analysis  
+  **PI**: [Dr. Wei Ouyang](https://oeway.github.io)  
+  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
 
-* __PhD Candidate__: _Sept 2020 - Dec 2022_
-  * __Where__: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Computer Science and Technology
-  * __Field__: Deep Learning applied to Biometrics
-  * __Supervisors__:  [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106) 
-  * __Project__: [CYNAMON-CM](https://www.tic.itefi.csic.es/CYNAMON/)
+- **PhD Candidate**: _Sept 2020 - Dec 2022_  
+  **Where**: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology)  
+  **Field**: Deep Learning applied to Biometrics  
+  **Supervisors**: [Dr. Pedro Peris-López](https://lightweightcryptography.com), [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)  
+  **Project**: [CYNAMON-CM](https://www.tic.itefi.csic.es/CYNAMON/)
 
-* __Research Assistant__: _October 2019 - Dec 2022_
-  * __Where__: [UC3M](https://www.uc3m.es/home), [COSEC Laboratory](https://cosec.inf.uc3m.es)
-  * __Field__: Cibersecurity  
-  * __Supervisors__: [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
+- **Research Assistant**: _Oct 2019 - Dec 2022_  
+  **Where**: [UC3M](https://www.uc3m.es/home), [COSEC Laboratory](https://cosec.inf.uc3m.es)  
+  **Field**: Cybersecurity  
+  **Supervisors**: [Dr. Pedro Peris-López](https://lightweightcryptography.com), [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
 
-* __Security and DevOps Systems Technician__: _June 2019 - September 2019_
-  * __Where__: [Air Europa, S.L.](https://www.aireuropa.com)
-  * __Field__: Server and infraestructure mantainance and cibersecurity management
-  * __Supervisor__: [Bernat Mut González](https://es.linkedin.com/in/bernatmut)
+- **Security and DevOps Systems Technician**: _Jun 2019 - Sep 2019_  
+  **Where**: [Air Europa, S.L.](https://www.aireuropa.com)  
+  **Field**: Server/infrastructure maintenance and cybersecurity  
+  **Supervisor**: [Bernat Mut González](https://es.linkedin.com/in/bernatmut)
 
-Publications
-======
+## Publications
 
 {% assign categories_order = "Peer-review Journals,Preprints,Conference Proceedings,Conference Abstracts,Datasets,Misc" | split: "," %}
-
 {% for category in categories_order %}
   {% assign publications_in_category = site.publications | where: "category", category %}
-
   {% if publications_in_category.size > 0 %}
-  <h3 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">+</span></h3>
+  <h3 class="category-toggle">{{ category }} <span class="toggle-icon">+</span></h3>
   <div id="publications-{{ category | slugify }}" class="publications-section">
     <ul class="pub-list">
       {% for post in publications_in_category %}
@@ -80,24 +74,19 @@ Publications
   {% endif %}
 {% endfor %}
 
-  
-Talks
-======
+## Talks
+
 {% assign sorted_talks = site.talks | sort: 'date' | reverse %}
 {% assign last_year = "" %}
-
 <div class="cv-container">
   {% for post in sorted_talks %}
     {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-
     {% unless last_year == current_year %}
       {% assign last_year = current_year %}
       <h3 class="year-toggle">{{ last_year }} <span class="toggle-icon">+</span></h3>
       <div class="year-content">
     {% endunless %}
-
     {% include archive-single-talk-cv.html %}
-
     {% if forloop.last %}
       </div>
     {% else %}
@@ -109,266 +98,142 @@ Talks
   {% endfor %}
 </div>
 
-Teaching
-======
-<!-- Bachelor Thesis -->
-<h3 class="section-toggle" onclick="toggleSection('bt-section')">Bachelor Theses <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h3>
-<div id="bt-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Bachelor Thesis" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+## Teaching
 
-<!-- Master Programs -->
-<h3 class="section-toggle" onclick="toggleSection('master-section')">Master Programs <span id="toggle-icon-master-section" class="toggle-icon">+</span></h3>
-<div id="master-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Master course" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+### Bachelor Theses
+{% for post in site.teaching %}
+  {% if post.type == "Bachelor Thesis" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-<!-- Master Theses -->
-<h3 class="section-toggle" onclick="toggleSection('mt-section')">Master Theses <span id="toggle-icon-mt-section" class="toggle-icon">+</span></h3>
-<div id="mt-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Master Thesis" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+### Master Programs
+{% for post in site.teaching %}
+  {% if post.type == "Master course" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-<!-- Mentoring -->
-<h3 class="section-toggle" onclick="toggleSection('mentoring-section')">Mentoring <span id="toggle-icon-mentoring-section" class="toggle-icon">+</span></h3>
-<div id="mentoring-section" class="section-content">
-  {% for post in site.teaching %}
-    {% if post.type == "Mentoring" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+### Master Theses
+{% for post in site.teaching %}
+  {% if post.type == "Master Thesis" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
+### Mentoring
+{% for post in site.teaching %}
+  {% if post.type == "Mentoring" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-Events
-======
-<!-- Hackathons -->
-<h3 class="section-toggle" onclick="toggleSection('hackathon-section')">Hackathons <span id="toggle-icon-hackathon-section" class="toggle-icon">+</span></h3>
-<div id="hackathon-section" class="section-content">
-  {% for post in site.events %}
-    {% if post.type == "Hackathon" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+## Events
 
-<!-- Workshops -->
-<h3 class="section-toggle" onclick="toggleSection('workshop-section')">Workshops <span id="toggle-icon-workshop-section" class="toggle-icon">+</span></h3>
-<div id="workshop-section" class="section-content">
-  {% for post in site.events %}
-    {% if post.type == "Workshop" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+### Hackathons
+{% for post in site.events %}
+  {% if post.type == "Hackathon" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-<!-- Conferences -->
-<h3 class="section-toggle" onclick="toggleSection('conference-section')">Conferences <span id="toggle-icon-conference-section" class="toggle-icon">+</span></h3>
-<div id="conference-section" class="section-content">
-  {% for post in site.events %}
-    {% if post.type == "Conference" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+### Workshops
+{% for post in site.events %}
+  {% if post.type == "Workshop" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
+### Conferences
+{% for post in site.events %}
+  {% if post.type == "Conference" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
+## Dissertations
+- **Biopotential Signals and their Applicability to Cybersecurity**, _cum laude_  
+  Ph.D. Thesis, [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology), Dec. 2022  
+  Supervised by [Pedro Peris-López](https://lightweightcryptography.com), [Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
 
-Dissertations
-======
-* __Biopotential Signals and their Applicability to Cybersecurity__, _cum laude_
-  * Ph.D. Thesis Dissertation, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), Dec. 2022
-  * Under the supervision of [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
-* __A Novel Biometrics Technique based on Electrocardiomatrix__
-  * M.Sc. Thesis Dissertation, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020, July. 2020
-  * Under the supervision of [Dr. Pedro Peris-López](https://lightweightcryptography.com) and [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
-* __Event Management and Safety Information__
-  * B.Sc. Thesis Dissertation, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), July 2019
-  * Under the supervision of [Dra. María Francisca Hinarejos Campos](https://www.uib.es/es/personal/ABjExMDM1Nw/)
+- **A Novel Biometrics Technique based on Electrocardiomatrix**  
+  M.Sc. Thesis, [UC3M](https://www.uc3m.es/master/cybersecurity), 2020  
+  Supervised by Pedro Peris-López and Carmen Cámara
 
-Certifications
-======
-* [Academic Teaching Excellence](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido) - British Council
-* [Microscopy data analysis: machine learning and the BioImage Archive](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/) - EMBL
-* [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones) - CSIC
-* Autopsy Software for Forensic Analysis
-* Ethical Hacking
-* English Level C1 (MECR)
-* French Level A2
-* Machine Learning with Python (edX)
-* Deep Learning ([UC3M](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2))
+- **Event Management and Safety Information**  
+  B.Sc. Thesis, [UIB](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019  
+  Supervised by [M. Francisca Hinarejos Campos](https://www.uib.es/es/personal/ABjExMDM1Nw/)
 
+## Certifications
+- [Academic Teaching Excellence](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido)
+- [Microscopy Data Analysis](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/)
+- [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones)
+- Autopsy Software for Forensic Analysis
+- Ethical Hacking
+- English Level C1 (MECR)
+- French Level A2
+- Machine Learning with Python (edX)
+- Deep Learning ([UC3M](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2))
 
-Others
-======
-* Finalist for the [Thesis Talks 2021](https://www.uc3m.es/doctorado/thesis-talk-2021), video available [here](https://media.uc3m.es/video/60d2df8c8f4208a50b8b456d?track_id=60d2e01c8f4208f50b8b4567), _2021_
-* Collaborator student maintaining a the University webpage for online courses, _2018_
-* Trainee at [Fundació Bit](https://www.fundaciobit.org/es/inicio/), Parc Bit, _May to September 2018_
-* Waitress at Restaurant Es Port, Portocolom, _2017_
-* Volunteer instructor at the Science Fair at the [UIB](https://seras.uib.cat/ciencia/2016/) , _2016 and 2017_
-* Linear Algebra and Discrete Mathematics with honours in the B.Sc. in Telemmatics Engineering, _2016_
-* Award-winning for the short-story contest in Setmanari Felanitx, _2016_
-* Waitress at [Sa Cova Dets Ases](https://goo.gl/maps/RrAiCwAej4EKAkbh8), Portocolom, _2015 and 2016_
+## Others
+- Finalist in [Thesis Talks 2021](https://www.uc3m.es/doctorado/thesis-talk-2021), [video](https://media.uc3m.es/video/60d2df8c8f4208a50b8b456d?track_id=60d2e01c8f4208f50b8b4567)
+- Maintainer of university webpage for online courses, _2018_
+- Trainee at [Fundació Bit](https://www.fundaciobit.org/es/inicio/), _May–Sep 2018_
+- Waitress at Es Port (Portocolom), _2017_
+- Volunteer at UIB Science Fair, _2016–2017_
+- Honours in Linear Algebra & Discrete Mathematics, _2016_
+- Short-story contest winner, _2016_
+- Waitress at [Sa Cova Dets Ases](https://goo.gl/maps/RrAiCwAej4EKAkbh8), _2015–2016_
 
 <style>
-.section-toggle {
-  cursor: pointer;
-  margin-bottom: 5px;
-}
-
-.section-content {
-  display: none;
-  margin-bottom: 20px;
-}
-
-.toggle-icon {
-  margin-left: 5px;
-}
-
-.publications-section {
-  display: none;
-  margin-bottom: 20px;
-}
-
-.year-content {
-  display: none; /* Hide the content by default */
-}
-
-.category-toggle {
-  cursor: pointer;
-  margin-top: 1.5em;
+h2, h3 {
+  border-bottom: 1px dashed #ccc;
+  padding-bottom: 4px;
+  margin-top: 2em;
   font-weight: 600;
 }
-
-/* Enhanced publication list styles */
 .pub-list {
   list-style: none;
   padding-left: 0;
-  margin-top: 10px;
 }
-
 .pub-item {
-  margin-bottom: 20px;
-  border-left: 3px solid #444;
+  margin-bottom: 1em;
   padding-left: 12px;
+  border-left: 3px solid #999;
 }
-
-.pub-item strong {
-  font-size: 1rem;
-}
-
-.pub-venue {
+.pub-venue, .pub-citation {
   font-size: 0.85rem;
-  color: #666;
-  font-style: italic;
-}
-
-.pub-citation {
-  font-size: 0.85em;
-  color: #666;
-  margin-top: 0.3em;
-  font-family: Georgia, serif;
-}
-
-.pub-link-icon {
-  margin-left: 8px;
-  text-decoration: none;
-  font-size: 1rem;
-}
-
-.pub-links a {
-  font-weight: 500;
-  color: #0066cc;
-  text-decoration: none;
-}
-
-.pub-links a:hover {
-  text-decoration: underline;
-}
-
-.pub-meta {
-  font-size: 0.9em;
   color: #555;
-  margin-bottom: 5px;
 }
-
-.pub-excerpt {
-  font-size: 1em;
-  color: #333;
-  margin-top: 0.3em;
-  margin-bottom: 0.6em;
-  font-style: italic;
+.pub-link-icon {
+  margin-left: 6px;
+  text-decoration: none;
 }
-
-.pub-featured {
-  font-size: 0.85em;
-  color: #777;
+.toggle-icon {
+  margin-left: 8px;
+  font-weight: normal;
+}
+.year-toggle, .category-toggle {
+  cursor: pointer;
+  margin-top: 1.5em;
+}
+.publications-section, .year-content {
+  display: none;
 }
 </style>
 
-
 <script>
-document.querySelectorAll('.year-toggle').forEach(function (toggle) {
-    toggle.addEventListener('click', function () {
-      var content = this.nextElementSibling;
-      content.style.display = content.style.display === 'none' ? 'block' : 'none';
-      this.querySelector('.toggle-icon').textContent = content.style.display === 'none' ? '+' : '-';
-    });
-  });
-
-var yearToggles = document.querySelectorAll('.year-toggle');
-yearToggles.forEach(function(toggle) {
-  toggle.addEventListener('click', function() {
-    var publicationsSection = this.nextElementSibling;
-    var toggleIcon = this.querySelector('.toggle-icon');
-    
-    if (publicationsSection.style.display === 'none') {
-      publicationsSection.style.display = 'block';
-      toggleIcon.innerHTML = '-';
+document.querySelectorAll('.year-toggle, .category-toggle').forEach(t => {
+  t.addEventListener('click', () => {
+    const s = t.nextElementSibling;
+    const i = t.querySelector('.toggle-icon');
+    if (s.style.display === 'none') {
+      s.style.display = 'block';
+      i.innerHTML = '-';
     } else {
-      publicationsSection.style.display = 'none';
-      toggleIcon.innerHTML = '+';
-    }
-  });
-});
-function toggleSection(sectionId) {
-  var sectionContent = document.getElementById(sectionId);
-  var toggleIcon = document.getElementById("toggle-icon-" + sectionId);
-  
-  if (sectionContent.style.display === "none") {
-    sectionContent.style.display = "block";
-    toggleIcon.innerHTML = "-";
-  } else {
-    sectionContent.style.display = "none";
-    toggleIcon.innerHTML = "+";
-  }
-}
-var categoryToggles = document.querySelectorAll('.category-toggle');
-categoryToggles.forEach(function(toggle) {
-  toggle.addEventListener('click', function() {
-    var publicationsSection = this.nextElementSibling;
-    var toggleIcon = this.querySelector('.toggle-icon');
-    
-    if (publicationsSection.style.display === 'none') {
-      publicationsSection.style.display = 'block';
-      toggleIcon.innerHTML = '-';
-    } else {
-      publicationsSection.style.display = 'none';
-      toggleIcon.innerHTML = '+';
+      s.style.display = 'none';
+      i.innerHTML = '+';
     }
   });
 });
 </script>
-
