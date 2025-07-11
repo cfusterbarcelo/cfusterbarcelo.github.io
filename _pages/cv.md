@@ -55,20 +55,31 @@ Professional History
 
 Publications
 ======
+
 {% assign categories_order = "Peer-review Journals,Preprints,Conference Proceedings,Conference Abstracts,Datasets,Misc" | split: "," %}
 
 {% for category in categories_order %}
   {% assign publications_in_category = site.publications | where: "category", category %}
 
   {% if publications_in_category.size > 0 %}
-<h2 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">+</span></h2>
-<div id="publications-{{ category | slugify }}" class="publications-section">
+  <h3 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">+</span></h3>
+  <div id="publications-{{ category | slugify }}" class="publications-section">
+    <ul class="pub-list">
       {% for post in publications_in_category %}
-        {% include archive-single.html %}
+        <li class="pub-item">
+          <strong><a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a></strong><br>
+          <span class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</span><br>
+          <span class="pub-citation">{{ post.citation }}</span>
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" class="pub-link-icon" target="_blank" title="Paper link">📄</a>
+          {% endif %}
+        </li>
       {% endfor %}
-</div>
+    </ul>
+  </div>
   {% endif %}
 {% endfor %}
+
   
 Talks
 ======
@@ -105,7 +116,7 @@ Teaching
 <div id="bt-section" class="section-content">
   {% for post in site.teaching %}
     {% if post.type == "Bachelor Thesis" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -115,7 +126,7 @@ Teaching
 <div id="master-section" class="section-content">
   {% for post in site.teaching %}
     {% if post.type == "Master course" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -125,7 +136,7 @@ Teaching
 <div id="mt-section" class="section-content">
   {% for post in site.teaching %}
     {% if post.type == "Master Thesis" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -135,7 +146,7 @@ Teaching
 <div id="mentoring-section" class="section-content">
   {% for post in site.teaching %}
     {% if post.type == "Mentoring" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -148,7 +159,7 @@ Events
 <div id="hackathon-section" class="section-content">
   {% for post in site.events %}
     {% if post.type == "Hackathon" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -158,7 +169,7 @@ Events
 <div id="workshop-section" class="section-content">
   {% for post in site.events %}
     {% if post.type == "Workshop" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -168,7 +179,7 @@ Events
 <div id="conference-section" class="section-content">
   {% for post in site.events %}
     {% if post.type == "Conference" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
@@ -232,14 +243,49 @@ Others
 }
 
 .year-content {
-    display: none; /* Hide the content by default */
-  }
+  display: none; /* Hide the content by default */
+}
 
 .category-toggle {
   cursor: pointer;
+  margin-top: 1.5em;
+  font-weight: 600;
+}
+
+/* Enhanced publication list styles */
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.pub-item {
+  margin-bottom: 20px;
+  border-left: 3px solid #444;
+  padding-left: 12px;
+}
+
+.pub-item strong {
+  font-size: 1rem;
+}
+
+.pub-venue {
+  font-size: 0.85rem;
+  color: #666;
+  font-style: italic;
+}
+
+.pub-citation {
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.pub-link-icon {
+  margin-left: 8px;
+  text-decoration: none;
+  font-size: 1rem;
 }
 </style>
-
 
 
 <script>

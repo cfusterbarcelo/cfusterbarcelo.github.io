@@ -6,21 +6,46 @@ permalink: /publication/2024-bioimage-analysts
 excerpt: "A perspective on the critical contributions and challenges of bioimage analysts in biological research."
 date: 2024-10-15
 venue: "Journal of Cell Science"
+location: "Online"
 paperurl: "https://journals.biologists.com/jcs/article/137/20/jcs262322/362545"
-citation: "B.A. Cimini, P. Bankhead, R. d'Antuono, et al., 'The Crucial Role of Bioimage Analysts in Scientific Research and Publication,' Journal of Cell Science, vol. 137, no. 20, 2024. DOI: 10.1242/jcs.262322."
+citation: "Cimini, B. A., Bankhead, P., d'Antuono, R., et al. (2024). The Crucial Role of Bioimage Analysts in Scientific Research and Publication. *Journal of Cell Science*, 137(20). https://doi.org/10.1242/jcs.262322"
 ---
 
 ## The Crucial Role of Bioimage Analysts in Scientific Research and Publication
 
-**Published in**: [Journal of Cell Science](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545)  
-**Authors** (selected): Beth A. Cimini, Peter Bankhead, Julia Fernandez-Rodriguez, Caterina Fuster-Barceló, Arrate Muñoz-Barrutia, Florian Jug, Stefania Marcotti, and others.  
+**Published in**: [Journal of Cell Science](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545)
 
-### Abstract:
-Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions. We also advocate for increased funding, standardized practices and enhanced collaboration, and we conclude with a call to action for all stakeholders to join efforts in advancing BIA.
+---
 
-### Publication Details:
-- **Journal**: Journal of Cell Science, Volume 137, Issue 20  
-- **DOI**: [10.1242/jcs.262322](https://doi.org/10.1242/jcs.262322)  
-- **Date**: October 15, 2024
+### 🔍 Summary
 
-You can read the full article [here](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545).
+This *Perspective* article highlights the indispensable contributions of **bioimage analysts (BIAs)** to modern life sciences. Drawing from a Company of Biologists Workshop, the paper outlines the current landscape of BIA work, existing roadblocks, and practical strategies to:
+
+- Gain **recognition and credit** for BIA contributions  
+- Improve **training and career development** paths  
+- Increase **collaborative efforts and funding**  
+- Enhance **standardization and reproducibility** in microscopy workflows
+
+---
+
+### 👥 Authors (selected)
+
+Beth A. Cimini, Peter Bankhead, Julia Fernandez-Rodriguez,  
+**Caterina Fuster-Barceló**, Arrate Muñoz-Barrutia, Florian Jug, Stefania Marcotti, and others.
+
+---
+
+### 🧭 Why It Matters
+
+BIAs play a pivotal role in bridging wet lab biology with computational rigor. The paper advocates for systemic change in how institutions and journals **acknowledge, fund, and support** bioimage analysts—ultimately pushing for a culture shift in scientific research practices.
+
+---
+
+### 📘 Publication Details
+
+- **Journal**: *Journal of Cell Science*  
+- **Volume / Issue**: 137(20)  
+- **Date**: October 15, 2024  
+- **DOI**: [10.1242/jcs.262322](https://doi.org/10.1242/jcs.262322)
+
+👉 [Read the full article](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545)

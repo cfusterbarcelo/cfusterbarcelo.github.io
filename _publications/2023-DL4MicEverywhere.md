@@ -2,27 +2,43 @@
 title: "DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible"
 collection: publications
 category: "Peer-review Journals"
-permalink: /publication/2023-DL4MicEverywhere
-excerpt: 'DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible'
+permalink: /publication/2023-dl4miceverywhere
+excerpt: "Making deep learning in microscopy truly portable and reproducible across environments."
 date: 2023-11-19
-paperurl: 'https://www.biorxiv.org/content/10.1101/2023.11.19.567606v1.abstract'
-citation: 'DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible
-Iván Hidalgo-Cenalmor, Joanna W Pylvänäinen, Mariana G Ferreira, Craig T Russell, Ignacio Arganda-Carreras, AI4Life Consortium, Guillaume Jacquemet, Ricardo Henriques, Estibaliz Gómez-de-Mariscal bioRxiv 2023.11.19.567606; doi: https://doi.org/10.1101/2023.11.19.567606'
+venue: "Nature Methods"
+location: "Published in Volume 21, June 2024"
+paperurl: "https://www.nature.com/articles/s41592-024-02295-6"
+featuredin: "https://www.biorxiv.org/content/10.1101/2023.11.19.567606v1"
+citation: "Hidalgo-Cenalmor, I., Pylvänäinen, J.W., Ferreira, M.G., Russell, C.T., Arganda-Carreras, I., AI4Life Consortium, Jacquemet, G., Henriques, R., & Gómez-de-Mariscal, E. (2024). DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible. *Nature Methods*, 21, 925–927. https://doi.org/10.1038/s41592-024-02295-6"
 ---
-
 ## DL4MicEverywhere: Deep Learning for Microscopy Made Flexible, Shareable, and Reproducible
 
-**Published in**: [Nature Methods](https://doi.org/10.1038/s41592-024-02295-6)  
-**Authors**: Iván Hidalgo-Cenalmor, Joanna W. Pylvänäinen, Mariana G. Ferreira, Craig T. Russell, Ignacio Arganda-Carreras, AI4Life Consortium (myself and other authors from AI4Life), Guillaume Jacquemet, Ricardo Henriques, Estibaliz Gómez-de-Mariscal  
+**Journal**: [Nature Methods (Vol. 21, June 2024, Pages 925–927)](https://doi.org/10.1038/s41592-024-02295-6)  
+**Preprint**: [bioRxiv version](https://www.biorxiv.org/content/10.1101/2023.11.19.567606v1)  
+**Code Repository**: [github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
 
-### Abstract:
-Deep learning has revolutionised the analysis of extensive microscopy datasets, yet challenges persist in the widespread adoption of these techniques. Many lack access to training data, computing resources, and expertise to develop complex models. We introduce DL4MicEverywhere, advancing our previous ZeroCostDL4Mic platform, to make deep learning more accessible. DL4MicEverywhere uniquely allows flexible training and deployment across diverse computational environments by encapsulating methods in interactive Jupyter notebooks within Docker containers –a standalone virtualisation of required packages and code to reproduce a computational environment–. This enhances reproducibility and convenience. The platform includes twice as many techniques as originally provided by ZeroCostDL4Mic and enables community contributions via automated build pipelines. DL4MicEverywhere empowers participatory innovation and aims to democratise deep learning for bioimage analysis. 
+---
 
-### Publication Details:
-- **Journal**: Nature Methods, Volume 21, Issue June 2024, Pages 925–927  
-- **Publication Date**: May 17, 2024  
-- **DOI**: [10.1038/s41592-024-02295-6](https://doi.org/10.1038/s41592-024-02295-6)
+### 🚀 Summary
 
-### Resources:
-- **Code Repository**: [GitHub - HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
-- **Preprint**: [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.19.567606v1.abstract)
+**DL4MicEverywhere** expands upon ZeroCostDL4Mic, making deep learning methods for microscopy:
+- **More flexible**: usable across diverse environments via Dockerized Jupyter Notebooks
+- **More shareable**: enabling collaboration with reproducible containers
+- **More reproducible**: thanks to standardized interactive pipelines
+
+---
+
+### 🔬 Why it matters
+
+Many researchers lack the infrastructure or skills to deploy advanced deep learning models. **DL4MicEverywhere** solves this by bundling tools and code inside portable environments, allowing scientists to run training and inference with minimal configuration.
+
+The platform:
+- Doubles the number of techniques originally offered by ZeroCostDL4Mic
+- Encourages community contributions through automated CI pipelines
+- Enables faster onboarding and experimentation in bioimage analysis
+
+This democratizes AI access for experimentalists, educators, and developers alike.
+
+---
+
+Let me know when you're ready for the next one!

@@ -2,18 +2,37 @@
 title: "BioImage.IO Chatbot: A Personalized Assistant for BioImage Analysis Augmented by Community Knowledge Base"
 collection: publications
 category: "Peer-review Journals"
-permalink: /publication/2023-ChatBot
-excerpt: 'BioImage.IO Chatbot: Transforming Bioimage Analysis'
+permalink: /publication/2023-chatbot
+excerpt: "AI-powered assistant transforming the way researchers interact with bioimage analysis tools."
 date: 2023-12-31
-venue: 'Nature Methods'
-paperurl: 'https://rdcu.be/dQuw7'
-citation: 'Lei, W., Fuster-Barceló, C., Reder, G. et al. BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging. Nat Methods 21, 1368–1370 (2024). https://doi.org/10.1038/s41592-024-02370-y'
+venue: "Nature Methods"
+location: "Online"
+paperurl: "https://rdcu.be/dQuw7"
+featuredin: "https://www.nature.com/articles/s41592-024-02370-y"
+citation: "Lei, W., Fuster-Barceló, C., Reder, G. et al. (2024). BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging. *Nature Methods*, 21, 1368–1370. https://doi.org/10.1038/s41592-024-02370-y"
 ---
-BioImage.IO Chatbot: A Personalized Assistant for BioImage Analysis Augmented by Community Knowledge Base
+**BioImage.IO Chatbot: A Personalized Assistant for BioImage Analysis Augmented by Community Knowledge Base**
 
-The rapidly expanding landscape of bioimage analysis tools presents a navigational challenge for both experts and newcomers. Traditional search methods often fall short in assisting users in this complex environment. To address this, we introduce the BioImage.IO Chatbot, an AI-driven conversational assistant tailored for the bioimage community. Built upon large language models, this chatbot provides personalized, context-aware answers by aggregating and interpreting information from diverse databases, tool-specific documentation, and structured data sources. Enhanced by a community-contributed knowledge base and fine-tuned retrieval methods, the BioImage.IO Chatbot offers not just a personalized interaction but also a knowledge-enriched, context-aware experience. It fundamentally transforms the way biologists, bioimage analysts, and developers navigate and utilize advanced bioimage analysis tools, setting a new standard for community-driven, accessible scientific research..
+The rapidly expanding landscape of **bioimage analysis tools** presents a navigational challenge for both experts and newcomers. Traditional search methods often fall short in supporting users through this complexity.
 
-You can check the article in Nature Methods [here](https://www.nature.com/articles/s41592-024-02370-y), the arxiv preprint [here](
-https://doi.org/10.48550/arXiv.2310.18351) and the one in zenodo [here](https://doi.org/10.5281/zenodo.10032227).
+To address this, we introduce the **BioImage.IO Chatbot** — an **AI-driven conversational assistant** tailored for the bioimage community. Built on top of **large language models**, the chatbot provides **personalized, context-aware answers** by aggregating and interpreting knowledge from:
 
-Visit our GitHub repository for more info: [github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
+- Tool-specific documentation  
+- Community databases  
+- Structured and curated resources
+
+Enriched by a **community-driven knowledge base** and advanced retrieval strategies, the chatbot enables:
+
+- Personalized interaction
+- Enhanced interpretability
+- Greater accessibility to complex analysis tools
+
+It transforms how biologists, analysts, and developers navigate the world of computational imaging.
+
+---
+
+**Links**  
+🔗 [Nature Methods Article](https://www.nature.com/articles/s41592-024-02370-y)  
+📄 [arXiv Preprint](https://doi.org/10.48550/arXiv.2310.18351)  
+📦 [Zenodo Record](https://doi.org/10.5281/zenodo.10032227)  
+💻 [GitHub Repository](https://github.com/bioimage-io/bioimageio-chatbot)

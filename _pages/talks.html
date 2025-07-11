@@ -1,18 +1,61 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+{% include base_path %}
+
+<style>
+.section-title {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 40px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 4px;
+}
+
+.talk-entry {
+  margin-bottom: 20px;
+}
+
+.talk-entry a {
+  font-size: 1.1em;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.talk-entry .meta {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.talk-entry .year-badge {
+  display: inline-block;
+  font-size: 0.85em;
+  background-color: #f2f2f2;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin-left: 10px;
+  color: #444;
+}
+</style>
+
+<!-- MAP -->
+<iframe src="/talkmap/map.html" height="700" width="100%" style="border:none;"></iframe>
 
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<!-- Talks -->
+<h2 class="section-title">Talks and Presentations</h2>
+{% assign sorted_talks = site.talks | sort: "date" | reverse %}
+{% for post in sorted_talks %}
+  <div class="talk-entry">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+  </div>
 {% endfor %}
