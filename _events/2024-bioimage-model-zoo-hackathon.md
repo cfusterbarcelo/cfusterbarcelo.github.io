@@ -7,6 +7,7 @@ venue: "EMBL Heidelberg"
 location: "Heidelberg, Germany"
 date: 2024-03-11
 end_date: 2024-03-15
+layout: single
 ---
 
 ## BioImage Model Zoo Enhancements Hackathon

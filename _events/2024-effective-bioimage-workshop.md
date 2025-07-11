@@ -6,6 +6,7 @@ permalink: /events/2024-effective-bioimage-workshop
 venue: "The Company of Biologists Workshop"
 location: "East Sussex, UK"
 date: 2024-02-12
+layout: single
 ---
 
 ## Effectively Communicating Bioimage Analysis Workshop

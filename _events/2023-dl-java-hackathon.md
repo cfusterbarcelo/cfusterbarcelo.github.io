@@ -7,6 +7,7 @@ venue: "Human Technopole"
 location: "Milan, Italy"
 date: 2023-02-05
 end_date: 2023-02-10
+layout: single
 ---
 
 ## Accessibility of DL Models from Java Hackathon

@@ -6,6 +6,7 @@ permalink: /events/2023-caseib-poster
 venue: "XLI Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB)"
 location: "Cartagena, Spain"
 date: 2023-11-22
+layout: single
 ---
 
 ## CASEIB 2023 — Conference Presentation

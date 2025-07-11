@@ -7,6 +7,7 @@ venue: "SciLifeLab"
 location: "Stockholm, Sweden"
 date: 2023-06-05
 end_date: 2023-06-09
+layout: single
 ---
 
 ## Cloud Based and AI Hackathon

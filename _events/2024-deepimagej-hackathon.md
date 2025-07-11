@@ -7,6 +7,7 @@ venue: "Universidad Carlos III de Madrid"
 location: "Madrid, Spain"
 date: 2024-01-15
 end_date: 2024-01-19
+layout: single
 ---
 
 ## deepImageJ and friends Hackathon

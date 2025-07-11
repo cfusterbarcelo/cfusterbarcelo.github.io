@@ -6,6 +6,7 @@ permalink: /events/2024-ai4life-madrid
 venue: "AI4Life & Euro-BioImaging"
 location: "Madrid, Spain"
 date: 2024-06-19
+layout: single
 ---
 
 ## AI4Life Workshop-Hackathon-Uploathon (Madrid)

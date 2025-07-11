@@ -7,6 +7,7 @@ venue: "EMBL Heidelberg"
 location: "Heidelberg, Germany"
 date: 2023-10-09
 end_date: 2023-10-13
+layout: single
 ---
 
 ## AI4Life Hackathon and Solvathon

@@ -7,6 +7,7 @@ venue: "CEITEC"
 location: "Prague, Czech Republic"
 date: 2024-04-15
 end_date: 2024-04-23
+layout: single
 ---
 
 ## ImgLib2 and BigDataViewer Hackathon Prague
