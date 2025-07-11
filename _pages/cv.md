@@ -276,14 +276,45 @@ Others
 }
 
 .pub-citation {
-  font-size: 0.9rem;
-  color: #444;
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.3em;
+  font-family: Georgia, serif;
 }
 
 .pub-link-icon {
   margin-left: 8px;
   text-decoration: none;
   font-size: 1rem;
+}
+
+.pub-links a {
+  font-weight: 500;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-meta {
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.pub-excerpt {
+  font-size: 1em;
+  color: #333;
+  margin-top: 0.3em;
+  margin-bottom: 0.6em;
+  font-style: italic;
+}
+
+.pub-featured {
+  font-size: 0.85em;
+  color: #777;
 }
 </style>
 
