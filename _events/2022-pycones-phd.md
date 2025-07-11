@@ -6,7 +6,7 @@ permalink: /events/2022-pycones-phd
 venue: "PyConES 2022"
 location: "Granada, Spain"
 date: 2022-09-30
-layout: singl
+layout: single
 ---
 
 ## PyConES 2022 — Conference Talk and Participation
