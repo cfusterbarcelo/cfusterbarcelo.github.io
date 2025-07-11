@@ -100,56 +100,59 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
 
 ## Teaching
 
-### Bachelor Theses
-{% for post in site.teaching %}
-  {% if post.type == "Bachelor Thesis" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% assign sorted_teaching = site.teaching | sort: 'date' | reverse %}
+{% assign last_year = "" %}
 
-### Master Programs
-{% for post in site.teaching %}
-  {% if post.type == "Master course" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+<div class="cv-container">
+  {% for post in sorted_teaching %}
+    {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% unless last_year == current_year %}
+      {% assign last_year = current_year %}
+      <h3 class="year-toggle">{{ last_year }} <span class="toggle-icon">+</span></h3>
+      <div class="year-content">
+    {% endunless %}
 
-### Master Theses
-{% for post in site.teaching %}
-  {% if post.type == "Master Thesis" %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
-### Mentoring
-{% for post in site.teaching %}
-  {% if post.type == "Mentoring" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+    {% if forloop.last %}
+      </div>
+    {% else %}
+      {% capture next_year %}{{ sorted_teaching[forloop.index].date | date: "%Y" }}{% endcapture %}
+      {% if next_year != last_year %}
+        </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
 
 ## Events
 
-### Hackathons
-{% for post in site.events %}
-  {% if post.type == "Hackathon" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% assign sorted_events = site.events | sort: 'date' | reverse %}
+{% assign last_year = "" %}
 
-### Workshops
-{% for post in site.events %}
-  {% if post.type == "Workshop" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+<div class="cv-container">
+  {% for post in sorted_events %}
+    {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% unless last_year == current_year %}
+      {% assign last_year = current_year %}
+      <h3 class="year-toggle">{{ last_year }} <span class="toggle-icon">+</span></h3>
+      <div class="year-content">
+    {% endunless %}
 
-### Conferences
-{% for post in site.events %}
-  {% if post.type == "Conference" %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+
+    {% if forloop.last %}
+      </div>
+    {% else %}
+      {% capture next_year %}{{ sorted_events[forloop.index].date | date: "%Y" }}{% endcapture %}
+      {% if next_year != last_year %}
+        </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
 
 ## Dissertations
 - **Biopotential Signals and their Applicability to Cybersecurity**, _cum laude_  
@@ -186,41 +189,124 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
 - Waitress at [Sa Cova Dets Ases](https://goo.gl/maps/RrAiCwAej4EKAkbh8), _2015–2016_
 
 <style>
-h2, h3 {
-  border-bottom: 1px dashed #ccc;
-  padding-bottom: 4px;
-  margin-top: 2em;
+/* General section toggles */
+.section-toggle {
+  cursor: pointer;
+  margin-bottom: 5px;
+  font-size: 1.15rem;
   font-weight: 600;
+  color: #333;
 }
+
+/* Consistent content toggle sections */
+.section-content {
+  display: none;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+/* Toggle icons */
+.toggle-icon {
+  margin-left: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #666;
+}
+
+/* Publications and category headers */
+.category-toggle {
+  cursor: pointer;
+  margin-top: 1.5em;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+/* CV containers (for Talks by year) */
+.year-toggle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.5em;
+  cursor: pointer;
+}
+
+.year-content {
+  display: none;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+/* Publication list consistency */
 .pub-list {
   list-style: none;
   padding-left: 0;
+  margin-top: 10px;
 }
+
 .pub-item {
-  margin-bottom: 1em;
+  margin-bottom: 20px;
+  border-left: 3px solid #444;
   padding-left: 12px;
-  border-left: 3px solid #999;
 }
-.pub-venue, .pub-citation {
+
+.pub-item strong {
+  font-size: 1rem;
+}
+
+.pub-venue {
   font-size: 0.85rem;
-  color: #555;
+  color: #666;
+  font-style: italic;
 }
+
+.pub-citation {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.3em;
+  font-family: Georgia, serif;
+}
+
 .pub-link-icon {
-  margin-left: 6px;
-  text-decoration: none;
-}
-.toggle-icon {
   margin-left: 8px;
-  font-weight: normal;
+  text-decoration: none;
+  font-size: 1rem;
 }
-.year-toggle, .category-toggle {
-  cursor: pointer;
-  margin-top: 1.5em;
+
+.pub-meta {
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 5px;
 }
-.publications-section, .year-content {
-  display: none;
+
+.pub-excerpt {
+  font-size: 1em;
+  color: #333;
+  margin-top: 0.3em;
+  margin-bottom: 0.6em;
+  font-style: italic;
+}
+
+/* Normalize Teaching/Event titles */
+.archive__item-title {
+  font-size: 1rem !important;
+  margin-bottom: 2px;
+  color: #007acc;
+  font-weight: 600;
+}
+
+.archive__item-excerpt {
+  font-size: 0.85rem;
+  color: #444;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+/* Improve spacing between entries */
+.archive__item {
+  margin-bottom: 15px;
 }
 </style>
+
 
 <script>
 document.querySelectorAll('.year-toggle, .category-toggle').forEach(t => {
