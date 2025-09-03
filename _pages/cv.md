@@ -17,6 +17,12 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
 - B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
 
 ## Professional History
+
+- **Post-doctoral Researcher**: _Sep 2025 – Present_  
+  **Where**: [University of Zurich (UZH)](https://www.uzh.ch/en.html), [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html)  
+  **Field**: Bioimage analysis  
+  **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
+ 
 - **Post-doctoral Researcher**: _Jan 2023 - Aug 2025_  
   **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department  
   **Field**: Bioimage analysis  
