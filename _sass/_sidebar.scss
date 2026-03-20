@@ -82,9 +82,13 @@
     height: auto;
   }
 
-  img {
+  .author__avatar-img {
+    width: 100%;
     max-width: 175px;
-    border-radius: 50%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: 62% center;
+    border-radius: 18px;
 
     @include breakpoint($large) {
       padding: 5px;
