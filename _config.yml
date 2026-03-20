@@ -86,9 +86,10 @@ author:
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZixHYZYAAAAJ&hl=es"
+  googlescholar    : "https://scholar.google.es/citations?user=zHebeGsAAAAJ&hl"
   email            : "caterina.fusterbarcelo@mls.uzh.ch"
-  researchgate     :  
+  researchgate     : 
+  bluesky          : "https://bsky.app/profile/cfusterbarcelo.bsky.social" 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +104,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "caterinafusterb"
-  orcid            : "0000-0002-4784-6957"
+  orcid            : "https://orcid.org/0000-0002-4784-6957"
   pinterest        :
   soundcloud       :
   stackoverflow    : 

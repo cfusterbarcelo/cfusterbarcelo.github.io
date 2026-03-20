@@ -8,6 +8,14 @@
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
+    {% if site.author.bluesky %}
+      {% if site.author.bluesky contains "://" %}
+        {% assign bluesky_url = site.author.bluesky %}
+      {% else %}
+        {% assign bluesky_url = site.author.bluesky | prepend: "https://bsky.app/profile/" %}
+      {% endif %}
+      <li><a href="{{ bluesky_url }}"><i class="fas fa-link icon-bluesky" aria-hidden="true"></i> Bluesky</a></li>
+    {% endif %}
     {% if site.facebook.username %}
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
