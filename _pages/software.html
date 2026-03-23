@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "Software & Resources"
+permalink: /software/
+excerpt: "Software tools, community resources, and reusable outputs."
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign categories = "Software,Community Tool,Resource" | split: "," %}
+{% for category in categories %}
+  {% assign items_in_category = site.software | where: "type", category | sort: "order" %}
+  {% if items_in_category.size > 0 %}
+    <h2 class="section-title">{{ category }}</h2>
+    {% for post in items_in_category %}
+      <div class="software-entry">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="content-badge">{{ post.type }}</span>
+        {% if post.role %}
+          <span class="role-badge">{{ post.role }}</span>
+        {% endif %}
+        {% if post.excerpt %}
+          <div class="description">{{ post.excerpt }}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}

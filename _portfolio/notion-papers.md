@@ -2,6 +2,7 @@
 title: "Read Papers Template for Notion"
 excerpt: "My own Notion template to keep truck of all papers read."
 collection: portfolio
+category: "Other resources"
 ---
 ## Read Papers Template for Notion
 My own Notion template to keep track of all the papers read. You can duplicate it and use it for your own thesis/work. Free and easy to use to have all your papers tracked wihtout needing to read them over and over again.

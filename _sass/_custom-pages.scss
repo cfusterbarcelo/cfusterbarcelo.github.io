@@ -13,14 +13,16 @@
 .pub-entry,
 .talk-entry,
 .teaching-entry,
-.event-entry {
+.event-entry,
+.software-entry {
   margin-bottom: 20px;
 }
 
 .pub-entry a,
 .talk-entry a,
 .teaching-entry a,
-.event-entry a {
+.event-entry a,
+.software-entry a {
   font-size: 1.1em;
   font-weight: 600;
   text-decoration: none;
@@ -29,7 +31,8 @@
 .pub-entry .meta,
 .talk-entry .meta,
 .teaching-entry .meta,
-.event-entry .meta {
+.event-entry .meta,
+.software-entry .meta {
   font-size: 0.9em;
   color: #666;
 }
@@ -42,7 +45,8 @@
 .pub-entry .year-badge,
 .talk-entry .year-badge,
 .teaching-entry .year-badge,
-.event-entry .year-badge {
+.event-entry .year-badge,
+.software-entry .year-badge {
   display: inline-block;
   font-size: 0.85em;
   background-color: #f2f2f2;
@@ -56,6 +60,36 @@
   font-size: 0.95em;
   color: #444;
   margin-top: 5px;
+}
+
+.software-entry .description,
+.event-entry .description {
+  font-size: 0.95em;
+  color: #444;
+  margin-top: 5px;
+}
+
+.content-badge,
+.role-badge {
+  display: inline-block;
+  font-size: 0.78rem;
+  line-height: 1;
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  margin-left: 0.45rem;
+  vertical-align: middle;
+}
+
+.content-badge {
+  background: #eef4ff;
+  color: #1f4ea3;
+  border: 1px solid #cfe0ff;
+}
+
+.role-badge {
+  background: #f4f5f7;
+  color: #4a4f57;
+  border: 1px solid #e2e6eb;
 }
 
 .cv-actions {
@@ -245,4 +279,41 @@
 
 .home-focus-list li {
   margin-bottom: 0.5rem;
+}
+
+.selected-outputs {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.selected-output-card {
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 1rem 1rem 0.9rem;
+  background: #fff;
+}
+
+.selected-output-card__header {
+  margin-bottom: 0.55rem;
+}
+
+.selected-output-card__title {
+  font-size: 1.02rem;
+  margin: 0 0 0.45rem;
+}
+
+.selected-output-card__title a {
+  text-decoration: none;
+}
+
+.selected-output-card__description {
+  margin: 0;
+  color: #4f5560;
+  font-size: 0.95rem;
+  line-height: 1.6;
 }

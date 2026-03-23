@@ -6,6 +6,7 @@ permalink: /events/2024-globias-gothenburg
 venue: "Annual Workshop Gothenburg 2024"
 location: "Gothenburg, Sweden"
 date: 2024-11-05
+role: "Participant"
 layout: single
 ---
 

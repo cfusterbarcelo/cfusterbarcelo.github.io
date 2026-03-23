@@ -15,6 +15,9 @@ author_profile: true
   <div class="event-entry">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    {% if post.role %}
+      <span class="role-badge">{{ post.role }}</span>
+    {% endif %}
     <div class="meta">{{ post.venue }} — {{ post.location }}</div>
   </div>
 {% endfor %}
@@ -26,6 +29,9 @@ author_profile: true
   <div class="event-entry">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    {% if post.role %}
+      <span class="role-badge">{{ post.role }}</span>
+    {% endif %}
     <div class="meta">{{ post.venue }} — {{ post.location }}</div>
   </div>
 {% endfor %}
@@ -37,6 +43,9 @@ author_profile: true
   <div class="event-entry">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="year-badge">{{ post.date | date: "%Y" }}</span>
+    {% if post.role %}
+      <span class="role-badge">{{ post.role }}</span>
+    {% endif %}
     <div class="meta">{{ post.venue }} — {{ post.location }}</div>
   </div>
 {% endfor %}

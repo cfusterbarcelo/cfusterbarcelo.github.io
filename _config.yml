@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dra. Caterina Fuster-Barceló"
 title_separator          : "-"
 name                     : &name "Caterina Fuster-Barceló"
-description              : &description "Postdoctoral researcher at UZH working on foundation models and efficient, sustainable AI for bioimage analysis."
+description              : &description "Postdoctoral researcher in computational bioimage analysis developing robust, efficient, and transferable AI for microscopy."
 url                      : https://cfusterbarcelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfusterbarcelo/cfusterbarcelo.github.io"
@@ -189,6 +189,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -252,6 +255,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
       author_profile: true
       share: true
   # _events

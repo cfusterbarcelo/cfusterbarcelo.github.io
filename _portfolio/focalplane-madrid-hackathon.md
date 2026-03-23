@@ -2,6 +2,7 @@
 title: "AI4Life Event Highlights: A Successful Fusion of Workshops, Hackathon, and Uploathon"
 excerpt: "Article in FocalPlane about the outcomes of the workshop and hackathon in UC3M, Madrid"
 collection: portfolio
+category: "Community writing"
 ---
 # AI4Life Event Highlights: A Successful Fusion of Workshops, Hackathon, and Uploathon
 

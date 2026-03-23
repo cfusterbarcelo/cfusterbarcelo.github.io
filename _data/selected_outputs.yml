@@ -1,0 +1,19 @@
+- title: "Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?"
+  kind: "Paper"
+  url: "/publication/2026-vfms-electron-microscopy"
+  description: "Studies when vision foundation models transfer across electron microscopy datasets and where lightweight adaptation still fails."
+
+- title: "BioImage Model Zoo"
+  kind: "Talk"
+  url: "/teaching/2026-EBI-BioImage-Model-Zoo"
+  description: "Invited EMBL-EBI training lecture on how pre-trained models can be discovered, shared, and reused in microscopy workflows."
+
+- title: "SAMJ"
+  kind: "Software"
+  url: "/software/samj/"
+  description: "Brings Segment Anything-based interactive annotation into Fiji/ImageJ for practical microscopy analysis and reproducible labeling workflows."
+
+- title: "BioImage.IO Chatbot"
+  kind: "Resource"
+  url: "/software/bioimageio-chatbot/"
+  description: "Community-driven assistant that turns distributed bioimage analysis documentation into searchable, task-oriented guidance."

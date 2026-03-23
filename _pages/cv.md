@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-excerpt: "Academic CV and research profile focused on foundation models and efficient, sustainable AI for bioimage analysis."
+excerpt: "Academic CV for a postdoctoral researcher in computational bioimage analysis working toward robust, efficient, and transferable AI for microscopy."
 author_profile: true
 redirect_from:
   - /resume
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working on foundation models for bioimage analysis. My current research focuses on how to make AI for microscopy more principled, efficient, and sustainable, with a continued contribution to the [BioImage Model Zoo](https://bioimage.io/).
+I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working in computational bioimage analysis. My current research focuses on foundation models, efficient adaptation, and reproducible AI for microscopy, with an emphasis on robust and transferable methods for real scientific workflows. My academic profile combines methodological research with software, training, and community-facing contributions.
 
 <p class="cv-actions">
   <a href="#" class="cv-action-link" onclick="window.print(); return false;">Print / Save as PDF</a>
@@ -19,15 +19,15 @@ I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](h
 
 ## Academic Background
 - Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), _13 Dec. 2022_
-- M.Sc. in Cibersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
+- M.Sc. in Cybersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
 - B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
 
 ## Professional History
 
 - **Postdoctoral Researcher**: _Sep 2025 – Present_  
   **Where**: [University of Zurich (UZH)](https://www.uzh.ch/en.html), [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html)  
-  **Field**: Bioimage analysis  
-  **Focus**: Foundation models for bioimage analysis; efficient, sustainable, and theoretically grounded AI  
+  **Field**: Computational bioimage analysis
+  **Focus**: Foundation models, efficient adaptation, and transferable AI for microscopy
   **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
  
 - **Postdoctoral Researcher**: _Jan 2023 - Aug 2025_  
@@ -62,6 +62,23 @@ I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](h
   **Where**: [Air Europa, S.L.](https://www.aireuropa.com)  
   **Field**: Server/infrastructure maintenance and cybersecurity  
   **Supervisor**: [Bernat Mut González](https://es.linkedin.com/in/bernatmut)
+
+## Awards, Fellowships & Grants
+
+- **MSCA Postdoctoral Fellowship - Seal of Excellence** - _2025, European Commission_
+  - Recognized for high-quality research proposal in the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship programme.
+- **UC3M Mobility Grant for Research Stays** — _2023, Universidad Carlos III de Madrid_
+  - Awarded to support a one-month research stay at [KTH](https://www.kth.se/en), [SciLifeLab](https://www.scilifelab.se) with Wei Ouyang.
+
+## Academic Service
+
+### Peer Review
+
+Reviewer for journals including:
+
+- *Biomedical Engineering Letters*
+- *Engineering Applications of Artificial Intelligence*
+- *Pattern Recognition*
 
 ## Publications
 

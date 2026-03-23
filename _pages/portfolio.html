@@ -1,14 +1,28 @@
 ---
 layout: archive
-title: "Articles"
-permalink: /portfolio/
+title: "Writing & Outreach"
+permalink: /writing-outreach/
 excerpt: "Writing, outreach, and community resources."
 author_profile: true
+redirect_from:
+  - /portfolio/
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign categories = "Outreach articles,Community writing,Technical/tutorial writing,Other resources" | split: "," %}
+{% for category in categories %}
+  {% assign posts_in_category = site.portfolio | where: "category", category %}
+  {% if posts_in_category.size > 0 %}
+    <h2 class="section-title">{{ category }}</h2>
+    {% assign sorted_posts = posts_in_category | sort: "title" %}
+    {% for post in sorted_posts %}
+      <div class="pub-entry">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% if post.excerpt %}
+          <div class="description">{{ post.excerpt }}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
 {% endfor %}

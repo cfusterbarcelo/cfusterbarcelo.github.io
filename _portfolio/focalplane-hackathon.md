@@ -2,6 +2,7 @@
 title: "Outcomes of the Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis"
 excerpt: "Article in FocalPlane about the outcomes of the hackathon in SciLifeLab, KTH, Stockholm"
 collection: portfolio
+category: "Community writing"
 ---
 # Outcomes of the Hackathon on Web and Cloud Infrastructure for AI-Powered BioImage Analysis
 

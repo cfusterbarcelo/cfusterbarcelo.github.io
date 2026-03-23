@@ -6,17 +6,20 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Software & Resources"
+    url: /software/
+
   - title: "Talks"
     url: /talks/ 
 
-  - title: "Events"
-    url: /events/  
-
   - title: "Teaching"
     url: /teaching/ 
+
+  - title: "Events"
+    url: /events/
     
-  - title: "Articles"
-    url: /portfolio/
+  - title: "Writing & Outreach"
+    url: /writing-outreach/
 
 
 
