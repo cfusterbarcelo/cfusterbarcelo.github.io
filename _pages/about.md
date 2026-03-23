@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Dra. Caterina Fuster-Barceló"
-excerpt: "Postdoctoral researcher at the Uhlmann Group and BioVision Center, University of Zurich, working on machine learning for bioimage analysis."
+excerpt: "Postdoctoral researcher at UZH working on foundation models and efficient, sustainable AI for bioimage analysis."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <div class="home-intro">
-  <p class="home-lead">I am a postdoctoral researcher at the <a href="https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html">Uhlmann Group</a> and the <a href="https://www.biovisioncenter.uzh.ch/en.html">BioVision Center</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a>, working on machine learning for <strong>bioimage analysis</strong>.</p>
+  <p class="home-lead">I am a postdoctoral researcher at the <a href="https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html">Uhlmann Group</a> and the <a href="https://www.biovisioncenter.uzh.ch/en.html">BioVision Center</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a>, working on foundation models and machine learning for <strong>bioimage analysis</strong>.</p>
 
-  <p>I work on accessible and reproducible AI tools for imaging, with recent contributions to <a href="https://ai4life.eurobioimaging.eu/">AI4Life</a>, the <a href="https://bioimage.io/">BioImage Model Zoo</a>, <a href="https://deepimagej.github.io/">deepImageJ</a>, <a href="https://github.com/segment-anything-models-java/SAMJ-IJ">SAMJ</a>, and the BioImage.IO Chatbot.</p>
+  <p>My current work focuses on foundation models for bioimage analysis and on how to make AI for microscopy more robust, efficient, and sustainable. I still contribute to the <a href="https://bioimage.io/">BioImage Model Zoo</a>, while projects such as AI4Life, deepImageJ, SAMJ, and related community tools belong primarily to my previous postdoctoral work.</p>
 
   <div class="home-actions">
     <a href="{{ '/cv/' | relative_url }}" class="cv-action-link">CV</a>
@@ -28,10 +28,10 @@ redirect_from:
   <section class="home-block">
     <h2 class="section-title">Current Focus</h2>
     <ul class="home-focus-list">
-      <li>Machine learning for bioimage analysis</li>
-      <li>Accessible AI tools for microscopy workflows</li>
-      <li>Model sharing and reuse through the BioImage Model Zoo</li>
-      <li>Community software such as deepImageJ and SAMJ</li>
+      <li>Foundation models for bioimage analysis</li>
+      <li>Theoretical understanding of transfer and generalization across datasets</li>
+      <li>Efficient and more sustainable AI for microscopy workflows</li>
+      <li>Continued contributions to the BioImage Model Zoo</li>
     </ul>
   </section>
 
@@ -81,7 +81,7 @@ redirect_from:
 <section class="home-block">
   <h2 class="section-title">Background</h2>
   <ul class="home-focus-list">
-    <li>Previously postdoctoral researcher at <a href="https://www.uc3m.es/">UC3M</a> and <a href="https://www.iisgm.com/">IISGM</a></li>
+    <li>Previously postdoctoral researcher at <a href="https://www.uc3m.es/">UC3M</a> and <a href="https://www.iisgm.com/">IISGM</a>, where I worked on AI4Life, deepImageJ, SAMJ, and community-facing bioimage analysis tools</li>
     <li>PhD in Computer Science and Technology (<em>cum laude</em>) at <a href="https://www.uc3m.es/">UC3M</a></li>
     <li>MSc in Cybersecurity at <a href="https://www.uc3m.es/">UC3M</a></li>
     <li>BSc in Telematics Engineering at <a href="https://www.uib.cat">UIB</a></li>

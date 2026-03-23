@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-excerpt: "Academic CV, professional history, publications, talks, teaching, and events."
+excerpt: "Academic CV and research profile focused on foundation models and efficient, sustainable AI for bioimage analysis."
 author_profile: true
 redirect_from:
   - /resume
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a postdoctoral researcher at the [Uhlmann Group](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html) and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working on machine learning for bioimage analysis. My recent work spans [AI4Life](https://ai4life.eurobioimaging.eu/), the [BioImage Model Zoo](https://bioimage.io/), [deepImageJ](https://deepimagej.github.io/), [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ), and community-facing tools such as the BioImage.IO Chatbot. I focus on making AI methods for imaging more accessible, reproducible, and useful to researchers.
+I am a postdoctoral researcher at the [Uhlmann Group](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html) and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working on foundation models for bioimage analysis. My current research focuses on how to make AI for microscopy more principled, efficient, and sustainable, with a continued contribution to the [BioImage Model Zoo](https://bioimage.io/).
 
 <p class="cv-actions">
   <a href="#" class="cv-action-link" onclick="window.print(); return false;">Print / Save as PDF</a>
@@ -27,13 +27,14 @@ I am a postdoctoral researcher at the [Uhlmann Group](https://www.biovisioncente
 - **Postdoctoral Researcher**: _Sep 2025 – Present_  
   **Where**: [University of Zurich (UZH)](https://www.uzh.ch/en.html), [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html)  
   **Field**: Bioimage analysis  
+  **Focus**: Foundation models for bioimage analysis; efficient, sustainable, and theoretically grounded AI  
   **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
  
 - **Postdoctoral Researcher**: _Jan 2023 - Aug 2025_  
   **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department  
   **Field**: Bioimage analysis  
   **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
-  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
+  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io), [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ)
 
 - **Postdoctoral Researcher**: _Jan 2024 - Aug 2025_  
   **Where**: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/)  
