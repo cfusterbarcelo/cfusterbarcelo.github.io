@@ -6,6 +6,7 @@ permalink: /talks/2025-Agora-CNNs
 venue: "Ágora – Journal Club, Universidad Carlos III de Madrid"
 date: 2025-04-10
 location: "Universidad Carlos III de Madrid, Spain"
+map_location: "Leganés, Spain"
 ---
 
 In April 2025, together with my master students **Claudia Castrillón-Álvarez** and **Laura Rodrigo-Muñoz**, I delivered a session titled **"Lecture & Practical Session on Advanced CNNs"** at the **Ágora** Journal Club organized by the Signal Theory and Communications Department at Universidad Carlos III de Madrid.

@@ -6,6 +6,7 @@ permalink: /talks/2022-WTMMadrid
 venue: "Women Techmakers Madrid 2022"
 date: 2022-04-23
 location: "Puerta de Toledo, Madrid"
+map_location: "Madrid, Spain"
 ---
 Más información en [Women Techmakers Madrid](http://wtmgdgmadrid.github.io/#program).
 

@@ -6,6 +6,7 @@ permalink: /talks/2025-BIA-Pasteur
 venue: "NEUBIAS Bioimage Analysis Course"
 date: 2025-05-14
 location: "Institut Pasteur, Paris, France"
+map_location: "Paris, France"
 ---
 
 In May 2025, I delivered a session titled **"AI-Based Pipelines for Bioimage Analysis"** at the [NEUBIAS Bioimage Analysis Course](https://france-bioimaging.org/announcement/neubias-pasteur-course-on-bioimage-analysis-2025/) hosted at [Institut Pasteur](https://research.pasteur.fr/en/course/neubias-network-of-european-bioimage-analysts/), Paris. This course is part of the prestigious NEUBIAS training series, focused on advancing bioimage analysis across Europe.

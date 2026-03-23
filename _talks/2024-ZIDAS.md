@@ -6,6 +6,7 @@ permalink: /talks/2024-ZIDAS
 venue: "ZIDAS Summer School"
 date: 2024-06-28
 location: "ETH Zurich, Switzerland"
+map_location: "Zurich, Switzerland"
 ---
 
 On June 2024 I had the pleasure to present the [BioImage.IO Chatbot](https://bioimage.io/chat/) at the [ZIDAS Summer School](https://2024.zidas.org) in ETH Zurich, Switzerland. The ZIDAS Summer School is a unique event that brings together leading experts in the field of bioimage analysis, providing a platform for knowledge exchange and collaboration.

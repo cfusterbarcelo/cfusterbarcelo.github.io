@@ -6,6 +6,7 @@ permalink: /talks/2025-TechFest
 venue: "T3chFest Community Talks"
 date: 2025-03-13
 location: "Universidad Carlos III de Madrid, Spain"
+map_location: "Leganés, Spain"
 lang: "es"
 ---
 ### 🇪🇸 Español

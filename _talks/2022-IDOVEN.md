@@ -6,6 +6,7 @@ permalink: /talks/2022-IDOVEN
 venue: "Idoven"
 date: 2022-11-23
 location: "Gran Vía, Madrid"
+map_location: "Madrid, Spain"
 ---
 
 I had the pleasure to visit [IDOVEN](https://es.idoven.ai) and give a small talk about my PhD Thesis in the Telefónica Building in Gran vía, where their office is placed. 

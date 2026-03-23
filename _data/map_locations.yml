@@ -1,0 +1,63 @@
+- name: "Cartagena, Spain"
+  latitude: 37.6257
+  longitude: -0.9966
+
+- name: "East Sussex, UK"
+  latitude: 50.9316
+  longitude: 0.2106
+
+- name: "Gothenburg, Sweden"
+  latitude: 57.7089
+  longitude: 11.9746
+
+- name: "Granada, Spain"
+  latitude: 37.1765
+  longitude: -3.5979
+
+- name: "Heidelberg, Germany"
+  latitude: 49.3988
+  longitude: 8.6724
+
+- name: "Lausanne, Switzerland"
+  latitude: 46.5197
+  longitude: 6.6339
+
+- name: "Leganés, Spain"
+  latitude: 40.3270
+  longitude: -3.7635
+
+- name: "Madrid, Spain"
+  latitude: 40.4168
+  longitude: -3.7038
+
+- name: "Milan, Italy"
+  latitude: 45.4642
+  longitude: 9.1900
+
+- name: "Paris, France"
+  latitude: 48.8566
+  longitude: 2.3522
+
+- name: "Prague, Czech Republic"
+  latitude: 50.0755
+  longitude: 14.4378
+
+- name: "Rio de Janeiro, Brazil"
+  latitude: -22.9068
+  longitude: -43.1729
+
+- name: "Saarbrücken, Germany"
+  latitude: 49.2402
+  longitude: 6.9969
+
+- name: "Stockholm, Sweden"
+  latitude: 59.3293
+  longitude: 18.0686
+
+- name: "Toledo, Spain"
+  latitude: 39.8628
+  longitude: -4.0273
+
+- name: "Zurich, Switzerland"
+  latitude: 47.3769
+  longitude: 8.5417

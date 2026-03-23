@@ -5,10 +5,10 @@ type: "Talk"
 permalink: /talks/2025-CellPhysics-AI4Life
 venue: "Cell Physics 2025"
 date: 2025-10-09
-location: "Universität des Saarlandes"
+location: "Saarbrücken, Germany"
 ---
 
-In October 2025, I gave the talk **"Transforming BioImage Analysis: The AI4Life Approach"** at [Cell Physics 2025](https://cell-physics.uni-saarland.de), hosted at Universität des Saarlandes.
+In October 2025, I gave the talk **"Transforming BioImage Analysis: The AI4Life Approach"** at [Cell Physics 2025](https://cell-physics.uni-saarland.de), hosted at Universität des Saarlandes in Saarbrücken, Germany.
 
 The presentation introduced the AI4Life approach to user-centred bioimage analysis workflows, with an emphasis on accessible and FAIR machine learning pipelines. The talk covered:
 

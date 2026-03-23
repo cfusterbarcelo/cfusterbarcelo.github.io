@@ -6,6 +6,7 @@ permalink: /talks/2022-PyconES
 venue: "PyconES"
 date: 2022-10-01
 location: "Granada, Andalucía"
+map_location: "Granada, Spain"
 ---
 
 
