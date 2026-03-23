@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a postdoctoral researcher at the [Uhlmann Group](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html) and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working on foundation models for bioimage analysis. My current research focuses on how to make AI for microscopy more principled, efficient, and sustainable, with a continued contribution to the [BioImage Model Zoo](https://bioimage.io/).
+I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working on foundation models for bioimage analysis. My current research focuses on how to make AI for microscopy more principled, efficient, and sustainable, with a continued contribution to the [BioImage Model Zoo](https://bioimage.io/).
 
 <p class="cv-actions">
   <a href="#" class="cv-action-link" onclick="window.print(); return false;">Print / Save as PDF</a>

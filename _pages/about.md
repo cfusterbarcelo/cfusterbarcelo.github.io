@@ -11,7 +11,7 @@ redirect_from:
 <div class="home-intro">
   <p class="home-lead">I am a postdoctoral researcher at the <a href="https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html">Uhlmann Group</a> and the <a href="https://www.biovisioncenter.uzh.ch/en.html">BioVision Center</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a>, working on foundation models and machine learning for <strong>bioimage analysis</strong>.</p>
 
-  <p>My current work focuses on foundation models for bioimage analysis and on how to make AI for microscopy more robust, efficient, and sustainable. I still contribute to the <a href="https://bioimage.io/">BioImage Model Zoo</a>, while projects such as AI4Life, deepImageJ, SAMJ, and related community tools belong primarily to my previous postdoctoral work.</p>
+  <p>My current work focuses on foundation models for bioimage analysis and on how to make AI for microscopy more robust, efficient, and sustainable. I am a contributor to the <a href="https://bioimage.io/">BioImage Model Zoo</a> and I have also contributed in my previous postdoc on projects such as AI4Life, deepImageJ, SAMJ, and related community tools. Find </p>
 
   <div class="home-actions">
     <a href="{{ '/cv/' | relative_url }}" class="cv-action-link">CV</a>
