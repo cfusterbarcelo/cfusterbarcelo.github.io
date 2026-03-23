@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+excerpt: "Academic CV, professional history, publications, talks, teaching, and events."
 author_profile: true
 redirect_from:
   - /resume
@@ -9,27 +10,32 @@ redirect_from:
 
 {% include base_path %}
 
-I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on AI4Life project, Bioimage Model Zoo, the BioImage.IO Chatbot, and deepImageJ. My Ph.D. in Computer Science and Technology kickstarted this journey, leading me into the fascinating realm of bioimage analysis. Through projects like deepImageJ and the Bioimage Model Zoo, I'm on the front lines of integrating artificial intelligence into biomedical imaging, making strides in how we analyze and interpret biological images. Whether it's developing a chatbot to streamline bioimage analysis or pushing the boundaries with AI4Life, my work is all about leveraging technology to unveil the microscopic mysteries of biology. It's not just about the tech; it's about opening new doors in healthcare and research, one pixel at a time.
+I am a postdoctoral researcher at the [Uhlmann Group](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html) and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working on machine learning for bioimage analysis. My recent work spans [AI4Life](https://ai4life.eurobioimaging.eu/), the [BioImage Model Zoo](https://bioimage.io/), [deepImageJ](https://deepimagej.github.io/), [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ), and community-facing tools such as the BioImage.IO Chatbot. I focus on making AI methods for imaging more accessible, reproducible, and useful to researchers.
+
+<p class="cv-actions">
+  <a href="#" class="cv-action-link" onclick="window.print(); return false;">Print / Save as PDF</a>
+  <a href="{{ '/publications/' | relative_url }}" class="cv-action-link cv-action-link--secondary">Full publications list</a>
+</p>
 
 ## Academic Background
 - Ph.D. in Computer Science and Technology, [Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/computer-science-technology), _13 Dec. 2022_
-- M.Sc. in Cibersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
+- M.Sc. in Cybersecurity, [Universidad Carlos III de Madrid](https://www.uc3m.es/master/cybersecurity), 2020
 - B.Sc. in Telematics Engineering, [Universitat de les Illes Balears](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019
 
 ## Professional History
 
-- **Post-doctoral Researcher**: _Sep 2025 – Present_  
+- **Postdoctoral Researcher**: _Sep 2025 – Present_  
   **Where**: [University of Zurich (UZH)](https://www.uzh.ch/en.html), [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html)  
   **Field**: Bioimage analysis  
   **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
  
-- **Post-doctoral Researcher**: _Jan 2023 - Aug 2025_  
+- **Postdoctoral Researcher**: _Jan 2023 - Aug 2025_  
   **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department  
   **Field**: Bioimage analysis  
   **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
-  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
+  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io)
 
-- **Post-doctoral Researcher**: _Jan 2024 - Aug 2025_  
+- **Postdoctoral Researcher**: _Jan 2024 - Aug 2025_  
   **Where**: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/)  
   **Field**: Artificial Intelligence in biomedical imaging  
   **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
@@ -38,7 +44,7 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
   **Where**: [KTH](https://www.kth.se/en), [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden  
   **Field**: Bioimage analysis  
   **PI**: [Dr. Wei Ouyang](https://oeway.github.io)  
-  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [Bioimage Model Zoo](https://bioimage.io/#/)
+  **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/)
 
 - **PhD Candidate**: _Sept 2020 - Dec 2022_  
   **Where**: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology)  
@@ -58,6 +64,8 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
 
 ## Publications
 
+For full citations and publication details, see the [Publications page]({{ '/publications/' | relative_url }}).
+
 {% assign categories_order = "Peer-review Journals,Preprints,Conference Proceedings,Conference Abstracts,Datasets,Misc" | split: "," %}
 {% for category in categories_order %}
   {% assign publications_in_category = site.publications | where: "category", category %}
@@ -65,11 +73,11 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
   <h3 class="category-toggle">{{ category }} <span class="toggle-icon">+</span></h3>
   <div id="publications-{{ category | slugify }}" class="publications-section">
     <ul class="pub-list">
-      {% for post in publications_in_category %}
+      {% assign sorted_publications = publications_in_category | sort: "date" | reverse %}
+      {% for post in sorted_publications %}
         <li class="pub-item">
-          <strong><a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a></strong><br>
-          <span class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</span><br>
-          <span class="pub-citation">{{ post.citation }}</span>
+          <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong><br>
+          <span class="pub-venue">{{ post.venue | default: category }}, {{ post.date | date: "%Y" }}</span>
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}" class="pub-link-icon" target="_blank" title="Paper link">📄</a>
           {% endif %}
@@ -193,126 +201,6 @@ I'm Caterina Fuster-Barceló, currently in the post-doc world with my focus on A
 - Honours in Linear Algebra & Discrete Mathematics, _2016_
 - Short-story contest winner, _2016_
 - Waitress at [Sa Cova Dets Ases](https://goo.gl/maps/RrAiCwAej4EKAkbh8), _2015–2016_
-
-<style>
-/* General section toggles */
-.section-toggle {
-  cursor: pointer;
-  margin-bottom: 5px;
-  font-size: 1.15rem;
-  font-weight: 600;
-  color: #333;
-}
-
-/* Consistent content toggle sections */
-.section-content {
-  display: none;
-  margin-bottom: 20px;
-  padding-left: 10px;
-}
-
-/* Toggle icons */
-.toggle-icon {
-  margin-left: 8px;
-  font-weight: bold;
-  font-size: 1rem;
-  color: #666;
-}
-
-/* Publications and category headers */
-.category-toggle {
-  cursor: pointer;
-  margin-top: 1.5em;
-  font-weight: 600;
-  font-size: 1.1rem;
-  color: #444;
-}
-
-/* CV containers (for Talks by year) */
-.year-toggle {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-top: 1.5em;
-  cursor: pointer;
-}
-
-.year-content {
-  display: none;
-  padding-left: 10px;
-  margin-bottom: 20px;
-}
-
-/* Publication list consistency */
-.pub-list {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 10px;
-}
-
-.pub-item {
-  margin-bottom: 20px;
-  border-left: 3px solid #444;
-  padding-left: 12px;
-}
-
-.pub-item strong {
-  font-size: 1rem;
-}
-
-.pub-venue {
-  font-size: 0.85rem;
-  color: #666;
-  font-style: italic;
-}
-
-.pub-citation {
-  font-size: 0.85em;
-  color: #666;
-  margin-top: 0.3em;
-  font-family: Georgia, serif;
-}
-
-.pub-link-icon {
-  margin-left: 8px;
-  text-decoration: none;
-  font-size: 1rem;
-}
-
-.pub-meta {
-  font-size: 0.9em;
-  color: #555;
-  margin-bottom: 5px;
-}
-
-.pub-excerpt {
-  font-size: 1em;
-  color: #333;
-  margin-top: 0.3em;
-  margin-bottom: 0.6em;
-  font-style: italic;
-}
-
-/* Normalize Teaching/Event titles */
-.archive__item-title {
-  font-size: 1rem !important;
-  margin-bottom: 2px;
-  color: #007acc;
-  font-weight: 600;
-}
-
-.archive__item-excerpt {
-  font-size: 0.85rem;
-  color: #444;
-  margin-bottom: 10px;
-  font-style: italic;
-}
-
-/* Improve spacing between entries */
-.archive__item {
-  margin-bottom: 15px;
-}
-</style>
-
 
 <script>
 document.querySelectorAll('.year-toggle, .category-toggle').forEach(t => {

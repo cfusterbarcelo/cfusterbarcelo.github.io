@@ -2,52 +2,11 @@
 layout: archive
 title: "Talks and Presentations"
 permalink: /talks/
+excerpt: "Talks, invited presentations, workshops, and conference sessions."
 author_profile: true
 ---
 
 {% include base_path %}
-
-<style>
-.section-title {
-  font-size: 1.5em;
-  font-weight: 600;
-  margin-top: 40px;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 4px;
-}
-
-.talk-entry {
-  margin-bottom: 20px;
-}
-
-.talk-entry a {
-  font-size: 1.1em;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.talk-entry .meta {
-  font-size: 0.9em;
-  color: #666;
-}
-
-.talk-entry .year-badge {
-  display: inline-block;
-  font-size: 0.85em;
-  background-color: #f2f2f2;
-  padding: 2px 8px;
-  border-radius: 12px;
-  margin-left: 10px;
-  color: #444;
-}
-</style>
-
-<!-- MAP -->
-<iframe src="/talkmap/map.html" height="700" width="100%" style="border:none;"></iframe>
-
-{% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-{% endif %}
 
 <!-- Talks -->
 <h2 class="section-title">Talks and Presentations</h2>
@@ -59,3 +18,12 @@ author_profile: true
     <div class="meta">{{ post.venue }} — {{ post.location }}</div>
   </div>
 {% endfor %}
+
+<details class="talk-map-toggle">
+  <summary>Show talk map</summary>
+  <iframe src="{{ '/talkmap/map.html' | relative_url }}" class="talks-map" loading="lazy" title="Map of talks"></iframe>
+</details>
+
+{% if site.talkmap_link == true %}
+<p class="talk-map-link"><a href="{{ '/talkmap.html' | relative_url }}">See a map of all the places I've given a talk</a>.</p>
+{% endif %}

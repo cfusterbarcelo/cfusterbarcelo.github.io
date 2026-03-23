@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dra. Caterina Fuster-Barceló"
 title_separator          : "-"
 name                     : &name "Caterina Fuster-Barceló"
-description              : &description "Post-Doctoral Researcher"
+description              : &description "Postdoctoral researcher in bioimage analysis at the Uhlmann Group and BioVision Center, University of Zurich."
 url                      : https://cfusterbarcelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfusterbarcelo/cfusterbarcelo.github.io"
@@ -50,14 +50,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "-XPSOvv5RwyurXbGBNgBDJdiivO1Mcw1NjMK0i8NnS8"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "cfusterbarcelo"
 facebook:
   username               :
   app_id                 :
@@ -66,9 +66,16 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Caterina Fuster-Barceló"
+  links:
+    - "https://cfusterbarcelo.github.io/"
+    - "https://github.com/cfusterbarcelo"
+    - "https://www.linkedin.com/in/caterinafusterb"
+    - "https://orcid.org/0000-0002-4784-6957"
+    - "https://scholar.google.es/citations?user=zHebeGsAAAAJ&hl"
+    - "https://bsky.app/profile/cfusterbarcelo.bsky.social"
+    - "https://twitter.com/cfusterbarcelo"
 
 
 # Analytics
@@ -82,7 +89,7 @@ analytics:
 author:
   name             : "Caterina Fuster-Barceló"
   avatar           : "IMG_0241.jpeg"
-  bio              : "Post-Doctoral Researcher"
+  bio              : "Postdoctoral Researcher"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
