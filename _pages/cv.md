@@ -199,16 +199,17 @@ For full citations and publication details, see the [Publications page]({{ '/pub
   B.Sc. Thesis, [UIB](https://www.uib.eu/Learn/estudis-de-grau/grau/telematica/GTTT-P/), 2019  
   Supervised by [M. Francisca Hinarejos Campos](https://www.uib.es/es/personal/ABjExMDM1Nw/)
 
-## Certifications
-- [Academic Teaching Excellence](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido)
-- [Microscopy Data Analysis](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/)
-- [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones)
+## Training & Certifications
+- [Grant Writing Workshop for Postdocs](https://www.skills.grc.uzh.ch/angebot/details/15330?angebotTitel=grant-writing-workshop-for-postdocs), Graduate Campus, University of Zurich (UZH)
+- [Academic Teaching Excellence](https://www.uc3m.es/pdi/PDI-Training/Courses/Academic-teaching-excellence#contenido), Universidad Carlos III de Madrid (UC3M)
+- [Microscopy Data Analysis](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/), EMBL-EBI
+- [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones), CSIC
 - Autopsy Software for Forensic Analysis
 - Ethical Hacking
 - English Level C1 (MECR)
 - French Level A2
 - Machine Learning with Python (edX)
-- Deep Learning ([UC3M](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2))
+- [Deep Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2), Universidad Carlos III de Madrid (UC3M)
 
 ## Others
 - Finalist in [Thesis Talks 2021](https://www.uc3m.es/doctorado/thesis-talk-2021), [video](https://media.uc3m.es/video/60d2df8c8f4208a50b8b456d?track_id=60d2e01c8f4208f50b8b4567)
