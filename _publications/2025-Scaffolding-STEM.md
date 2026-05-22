@@ -7,6 +7,7 @@ excerpt: "A two-year evaluation of tool-supported project-based learning and pee
 date: 2025-09-02
 paperurl: "https://arxiv.org/abs/2509.02355"
 citation: "Caterina Fuster-Barceló, Gonzalo R. Ríos-Muñoz, Arrate Muñoz-Barrutia. \"Scaffolding Collaborative Learning in STEM: A Two-Year Evaluation of a Tool-Integrated Project-Based Methodology.\" arXiv preprint arXiv:2509.02355 (2025)."
+authors: "Caterina Fuster-Barceló, Gonzalo R. Ríos-Muñoz, Arrate Muñoz-Barrutia"
 ---
 
 ## Scaffolding Collaborative Learning in STEM: A Two-Year Evaluation of a Tool-Integrated Project-Based Methodology

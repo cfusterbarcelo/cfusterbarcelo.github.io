@@ -10,6 +10,7 @@ location: "Cartagena, Murcia, Spain"
 paperurl: ""
 featuredin: ""
 citation: "Delicado-Correa, G.R., Fuster-Barceló, C., Suárez-Vega, V.M., Pérez-Fernández, N., Bastarrika, G., & Muñoz-Barrutia, A. (2023). Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Mènière. *CASEIB 2023*."
+authors: "G. R. Delicado-Correa, Caterina Fuster-Barceló, Víctor Manuel Suárez-Vega, Nicolás Pérez-Fernández, Gorka Bastarrika, Arrate Muñoz-Barrutia"
 ---
 **Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Mènière**
 

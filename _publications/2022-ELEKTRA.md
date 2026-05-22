@@ -10,6 +10,7 @@ location: "Netherlands"
 paperurl: "https://doi.org/10.1016/j.neucom.2022.07.059"
 featuredin: "https://www.20minutos.es/salud/actualidad/5084580/"
 citation: "Fuster-Barceló, C., Peris-Lopez, P., & Camara, C. (2022). ELEKTRA: ELEKTRokardiomatrix application to biometric identification with convolutional neural networks. *Neurocomputing, 506*, 37–49. https://doi.org/10.1016/j.neucom.2022.07.059"
+authors: "Caterina Fuster-Barceló, Pedro Peris-López, Carmen Cámara"
 ---
 **ELEKTRA: ELEKTRokardiomatrix Application to Biometric Identification with Convolutional Neural Networks**
 

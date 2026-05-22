@@ -9,6 +9,7 @@ venue: "IEEE 19th International Conference on Body Sensor Networks (BSN)"
 location: "Cambridge, UK"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10331002"
 citation: "Peris-Lopez, P., Fuster-Barceló, C., Camara, C., & Martin, H. (2023). *Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection*. IEEE BSN 2023. https://ieeexplore.ieee.org/abstract/document/10331002"
+authors: "Pedro Peris-López, Caterina Fuster-Barceló, Carmen Cámara, H. Martin"
 ---
 ## Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection
 

@@ -10,6 +10,7 @@ location: "Preprint"
 paperurl: "https://www.biorxiv.org/content/10.1101/2024.01.12.575015v1.abstract"
 featuredin: "https://www.biorxiv.org/content/10.1101/2024.01.12.575015v1"
 citation: "Fuster-Barceló, C., García López de Haro, C., Gómez-de-Mariscal, E., Ouyang, W., Olivo-Marin, J.C., Sage, D., & Muñoz-Barrutia, A. (2024). Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ. *bioRxiv*. https://doi.org/10.1101/2024.01.12.575015"
+authors: "Caterina Fuster-Barceló, Carlos García López de Haro, Estibaliz Gómez-de-Mariscal, Wei Ouyang, Jean-Christophe Olivo-Marin, Daniel Sage, Arrate Muñoz-Barrutia"
 ---
 **Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ**
 
@@ -32,4 +33,3 @@ By lowering the entry barrier for applying AI in microscopy, **deepImageJ** empo
 📄 [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.01.12.575015v1)  
 🧠 [deepImageJ Plugin Overview](https://deepimagej.github.io/deepimagej/)  
 💻 [GitHub Repository](https://github.com/deepimagej/deepimagej)
-

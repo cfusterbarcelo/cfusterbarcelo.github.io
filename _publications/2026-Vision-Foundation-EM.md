@@ -8,6 +8,7 @@ date: 2026-02-09
 venue: "Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026"
 paperurl: "https://openreview.net/forum?id=BbaIt2S2mU&noteId=BbaIt2S2mU"
 citation: "Caterina Fuster-Barceló, Virginie Uhlmann. \"Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?\" Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026, 2026."
+authors: "Caterina Fuster-Barceló, Virginie Uhlmann"
 ---
 
 ## Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?

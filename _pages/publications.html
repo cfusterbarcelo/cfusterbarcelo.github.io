@@ -27,7 +27,9 @@ author_profile: true
         {% if post.venue %}
           <div class="meta">Published in {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}</div>
         {% endif %}
-        {% if post.excerpt %}
+        {% if post.authors %}
+          <div class="description">{{ post.authors | replace: "Caterina Fuster-Barceló", "<strong>Caterina Fuster-Barceló</strong>" }}</div>
+        {% elsif post.excerpt %}
           <div class="description">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</div>
         {% endif %}
       </div>

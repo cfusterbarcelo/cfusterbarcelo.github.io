@@ -8,6 +8,7 @@ date: 2026-01-01
 venue: "Journal of Microscopy (special issue)"
 location: "Online"
 citation: "Mélodie Ambroset, Cesar A. Valades Cruz, Libert Brice Tonfack, Rocco D’Antuono, Caterina Fuster-Barceló. \"Assessing the reproducibility of a bioimage analysis workflow characterising tissue flow in Drosophila.\" Accepted at Journal of Microscopy (special issue), pending publication, 2026."
+authors: "Mélodie Ambroset, Cesar A. Valades Cruz, Libert Brice Tonfack, Rocco D’Antuono, Caterina Fuster-Barceló"
 ---
 
 ## Assessing the reproducibility of a bioimage analysis workflow characterising tissue flow in Drosophila

@@ -8,6 +8,7 @@ date: 2024-12-17
 venue: "IEEE Access"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10804759"
 citation: "Fuster-Barceló, C., Cámara, C., & Peris-López, P. (2024). ECG-Based Patient Identification: A Comprehensive Evaluation Across Health and Activity Conditions. IEEE Access. https://doi.org/10.1109/ACCESS.2024.3519462"
+authors: "Caterina Fuster-Barceló, Carmen Cámara, Pedro Peris-López"
 ---
 
 ## ECG-Based Patient Identification: A Comprehensive Evaluation Across Health and Activity Conditions

@@ -7,6 +7,7 @@ excerpt: "An evaluation of digital tool integration and gamification-inspired pr
 date: 2025-09-07
 paperurl: "https://arxiv.org/abs/2509.06126"
 citation: "Gonzalo R. Ríos-Muñoz, Caterina Fuster-Barceló, Arrate Muñoz-Barrutia. \"The impact of gamification on learning outcomes: experiences from a Biomedical Engineering course.\" arXiv preprint arXiv:2509.06126 (2025)."
+authors: "Gonzalo R. Ríos-Muñoz, Caterina Fuster-Barceló, Arrate Muñoz-Barrutia"
 ---
 
 ## The impact of gamification on learning outcomes: experiences from a Biomedical Engineering course

@@ -10,6 +10,7 @@ location: "Online"
 paperurl: "https://rdcu.be/dQuw7"
 featuredin: "https://www.nature.com/articles/s41592-024-02370-y"
 citation: "Lei, W., Fuster-Barceló, C., Reder, G. et al. (2024). BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging. *Nature Methods*, 21, 1368–1370. https://doi.org/10.1038/s41592-024-02370-y"
+authors: "Wanlu Lei, Caterina Fuster-Barceló, Gabriel Reder, Arrate Muñoz-Barrutia, Wei Ouyang"
 ---
 **BioImage.IO Chatbot: A Personalized Assistant for BioImage Analysis Augmented by Community Knowledge Base**
 

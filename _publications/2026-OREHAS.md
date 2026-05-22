@@ -7,6 +7,7 @@ excerpt: "A fully automated pipeline for volumetric quantification of endolympha
 date: 2026-01-26
 paperurl: "https://arxiv.org/abs/2601.18368"
 citation: "Caterina Fuster-Barceló, Claudia Castrillón, Laura Rodrigo-Muñoz, Victor Manuel Suárez-Vega, Nicolás Pérez-Fernández, Gorka Bastarrika, Arrate Muñoz-Barrutia. \"OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI.\" arXiv preprint arXiv:2601.18368 (2026)."
+authors: "Caterina Fuster-Barceló, Claudia Castrillón, Laura Rodrigo-Muñoz, Victor Manuel Suárez-Vega, Nicolás Pérez-Fernández, Gorka Bastarrika, Arrate Muñoz-Barrutia"
 ---
 
 ## OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI
