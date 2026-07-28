@@ -31,15 +31,10 @@ I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](h
   **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
  
 - **Postdoctoral Researcher**: _Jan 2023 - Aug 2025_  
-  **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department  
-  **Field**: Bioimage analysis  
-  **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz)  
+  **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department; and [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/)  
+  **Field**: Bioimage analysis and Artificial Intelligence in biomedical imaging  
+  **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)  
   **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io), [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ)
-
-- **Postdoctoral Researcher**: _Jan 2024 - Aug 2025_  
-  **Where**: [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/)  
-  **Field**: Artificial Intelligence in biomedical imaging  
-  **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)
 
 - **Visiting Researcher**: _Sept 2023 - Oct 2023_  
   **Where**: [KTH](https://www.kth.se/en), [SciLifeLab](https://www.scilifelab.se), [AICell Lab](https://aicell.io), Stockholm, Sweden  
