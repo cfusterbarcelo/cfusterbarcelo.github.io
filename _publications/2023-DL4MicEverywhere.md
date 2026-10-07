@@ -6,10 +6,9 @@ permalink: /publication/2023-dl4miceverywhere
 excerpt: "Making deep learning in microscopy truly portable and reproducible across environments."
 date: 2023-11-19
 venue: "Nature Methods"
-location: "Published in Volume 21, June 2024"
 paperurl: "https://www.nature.com/articles/s41592-024-02295-6"
 featuredin: "https://www.biorxiv.org/content/10.1101/2023.11.19.567606v1"
-citation: "Hidalgo-Cenalmor, I., Pylvänäinen, J.W., Ferreira, M.G., Russell, C.T., Arganda-Carreras, I., AI4Life Consortium, Jacquemet, G., Henriques, R., & Gómez-de-Mariscal, E. (2024). DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible. *Nature Methods*, 21, 925–927. https://doi.org/10.1038/s41592-024-02295-6"
+citation: "Hidalgo-Cenalmor, I., Pylvänäinen, J.W., Ferreira, M.G., Russell, C.T., Saguy, A., Arganda-Carreras, I., Shechtman, Y., AI4Life Consortium, Jacquemet, G., Henriques, R., & Gómez-de-Mariscal, E. (2024). DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible. <i>Nature Methods</i>, 21, 925–927. https://doi.org/10.1038/s41592-024-02295-6"
 authors: "Iván Hidalgo-Cenalmor, Joanna W. Pylvänäinen, Mariana G. Ferreira, Craig T. Russell, Alon Saguy, Ignacio Arganda-Carreras, Yoav Shechtman, AI4Life Horizon Europe Program Consortium, Guillaume Jacquemet, Ricardo Henriques, Estibaliz Gómez-de-Mariscal"
 ---
 ## DL4MicEverywhere: Deep Learning for Microscopy Made Flexible, Shareable, and Reproducible
@@ -39,7 +38,3 @@ The platform:
 - Enables faster onboarding and experimentation in bioimage analysis
 
 This democratizes AI access for experimentalists, educators, and developers alike.
-
----
-
-Let me know when you're ready for the next one!

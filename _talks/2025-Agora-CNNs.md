@@ -9,7 +9,7 @@ location: "Universidad Carlos III de Madrid, Spain"
 map_location: "Leganés, Spain"
 ---
 
-In April 2025, together with my master students **Claudia Castrillón-Álvarez** and **Laura Rodrigo-Muñoz**, I delivered a session titled **"Lecture & Practical Session on Advanced CNNs"** at the **Ágora** Journal Club organized by the Signal Theory and Communications Department at Universidad Carlos III de Madrid.
+In April 2025, together with my master's students **Claudia Castrillón-Álvarez** and **Laura Rodrigo-Muñoz**, I delivered a session titled **"Lecture & Practical Session on Advanced CNNs"** at the **Ágora** Journal Club organized by the Signal Theory and Communications Department at Universidad Carlos III de Madrid.
 
 The session included:
 
@@ -30,7 +30,6 @@ The session included:
 - Brain Tumor Detection Dataset (Ultralytics)
 - Pancreatic Stem Cells Dataset (Cell Tracking Challenge)
 
-📁 **Materials**: [Zenodo (10.5281/zenodo.15276042)](https://zenodo.org/records/15276042)  
-💻 **GitHub Repository**: [Ágora Sessions](https://github.com/your-repo-url) *(update with real URL if needed)*
+📁 **Materials**: [Zenodo (10.5281/zenodo.15276042)](https://zenodo.org/records/15276042)
 
-This session aimed to give students an integrated perspective on how CNNs are used across classification, detectio
+This session aimed to give students an integrated perspective on how CNNs are used across classification, detection, and segmentation tasks.

@@ -26,4 +26,4 @@ The session introduced participants to the [BioImage Model Zoo](https://bioimage
 - Covered model discovery, reuse, and sharing for microscopy applications.
 - Slides were made available through the course handbook for participants.
 
-The slides of this course will be available on the course handbook, which can be accessed once the course is completed. For more information about the course and future offerings, please visit the [EMBL-EBI Training website](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-2026/).
+For more information about the course and future offerings, please visit the [EMBL-EBI Training website](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-2026/).

@@ -18,7 +18,7 @@ talk_path: "/talks/2024-ELIXIR"
 **My role**: Contributor  
 **Tool**: [BioImage.IO Chatbot](https://bioimage.io/chat/)  
 **Documentation**: [BioImage.IO Chatbot docs](https://bioimage-io.github.io/bioimageio-chatbot/#/)  
-**Associated paper**: [BioImage. IO Chatbot: a community-driven AI assistant for integrative computational bioimaging]({{ page.paper_path | relative_url }})  
+**Associated paper**: [BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging]({{ page.paper_path | relative_url }})  
 **Associated talk**: [Meet the BioImage.IO Chatbot]({{ page.talk_path | relative_url }})  
 
 ---

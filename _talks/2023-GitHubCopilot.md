@@ -9,10 +9,8 @@ location: "Universidad Carlos III de Madrid, Departamento de Bioingeniería"
 map_location: "Leganés, Spain"
 ---
 
-I had the pleasure to show to my collegues from the Department a short presentation about GitHub Copilot and their insights.
+I had the pleasure to show to my colleagues from the Department a short presentation about GitHub Copilot and its features.
 I hope you enjoy it!
 
 You can see the slides [here](https://cfusterbarcelo.github.io/files/GitHub-Copilot.pdf).
-
-And a python notebook will be very soon available. Try to complete it with GitHub Copilot!
 

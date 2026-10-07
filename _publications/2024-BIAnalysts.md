@@ -8,7 +8,7 @@ date: 2024-10-15
 venue: "Journal of Cell Science"
 location: "Online"
 paperurl: "https://journals.biologists.com/jcs/article/137/20/jcs262322/362545"
-citation: "Cimini, B. A., Bankhead, P., d'Antuono, R., et al. (2024). The Crucial Role of Bioimage Analysts in Scientific Research and Publication. *Journal of Cell Science*, 137(20). https://doi.org/10.1242/jcs.262322"
+citation: "Cimini, B. A., Bankhead, P., d'Antuono, R., et al. (2024). The Crucial Role of Bioimage Analysts in Scientific Research and Publication. <i>Journal of Cell Science</i>, 137(20). https://doi.org/10.1242/jcs.262322"
 authors: "Beth A. Cimini, Peter Bankhead, Rocco D'Antuono, Elnaz Fazeli, Julia Fernandez-Rodriguez, Caterina Fuster-Barceló, Robert Haase, Helena Klara Jambor, Martin L. Jones, Florian Jug, Anna H. Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G. Martins, Sara McArdle, Kota Miura, Arrate Muñoz-Barrutia, Laura C. Murphy, Michael S. Nelson, Simon F. Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna W. Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin W. Eliceiri"
 ---
 

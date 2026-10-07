@@ -18,7 +18,8 @@ talk_path: "/teaching/2026-EBI-BioImage-Model-Zoo"
 **Tool**: [BioImage Model Zoo](https://bioimage.io)  
 **Documentation**: [BioImage Model Zoo docs](https://bioimage.io/docs/)  
 **Associated talk**: [BioImage Model Zoo lecture at EMBL-EBI]({{ page.talk_path | relative_url }})  
-**Associated paper**: [BioImage Model Zoo: A Community-Driven Resource for Accessible Deep Learning in BioImage Analysis](https://www.biorxiv.org/content/10.1101/2022.06.07.495102v1.abstract) 
+**Associated paper**: [BioImage Model Zoo: A Community-Driven Resource for Accessible Deep Learning in BioImage Analysis](https://www.biorxiv.org/content/10.1101/2022.06.07.495102v1.abstract)
+
 ---
 
 The BioImage Model Zoo is a community resource for publishing, discovering, testing, and reusing pre-trained models across microscopy and bioimage analysis workflows.

@@ -9,6 +9,6 @@ location: "Universidad Carlos III de Madrid"
 map_location: "Leganés, Spain"
 ---
 
-During the [AI4Life Workshop of Zero-Code Tools and BioImage Model Zoo Community Partners](https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/) I had the pleasure to give a presentation about Transformers, Vision Transformers and our new development for a Fiji Plugin:SAMJ. Great thanks to Daniel Sage and Carlos J. García López de Haro whom I had the pleasure to present with.
+During the [AI4Life Workshop of Zero-Code Tools and BioImage Model Zoo Community Partners](https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/) I had the pleasure to give a presentation about Transformers, Vision Transformers and our new development for a Fiji plugin: SAMJ. Many thanks to Daniel Sage and Carlos J. García López de Haro whom I had the pleasure to present with.
 
 You can find the slides of the workshop [in Zenodo](https://zenodo.org/records/11657763).

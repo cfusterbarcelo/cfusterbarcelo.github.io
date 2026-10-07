@@ -26,12 +26,12 @@ I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](h
 
 - **Postdoctoral Researcher**: _Sep 2025 – Present_  
   **Where**: [University of Zurich (UZH)](https://www.uzh.ch/en.html), [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html)  
-  **Field**: Computational bioimage analysis
-  **Focus**: Foundation models, efficient adaptation, and transferable AI for microscopy
+  **Field**: Computational bioimage analysis  
+  **Focus**: Foundation models, efficient adaptation, and transferable AI for microscopy  
   **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
  
 - **Postdoctoral Researcher**: _Jan 2023 - Aug 2025_  
-  **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department; and [IISGM](https://www.iisgm.com/investigacion/areas-de-investigacion/area-1-ingenieria-biomedica/29769-2/)  
+  **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department; and [IISGM](https://www.iisgm.com/)  
   **Field**: Bioimage analysis and Artificial Intelligence in biomedical imaging  
   **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)  
   **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io), [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ)
@@ -201,7 +201,7 @@ For full citations and publication details, see the [Publications page]({{ '/pub
 - [Microscopy and Application Course](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/vi-curso-microscopia-y-aplicaciones), CSIC
 - Autopsy Software for Forensic Analysis
 - Ethical Hacking
-- English Level C1 (MECR)
+- English Level C1 (CEFR)
 - French Level A2
 - Machine Learning with Python (edX)
 - [Deep Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2), Universidad Carlos III de Madrid (UC3M)

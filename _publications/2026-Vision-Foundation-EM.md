@@ -13,11 +13,11 @@ authors: "Caterina Fuster-Barceló, Virginie Uhlmann"
 
 ## Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?
 
-**Accepted at**: [Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://lmrl.org/)  
+**Accepted at**: [Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://iclr.cc/virtual/2026/workshop/10000790)  
 **Final version**: [OpenReview](https://openreview.net/forum?id=BbaIt2S2mU&noteId=BbaIt2S2mU)  
 **Preprint**: [arXiv](https://arxiv.org/abs/2602.08505)  
 **Authors**: Caterina Fuster-Barceló, Virginie Uhlmann  
-**Also presented at**: [ICLR 2026 LMRL Workshop (poster)]({{ '/talks/2026-ICLR-LMRL-Poster' | relative_url }}), [CBIAS 2026 (oral presentation)]({{ '/talks/2026-CBIAS-Talk' | relative_url }})  
+**Presentations**: [ICLR 2026 LMRL Workshop (poster)]({{ '/talks/2026-ICLR-LMRL-Poster' | relative_url }}), [CBIAS 2026 (oral presentation, upcoming in November 2026)]({{ '/talks/2026-CBIAS-Talk' | relative_url }})  
 
 ### Abstract
 

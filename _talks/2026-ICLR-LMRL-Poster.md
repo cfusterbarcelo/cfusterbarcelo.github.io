@@ -8,7 +8,7 @@ date: 2026-04-27
 location: "Rio de Janeiro, Brazil"
 ---
 
-On 27 April 2026, I presented a poster on **"Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?"** at the [Learning Meaningful Representations of Life (LMRL) Workshop](https://www.lmrl.org/) during [ICLR 2026](https://iclr.cc), held in **Rio de Janeiro, Brazil**.
+On 27 April 2026, I presented a poster on **"Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?"** at the [Learning Meaningful Representations of Life (LMRL) Workshop](https://iclr.cc/virtual/2026/workshop/10000790) during [ICLR 2026](https://iclr.cc), held in **Rio de Janeiro, Brazil**.
 
 This work studies the use of vision foundation models for electron microscopy image segmentation, with a particular focus on transfer across datasets, latent representation quality, and the limits of lightweight adaptation strategies such as LoRA.
 

@@ -11,7 +11,7 @@ location: "Toledo, Spain"
 ## Introduction to AI4Life and BioImage Model Zoo
 
 **Presented at**: [SPAOM 2024](https://spaom2024.org)  
-**Speakers**: Arrate Muñoz-Barrutia and Myself  
+**Speakers**: Arrate Muñoz-Barrutia and myself  
 
 As part of the *Image Analysis Forum* at SPAOM 2024, we introduced **AI4Life** and the **BioImage Model Zoo**, two initiatives driving innovation in microscopy image analysis. Our talk focused on integrating cutting-edge artificial intelligence into bioimaging workflows, empowering researchers to leverage pre-trained models and community-driven resources for advanced image analysis.
 

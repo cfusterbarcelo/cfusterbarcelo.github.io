@@ -15,7 +15,7 @@ The session focused on:
 - 🫀 My research on **ECG-based biometric identification**
 - 🔍 Adapting the method for **atrial fibrillation (AFib) detection**
 - 🧠 Using deep learning with **convolutional neural networks (CNNs)**
-- 🖼️ Visual representation of ECG signals as **electrocardiomaps (ECMs)** or heatmaps
+- 🖼️ Visual representation of ECG signals as **electrocardiomatrices (ECMs)** or heatmaps
 - 🔐 Exploring the potential of these methods for **health monitoring and security applications**
 
 The talk highlighted how a methodology originally designed for secure patient identification was repurposed to detect cardiac pathologies, showing the versatility and robustness of ECG-based approaches in personalized healthcare.

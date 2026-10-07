@@ -8,7 +8,7 @@ date: 2023-08-01
 venue: "IEEE 19th International Conference on Body Sensor Networks (BSN)"
 location: "Cambridge, UK"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10331002"
-citation: "Peris-Lopez, P., Fuster-Barceló, C., Camara, C., & Martin, H. (2023). *Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection*. IEEE BSN 2023. https://ieeexplore.ieee.org/abstract/document/10331002"
+citation: "Peris-Lopez, P., Fuster-Barceló, C., Camara, C., & Martin, H. (2023). <i>Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection</i>. IEEE BSN 2023. https://ieeexplore.ieee.org/abstract/document/10331002"
 authors: "Pedro Peris-López, Caterina Fuster-Barceló, Carmen Cámara, H. Martin"
 ---
 ## Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection
@@ -34,7 +34,3 @@ Using musical features extracted from PPG signals, the work compares:
 - Shows that **shortened PPG recordings** (instead of ECG) are **sufficient and reliable** for AF detection.
 - Competitive with FDA-approved ECG-based solutions, but **simpler, faster, and cheaper**.
 - Demonstrates the **universal potential** of music-inspired signal interpretation in biomedical sensing.
-
----
-
-Let me know when you’re ready for the next one.

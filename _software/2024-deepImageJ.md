@@ -7,7 +7,7 @@ permalink: /software/deepimagej/
 excerpt: "Fiji/ImageJ plugin for running deep learning models in practical microscopy workflows."
 role: "Contributor"
 tool_url: "https://deepimagej.github.io"
-docs_url: "https://deepimagej.github.io/deepimagej/"
+docs_url: "https://deepimagej.github.io/"
 paper_path: "/publication/2023-deepimagej"
 talk_path: "/talks/2024-ECBA-Workshop"
 ---
@@ -17,7 +17,7 @@ talk_path: "/talks/2024-ECBA-Workshop"
 **Type**: Software  
 **My role**: Contributor  
 **Tool**: [deepImageJ](https://deepimagej.github.io)  
-**Documentation**: [deepImageJ docs](https://deepimagej.github.io/deepimagej/)  
+**Documentation**: [deepImageJ docs](https://deepimagej.github.io/)  
 **Associated paper**: [Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ]({{ page.paper_path | relative_url }})  
 **Associated talk**: [Harnessing deep learning in bioimaging: the deepImageJ journey]({{ page.talk_path | relative_url }})  
 

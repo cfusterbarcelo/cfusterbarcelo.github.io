@@ -12,5 +12,5 @@ If you want to read more, please visit the full article [here](https://focalplan
 
 This hackathon was funded by [AI4Life](https://ai4life.eurobioimaging.eu).
 
-![Madrid Hackathon](..\images\ai4life-1536x1152.jpg)
-![Madrid Hackathon](..\images\workshop-1536x1181.jpg)
+![Madrid Hackathon](/images/ai4life-1536x1152.jpg)
+![Madrid Hackathon](/images/workshop-1536x1181.jpg)

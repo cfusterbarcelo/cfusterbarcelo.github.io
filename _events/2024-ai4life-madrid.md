@@ -12,7 +12,7 @@ layout: single
 
 ## AI4Life Workshop-Hackathon-Uploathon (Madrid)
 
-In June 2024, I co-organized the [**AI4Life Workshop-Hackathon-Uploathon**](https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/) in Madrid alongside with Prof. Arrate Muñoz-Barrutia.
+In June 2024, I co-organized the [**AI4Life Workshop-Hackathon-Uploathon**](https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/) in Madrid alongside Prof. Arrate Muñoz-Barrutia.
 
 The event aimed to bring together researchers and developers from the bioimage analysis community to:
 - **Workshops**: share hands-on training for reproducible AI workflows in microscopy.

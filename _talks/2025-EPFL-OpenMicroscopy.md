@@ -4,12 +4,12 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-EPFL-OpenMicroscopy
 venue: "EPFL Open Microscopy & AI Workshop"
-date: 2025-05-06
+date: 2025-03-14
 location: "EPFL, Lausanne, Switzerland"
 map_location: "Lausanne, Switzerland"
 ---
 
-In May 2025, I participated in the [EPFL Open Microscopy & AI Workshop](https://www.epfl-open-microscopy.com), where I gave a presentation and led a hands-on workshop on **Deep Learning for Bioimage Analysis**, aligned with the [AI4Life](https://ai4life.eurobioimaging.eu/) initiative.
+In March 2025, I participated in the [EPFL Workshop on Open Microscopy & AI](https://memento.epfl.ch/event/epfl-workshop-on-open-microscopy-ai), where I gave a presentation and led a hands-on workshop on **Deep Learning for Bioimage Analysis**, aligned with the [AI4Life](https://ai4life.eurobioimaging.eu/) initiative.
 
 The session included:
 

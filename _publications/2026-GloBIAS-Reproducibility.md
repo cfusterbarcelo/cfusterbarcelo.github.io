@@ -16,7 +16,7 @@ authors: "Mélodie Ambroset, Cesar A. Valades Cruz, Libert Brice Tonfack, Rocco 
 **Published in**: [Journal of Microscopy](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.70125)  
 **Context**: Reproducibility study from the GloBIAS Bioimage Analysts Workshop  
 **Authors**: Mélodie Ambroset, Cesar A. Valades Cruz, Libert Brice Tonfack, Rocco D’Antuono, Caterina Fuster-Barceló  
-**Also presented at**: [CBIAS 2026 (poster)]({{ '/talks/2026-CBIAS-Poster' | relative_url }})
+**Presentations**: [CBIAS 2026 (poster, upcoming in November 2026)]({{ '/talks/2026-CBIAS-Poster' | relative_url }})
 
 This work reports a reproducibility study focused on a bioimage analysis workflow for characterising tissue flow in *Drosophila*. The study was developed in the context of the GloBIAS Bioimage Analysts Workshop and is now published in *Journal of Microscopy*.
 

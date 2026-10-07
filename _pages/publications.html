@@ -8,8 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% if author.googlescholar %}
-<p>You can also find my articles on <a href="{{author.googlescholar}}" target="_blank">Google Scholar</a>.</p>
+{% if site.author.googlescholar %}
+<p>You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>.</p>
 {% endif %}
 
 {% assign categories_order = "Peer-review Journals,Preprints,Conference Proceedings,Conference Abstracts,Datasets,Misc" | split: "," %}
