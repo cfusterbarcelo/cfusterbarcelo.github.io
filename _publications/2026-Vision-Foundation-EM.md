@@ -17,6 +17,7 @@ authors: "Caterina Fuster-Barceló, Virginie Uhlmann"
 **Final version**: [OpenReview](https://openreview.net/forum?id=BbaIt2S2mU&noteId=BbaIt2S2mU)  
 **Preprint**: [arXiv](https://arxiv.org/abs/2602.08505)  
 **Authors**: Caterina Fuster-Barceló, Virginie Uhlmann  
+**Also presented at**: [ICLR 2026 LMRL Workshop (poster)]({{ '/talks/2026-ICLR-LMRL-Poster' | relative_url }}), [CBIAS 2026 (oral presentation)]({{ '/talks/2026-CBIAS-Talk' | relative_url }})  
 
 ### Abstract
 

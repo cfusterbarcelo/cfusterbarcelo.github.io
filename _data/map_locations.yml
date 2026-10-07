@@ -26,6 +26,10 @@
   latitude: 40.3270
   longitude: -3.7635
 
+- name: "London, UK"
+  latitude: 51.5316
+  longitude: -0.1291
+
 - name: "Madrid, Spain"
   latitude: 40.4168
   longitude: -3.7038
