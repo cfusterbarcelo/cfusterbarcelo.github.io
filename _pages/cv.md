@@ -73,6 +73,7 @@ I am a postdoctoral researcher in the [Bioimaging and Data Analysis Group (Uhlma
 
 Reviewer for journals including:
 
+- *Bioinformatics*
 - *Biomedical Engineering Letters*
 - *Engineering Applications of Artificial Intelligence*
 - *Pattern Recognition*
@@ -204,6 +205,7 @@ For full citations and publication details, see the [Publications page]({{ '/pub
 - Autopsy Software for Forensic Analysis
 - Ethical Hacking
 - English Level C1 (CEFR)
+- German Level A2.1 (CEFR), certified by the [Language Center of UZH and ETH Zurich](https://www.sprachenzentrum.uzh.ch/en.html)
 - French Level A2
 - Machine Learning with Python (edX)
 - [Deep Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2), Universidad Carlos III de Madrid (UC3M)
