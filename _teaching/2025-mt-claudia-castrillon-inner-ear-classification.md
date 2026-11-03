@@ -2,13 +2,13 @@
 title: "Automated Classification and Localization of Inner Ear Structures in MRI Using Deep Learning"
 collection: teaching
 type: "Master Thesis"
-permalink: /teaching/2025-mt-claudia-fuster-inner-ear-classification
+permalink: /teaching/2025-mt-claudia-castrillon-inner-ear-classification
+redirect_from:
+  - /teaching/2025-mt-claudia-fuster-inner-ear-classification
 venue: "Universidad Carlos III de Madrid, Master in Machine Learning for Health"
 date: 2025-06-27
 location: "Madrid, Spain"
 ---
-
-## Automated Classification and Localization of Inner Ear Structures in MRI Using Deep Learning
 
 🎓 **Program**: Master in Machine Learning for Health  
 🏫 **Institution**: Universidad Carlos III de Madrid  

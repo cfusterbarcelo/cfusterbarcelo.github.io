@@ -1,7 +1,7 @@
 ---
 title: "AI-Based Pipelines for Bioimage Analysis"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2025-BIA-Pasteur
 venue: "NEUBIAS Bioimage Analysis Course"
 date: 2025-05-14

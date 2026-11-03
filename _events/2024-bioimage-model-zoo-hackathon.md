@@ -11,8 +11,6 @@ role: "Participant"
 layout: single
 ---
 
-## BioImage Model Zoo Enhancements Hackathon
-
 In March 2024, I participated in the **BioImage Model Zoo Enhancements Hackathon** at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/), focused on improving the BioImage Model Zoo ecosystem.
 
 We worked on reworking and expanding the [Bioimage.io](https://bioimage.io) documentation and implemented new features to improve user experience and developer contribution workflows.

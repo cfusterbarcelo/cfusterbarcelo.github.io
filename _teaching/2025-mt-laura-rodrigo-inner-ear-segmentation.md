@@ -8,15 +8,13 @@ date: 2025-06-27
 location: "Madrid, Spain"
 ---
 
-## Deep Learning-Based Segmentation and Quantification of Endolymphatic Hydrops in Inner Ear MRI
-
 🎓 **Program**: Master in Machine Learning for Health  
 🏫 **Institution**: Universidad Carlos III de Madrid  
 🤝 **In collaboration with**: Clínica Universidad de Navarra  
 👩‍🎓 **Student**: Laura Rodrigo Muñoz  
 📆 **Academic Year**: 2024/2025  
 📝 **Grade**: 10 / 10  
-🔗 **Related thesis**: [Claudia Castrillón Álvarez – Classification and Localization of Inner Ear Structures](./2025-mt-claudia-fuster-inner-ear-classification)
+🔗 **Related thesis**: [Claudia Castrillón Álvarez – Classification and Localization of Inner Ear Structures]({{ '/teaching/2025-mt-claudia-castrillon-inner-ear-classification' | relative_url }})
 
 ---
 

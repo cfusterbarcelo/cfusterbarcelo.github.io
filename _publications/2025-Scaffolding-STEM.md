@@ -10,8 +10,6 @@ citation: "Caterina Fuster-Barceló, Gonzalo R. Ríos-Muñoz, Arrate Muñoz-Barr
 authors: "Caterina Fuster-Barceló, Gonzalo R. Ríos-Muñoz, Arrate Muñoz-Barrutia"
 ---
 
-## Scaffolding Collaborative Learning in STEM: A Two-Year Evaluation of a Tool-Integrated Project-Based Methodology
-
 **Published in**: [arXiv preprint](https://arxiv.org/abs/2509.02355)  
 **Authors**: Caterina Fuster-Barceló, Gonzalo R. Ríos-Muñoz, Arrate Muñoz-Barrutia  
 

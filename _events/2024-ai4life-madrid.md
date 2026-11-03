@@ -4,15 +4,15 @@ collection: events
 type: "Workshop"
 permalink: /events/2024-ai4life-madrid
 venue: "AI4Life & Euro-BioImaging"
-location: "Madrid, Spain"
-date: 2024-06-19
+location: "UC3M Campus Puerta de Toledo, Madrid, Spain"
+map_location: "Madrid, Spain"
+date: 2024-06-10
+end_date: 2024-06-14
 role: "Co-organizer"
 layout: single
 ---
 
-## AI4Life Workshop-Hackathon-Uploathon (Madrid)
-
-In June 2024, I co-organized the [**AI4Life Workshop-Hackathon-Uploathon**](https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/) in Madrid alongside Prof. Arrate Muñoz-Barrutia.
+From 10 to 14 June 2024, I co-organized the [**AI4Life Workshop-Hackathon-Uploathon**](https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/) at the UC3M Campus Puerta de Toledo in Madrid alongside Prof. Arrate Muñoz-Barrutia.
 
 The event aimed to bring together researchers and developers from the bioimage analysis community to:
 - **Workshops**: share hands-on training for reproducible AI workflows in microscopy.

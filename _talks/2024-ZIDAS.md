@@ -1,7 +1,7 @@
 ---
 title: "BioImage.IO Chatbot Talk"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2024-ZIDAS
 venue: "ZIDAS Summer School"
 date: 2024-06-28

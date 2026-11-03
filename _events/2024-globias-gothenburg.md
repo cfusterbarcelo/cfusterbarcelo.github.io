@@ -10,8 +10,6 @@ role: "Participant and reproducibility study group lead"
 layout: single
 ---
 
-## GloBIAS Bioimage Analysts Workshop
-
 In November 2024, I took part in the [**GloBIAS Bioimage Analysts Workshop**](https://www.globias.org/activities/past-activties/annual-workshop-gothenburg-2024) in Gothenburg, Sweden.
 
 The workshop brought together bioimage analysts and community members working on imaging workflows, training, infrastructure, and shared challenges across the field. During the meeting, I contributed not only as a participant but also as the lead of a reproducibility study group that later led to a paper published in *Journal of Microscopy*.

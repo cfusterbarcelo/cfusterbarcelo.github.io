@@ -12,8 +12,6 @@ paper_path: "/publication/2023-deepimagej"
 talk_path: "/talks/2024-ECBA-Workshop"
 ---
 
-## deepImageJ
-
 **Type**: Software  
 **My role**: Contributor  
 **Tool**: [deepImageJ](https://deepimagej.github.io)  

@@ -4,8 +4,6 @@ excerpt: "Article in FocalPlane about the outcomes of the workshop and hackathon
 collection: portfolio
 category: "Community writing"
 ---
-# AI4Life Event Highlights: A Successful Fusion of Workshops, Hackathon, and Uploathon
-
 Very proud to be part of the organization of the first Workshop, Hackathon and Uploathon of AI4Life in UC3M, Madrid. Happening in June 2024, more than 60 participants from different fields came together to explore the potential of AI in bioimage analysis.
 
 If you want to read more, please visit the full article [here](https://focalplane.biologists.com/2024/06/25/ai4life-event-highlights-a-successful-fusion-of-workshops-hackathon-and-uploathon/).

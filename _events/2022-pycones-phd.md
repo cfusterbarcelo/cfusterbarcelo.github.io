@@ -10,8 +10,6 @@ role: "Speaker"
 layout: single
 ---
 
-## PyConES 2022 — Conference Talk and Participation
-
 At [PyConES 2022](https://2022.es.pycon.org), held in Granada, I presented a talk on my **PhD thesis research** on ECG-based biometric identification with Python. I also actively participated in the full conference program, engaging with the Spanish Python community.
 
 ### Highlights

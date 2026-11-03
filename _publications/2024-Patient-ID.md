@@ -11,8 +11,6 @@ citation: "Fuster-Barceló, C., Cámara, C., & Peris-López, P. (2024). ECG-Base
 authors: "Caterina Fuster-Barceló, Carmen Cámara, Pedro Peris-López"
 ---
 
-## ECG-Based Patient Identification: A Comprehensive Evaluation Across Health and Activity Conditions
-
 **Authors**: Caterina Fuster-Barceló, Carmen Cámara, and Pedro Peris-López  
 **Published in**: *IEEE Access*, December 2024  
 **DOI**: [10.1109/ACCESS.2024.3519462](https://doi.org/10.1109/ACCESS.2024.3519462)  

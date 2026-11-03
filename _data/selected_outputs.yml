@@ -4,8 +4,8 @@
   description: "Studies when vision foundation models transfer across electron microscopy datasets and where lightweight adaptation still fails."
 
 - title: "BioImage Model Zoo"
-  kind: "Talk"
-  url: "/teaching/2026-EBI-BioImage-Model-Zoo"
+  kind: "Lecture"
+  url: "/talks/2026-EBI-BioImage-Model-Zoo"
   description: "Invited EMBL-EBI training lecture on how pre-trained models can be discovered, shared, and reused in microscopy workflows."
 
 - title: "SAMJ"

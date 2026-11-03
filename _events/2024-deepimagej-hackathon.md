@@ -7,13 +7,11 @@ venue: "Universidad Carlos III de Madrid"
 location: "Madrid, Spain"
 date: 2024-01-15
 end_date: 2024-01-19
-role: "Co-organizer"
+role: "Co-organizer and participant"
 layout: single
 ---
 
-## deepImageJ and friends Hackathon
-
-In January 2024, I participated in the **deepImageJ and friends Hackathon** hosted at [Universidad Carlos III de Madrid](https://www.uc3m.es), where developers and researchers collaborated to improve the deepImageJ ecosystem and its integration with other Fiji plugins.
+In January 2024, I co-organized and participated in the **deepImageJ and friends Hackathon** hosted at [Universidad Carlos III de Madrid](https://www.uc3m.es), where developers and researchers collaborated to improve the deepImageJ ecosystem and its integration with other Fiji plugins.
 
 This hackathon was part of the broader AI4Life efforts to foster accessible, interoperable AI tools for life science imaging and was focused on enhancing usability, documentation, and plugin compatibility.
 

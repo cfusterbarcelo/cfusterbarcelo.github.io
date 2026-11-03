@@ -12,8 +12,6 @@ paper_path: "/publication/2023-chatbot"
 talk_path: "/talks/2024-ELIXIR"
 ---
 
-## BioImage.IO Chatbot
-
 **Type**: Community Tool  
 **My role**: Contributor  
 **Tool**: [BioImage.IO Chatbot](https://bioimage.io/chat/)  

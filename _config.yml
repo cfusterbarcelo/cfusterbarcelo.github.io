@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dra. Caterina Fuster-Barceló"
+title                    : "Dr. Caterina Fuster-Barceló"
 title_separator          : "-"
 name                     : &name "Caterina Fuster-Barceló"
 description              : &description "Postdoctoral researcher in computational bioimage analysis developing robust, efficient, and transferable AI for microscopy."
@@ -89,9 +89,9 @@ analytics:
 author:
   name             : "Caterina Fuster-Barceló"
   avatar           : "IMG_0241.jpeg"
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Researcher, Bioimaging and Data Analysis Group (Uhlmann Lab), University of Zurich"
   location         : "Zurich, Switzerland"
-  employer         :
+  employer         : "University of Zurich"
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=zHebeGsAAAAJ&hl"
   email            : "caterina.fusterbarcelo@mls.uzh.ch"
@@ -270,7 +270,7 @@ defaults:
       path: ""
       type: events
     values:
-      layout: event
+      layout: single
       author_profile: true
       share: true
 

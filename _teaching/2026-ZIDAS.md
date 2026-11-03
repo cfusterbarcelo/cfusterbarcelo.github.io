@@ -8,8 +8,6 @@ date: 2026-07-05
 location: "EPFL, Lausanne, Switzerland"
 ---
 
-## ZIDAS 2026
-
 🎓 **Institution**: [ZIDAS](https://2026.zidas.org)  
 📘 **Course**: Zurich Image and Data Analysis School (ZIDAS) 2026  
 👩‍🏫 **Role**: Teaching Assistant, Python day  

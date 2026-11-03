@@ -1,7 +1,7 @@
 ---
 title: "GitHub Copilot, what is it and how can I get it?"
 collection: talks
-type: "Seminar"
+type: "Talk"
 permalink: /talks/2023-GitHubCopilot
 venue: "UC3M"
 date: 2023-05-29

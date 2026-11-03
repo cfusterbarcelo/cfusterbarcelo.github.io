@@ -11,8 +11,6 @@ role: "Oral presenter and poster presenter"
 layout: single
 ---
 
-## Crick BioImage Analysis Symposium 2026
-
 On 23–24 November 2026, I will attend the [**Crick BioImage Analysis Symposium (CBIAS) 2026**](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2026) at the **Francis Crick Institute** in **London, UK**, where two of my abstracts have been accepted:
 
 - **Oral presentation (15 min)**: [When do vision foundation models transfer to microscopy and when do they fail?]({{ '/talks/2026-CBIAS-Talk' | relative_url }})

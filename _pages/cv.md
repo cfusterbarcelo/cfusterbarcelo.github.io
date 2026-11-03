@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working in computational bioimage analysis. My current research focuses on foundation models, efficient adaptation, and reproducible AI for microscopy, with an emphasis on robust and transferable methods for real scientific workflows. My academic profile combines methodological research with software, training, and community-facing contributions.
+I am a postdoctoral researcher in the [Bioimaging and Data Analysis Group (Uhlmann Lab)](https://www.mls.uzh.ch/en/research/uhlmann.html), led by Dr. Virginie Uhlmann, at the [Department of Molecular Life Sciences](https://www.mls.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/en.html), working in computational bioimage analysis. My current research focuses on foundation models, efficient adaptation, and reproducible AI for microscopy, with an emphasis on robust and transferable methods for real scientific workflows. My academic profile combines methodological research with software, training, and community-facing contributions.
 
 <p class="cv-actions">
   <a href="#" class="cv-action-link" onclick="window.print(); return false;">Print / Save as PDF</a>
@@ -25,15 +25,15 @@ I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](h
 ## Professional History
 
 - **Postdoctoral Researcher**: _Sep 2025 – Present_  
-  **Where**: [University of Zurich (UZH)](https://www.uzh.ch/en.html), [BioVision Center](https://www.biovisioncenter.uzh.ch/en.html)  
+  **Where**: [Bioimaging and Data Analysis Group (Uhlmann Lab)](https://www.mls.uzh.ch/en/research/uhlmann.html), [Department of Molecular Life Sciences](https://www.mls.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html)  
   **Field**: Computational bioimage analysis  
   **Focus**: Foundation models, efficient adaptation, and transferable AI for microscopy  
-  **PI**: [Dr. Virginie Uhlmann](https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html)  
+  **PI**: [Dr. Virginie Uhlmann](https://www.mls.uzh.ch/en/research/uhlmann.html)  
  
 - **Postdoctoral Researcher**: _Jan 2023 - Aug 2025_  
   **Where**: [UC3M](https://www.uc3m.es/about-uc3m/bioengineering-aerospace-engineering-department), Bioengineering Department; and [IISGM](https://www.iisgm.com/)  
   **Field**: Bioimage analysis and Artificial Intelligence in biomedical imaging  
-  **PI**: [Dra. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)  
+  **PI**: [Dr. Arrate Muñoz Barrutia](https://image.hggm.es/es/arrate-munoz), [Dr. Javier Pascau González](https://igt.uc3m.es/jpascau/)  
   **Projects**: [AI4Life](https://ai4life.eurobioimaging.eu), [BioImage Model Zoo](https://bioimage.io/#/), [deepImageJ](https://deepimagej.github.io), [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ)
 
 - **Visiting Researcher**: _Sept 2023 - Oct 2023_  
@@ -45,13 +45,13 @@ I am a postdoctoral researcher at the Uhlmann Group and the [BioVision Center](h
 - **PhD Candidate**: _Sept 2020 - Dec 2022_  
   **Where**: [UC3M](https://www.uc3m.es/phdprogram/computer-science-technology)  
   **Field**: Deep Learning applied to Biometrics  
-  **Supervisors**: [Dr. Pedro Peris-López](https://lightweightcryptography.com), [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)  
+  **Supervisors**: [Dr. Pedro Peris-López](https://lightweightcryptography.com), [Dr. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)  
   **Project**: [CYNAMON-CM](https://www.tic.itefi.csic.es/CYNAMON/)
 
 - **Research Assistant**: _Oct 2019 - Dec 2022_  
   **Where**: [UC3M](https://www.uc3m.es/home), [COSEC Laboratory](https://cosec.inf.uc3m.es)  
   **Field**: Cybersecurity  
-  **Supervisors**: [Dr. Pedro Peris-López](https://lightweightcryptography.com), [Dra. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
+  **Supervisors**: [Dr. Pedro Peris-López](https://lightweightcryptography.com), [Dr. Carmen Cámara](https://researchportal.uc3m.es/display/inv43106)
 
 - **Security and DevOps Systems Technician**: _Jun 2019 - Sep 2019_  
   **Where**: [Air Europa, S.L.](https://www.aireuropa.com)  
@@ -101,7 +101,7 @@ For full citations and publication details, see the [Publications page]({{ '/pub
   {% endif %}
 {% endfor %}
 
-## Talks
+## Talks, Lectures & Posters
 
 {% assign sorted_talks = site.talks | sort: 'date' | reverse %}
 {% assign last_year = "" %}
@@ -206,14 +206,16 @@ For full citations and publication details, see the [Publications page]({{ '/pub
 - Machine Learning with Python (edX)
 - [Deep Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2), Universidad Carlos III de Madrid (UC3M)
 
-## Others
+## Awards & Recognition
 - Finalist in [Thesis Talks 2021](https://www.uc3m.es/doctorado/thesis-talk-2021), [video](https://media.uc3m.es/video/60d2df8c8f4208a50b8b456d?track_id=60d2e01c8f4208f50b8b4567)
+- Honours in Linear Algebra & Discrete Mathematics, _2016_
+- Short-story contest winner, _2016_
+
+## Other Experience
 - Maintainer of university webpage for online courses, _2018_
 - Trainee at [Fundació Bit](https://www.fundaciobit.org/es/inicio/), _May–Sep 2018_
 - Waitress at Es Port (Portocolom), _2017_
 - Volunteer at UIB Science Fair, _2016–2017_
-- Honours in Linear Algebra & Discrete Mathematics, _2016_
-- Short-story contest winner, _2016_
 - Waitress at [Sa Cova Dets Ases](https://goo.gl/maps/RrAiCwAej4EKAkbh8), _2015–2016_
 
 <script>

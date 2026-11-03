@@ -10,8 +10,6 @@ role: "Participant and workshop poster presenter"
 layout: single
 ---
 
-## ICLR 2026
-
 In April 2026, I attended [**ICLR 2026**](https://iclr.cc) in **Rio de Janeiro, Brazil**, where I presented a poster at the **Learning Meaningful Representations of Life (LMRL) Workshop**.
 
 The poster was linked to our workshop paper:

@@ -1,14 +1,14 @@
 ---
 title: "BioImage Model Zoo"
-collection: teaching
-type: "Training course"
-permalink: /teaching/2026-EBI-BioImage-Model-Zoo
-venue: "Microscopy data analysis: machine learning and the BioImage Archive"
+collection: talks
+type: "Lecture"
+permalink: /talks/2026-EBI-BioImage-Model-Zoo
+redirect_from:
+  - /teaching/2026-EBI-BioImage-Model-Zoo
+venue: "EMBL-EBI Training: Microscopy data analysis: machine learning and the BioImage Archive"
 date: 2026-03-18
 location: "Virtual"
 ---
-
-## BioImage Model Zoo
 
 🎓 **Institution**: [EMBL-EBI Training](https://www.ebi.ac.uk/training/events/microscopy-data-analysis-2026/)  
 📘 **Course**: *Microscopy data analysis: machine learning and the BioImage Archive*  

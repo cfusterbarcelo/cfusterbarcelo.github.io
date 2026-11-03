@@ -11,8 +11,6 @@ role: "Participant"
 layout: single
 ---
 
-## Accessibility of DL Models from Java Hackathon
-
 In February 2023, I participated in the **Accessibility of Deep Learning Models from Java Hackathon** hosted at the [Human Technopole](https://humantechnopole.it/en/) in Milan, Italy. This event brought together developers and researchers to explore how deep learning models can be made accessible and interoperable from Java environments.
 
 The hackathon was organized as part of the [AI4Life](https://ai4life.eurobioimaging.eu) project and focused on integrating state-of-the-art deep learning tools into platforms like ImageJ/Fiji, used widely in life science research.

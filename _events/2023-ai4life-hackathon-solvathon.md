@@ -11,8 +11,6 @@ role: "Participant"
 layout: single
 ---
 
-## AI4Life Hackathon and Solvathon
-
 In October 2023, I joined the **AI4Life Hackathon and Solvathon**, held at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) in Germany. This joint event focused on identifying challenges in deploying AI models in life sciences and collaboratively solving them through hands-on development and cross-disciplinary discussions.
 
 This initiative, organized by [AI4Life](https://ai4life.eurobioimaging.eu), aimed to bridge the gap between AI developers and bioimage analysts, encouraging community-driven solutions and enhancing model accessibility across infrastructures.

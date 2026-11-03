@@ -8,16 +8,14 @@ excerpt: "Community resource for sharing, discovering, and reusing pre-trained m
 role: "Contributor"
 tool_url: "https://bioimage.io"
 docs_url: "https://bioimage.io/docs/"
-talk_path: "/teaching/2026-EBI-BioImage-Model-Zoo"
+talk_path: "/talks/2026-EBI-BioImage-Model-Zoo"
 ---
-
-## BioImage Model Zoo
 
 **Type**: Resource  
 **My role**: Contributor  
 **Tool**: [BioImage Model Zoo](https://bioimage.io)  
 **Documentation**: [BioImage Model Zoo docs](https://bioimage.io/docs/)  
-**Associated talk**: [BioImage Model Zoo lecture at EMBL-EBI]({{ page.talk_path | relative_url }})  
+**Associated lecture**: [BioImage Model Zoo lecture at EMBL-EBI]({{ page.talk_path | relative_url }})  
 **Associated paper**: [BioImage Model Zoo: A Community-Driven Resource for Accessible Deep Learning in BioImage Analysis](https://www.biorxiv.org/content/10.1101/2022.06.07.495102v1.abstract)
 
 ---

@@ -10,8 +10,6 @@ citation: "Caterina Fuster-Barceló, Claudia Castrillón, Laura Rodrigo-Muñoz, 
 authors: "Caterina Fuster-Barceló, Claudia Castrillón, Laura Rodrigo-Muñoz, Victor Manuel Suárez-Vega, Nicolás Pérez-Fernández, Gorka Bastarrika, Arrate Muñoz-Barrutia"
 ---
 
-## OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI
-
 **Published in**: [arXiv preprint](https://arxiv.org/abs/2601.18368)  
 **Authors**: Caterina Fuster-Barceló, Claudia Castrillón, Laura Rodrigo-Muñoz, Victor Manuel Suárez-Vega, Nicolás Pérez-Fernández, Gorka Bastarrika, Arrate Muñoz-Barrutia  
 

@@ -1,7 +1,7 @@
 ---
 title: "Lecture & Practical Session on Advanced CNNs"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2025-Agora-CNNs
 venue: "Ágora – Journal Club, Universidad Carlos III de Madrid"
 date: 2025-04-10

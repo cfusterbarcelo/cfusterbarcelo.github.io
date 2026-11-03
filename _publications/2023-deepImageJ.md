@@ -12,8 +12,6 @@ featuredin: "https://doi.org/10.1017/S2633903X24000114"
 citation: "Fuster-Barceló, C., García López de Haro, C., Gómez-de-Mariscal, E., Ouyang, W., Olivo-Marin, J.C., Sage, D., & Muñoz-Barrutia, A. (2024). Bridging the gap: Integrating cutting-edge techniques into biological imaging with deepImageJ. <i>Biological Imaging</i>, 4, e14. https://doi.org/10.1017/S2633903X24000114"
 authors: "Caterina Fuster-Barceló, Carlos García López de Haro, Estibaliz Gómez-de-Mariscal, Wei Ouyang, Jean-Christophe Olivo-Marin, Daniel Sage, Arrate Muñoz-Barrutia"
 ---
-**Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ**
-
 **Published in**: [Biological Imaging](https://doi.org/10.1017/S2633903X24000114), 4, e14 (2024)
 
 This work presents the latest developments in **deepImageJ**, a powerful and user-friendly **Fiji/ImageJ plugin** that enables researchers to apply **state-of-the-art deep learning models** for biological image analysis without writing code.

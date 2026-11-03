@@ -8,8 +8,6 @@ date: 2026-06-18
 location: "Ashburn, Virginia, USA"
 ---
 
-## Deep Learning for Microscopy Image Analysis
-
 🎓 **Institution**: [Janelia Research Campus (HHMI)](https://www.janelia.org/)  
 📘 **Course**: [DL@Janelia 2026](https://dl-janelia.github.io/2026/about/)  
 👩‍🏫 **Role**: Teaching Assistant  

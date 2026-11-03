@@ -8,8 +8,6 @@ date: 2024-07-20
 location: "Madrid, Spain"
 ---
 
-## C3IS International Research Mentorship Program
-
 🌍 **Program**: [C3IS Research Labs – International Summer Research Experience](https://www.uc3m.es/C3IS/research-labs)  
 🏫 **Institution**: Universidad Carlos III de Madrid  
 👩‍🔬 **Students Mentored**: 2 undergraduate students from U.S. universities  

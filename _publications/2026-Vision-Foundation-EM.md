@@ -11,8 +11,6 @@ citation: "Caterina Fuster-Barceló, Virginie Uhlmann. \"Are Vision Foundation M
 authors: "Caterina Fuster-Barceló, Virginie Uhlmann"
 ---
 
-## Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?
-
 **Accepted at**: [Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://iclr.cc/virtual/2026/workshop/10000790)  
 **Final version**: [OpenReview](https://openreview.net/forum?id=BbaIt2S2mU&noteId=BbaIt2S2mU)  
 **Preprint**: [arXiv](https://arxiv.org/abs/2602.08505)  

@@ -8,8 +8,6 @@ date: 2024-11-15
 location: "Toledo, Spain"
 ---
 
-## Introduction to AI4Life and BioImage Model Zoo
-
 **Presented at**: [SPAOM 2024](https://spaom2024.org)  
 **Speakers**: Arrate Muñoz-Barrutia and myself  
 

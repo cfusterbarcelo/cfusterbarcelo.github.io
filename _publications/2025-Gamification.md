@@ -10,8 +10,6 @@ citation: "Gonzalo R. Ríos-Muñoz, Caterina Fuster-Barceló, Arrate Muñoz-Barr
 authors: "Gonzalo R. Ríos-Muñoz, Caterina Fuster-Barceló, Arrate Muñoz-Barrutia"
 ---
 
-## The impact of gamification on learning outcomes: experiences from a Biomedical Engineering course
-
 **Published in**: [arXiv preprint](https://arxiv.org/abs/2509.06126)  
 **Authors**: Gonzalo R. Ríos-Muñoz, Caterina Fuster-Barceló, Arrate Muñoz-Barrutia  
 

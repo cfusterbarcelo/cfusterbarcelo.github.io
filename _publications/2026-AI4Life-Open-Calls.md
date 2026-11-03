@@ -11,8 +11,6 @@ citation: "Galinova, V., Seifi, M., Serrano Solano, B., Lidayova, K., Dalle Noga
 authors: "Vera Galinova, Mehdi Seifi, Beatriz Serrano Solano, Kristina Lidayova, Damian Dalle Nogare, Agustin Andres Corbat, Joshua Talks, Edoardo Giacomello, Estibaliz Gomez-de-Mariscal, Mariana G. Ferreira, Caterina Fuster-Barceló, Juan Manuel Battagliotti, Carlos García-López-de-Haro, Benjamin Salmon, Melisande Croft, Si Young Yie, Guillermo Rey-Paniagua, Xiaotian Hu, Sungjun Cho, Aagam Sheth, Chhayansh Porwal, Xiaomeng Li, AI4Life Consortium, Ricardo Henriques, Xinyang Li, Alexander Krull, Anna Klemm, Arrate Muñoz Barrutia, Anna Kreshuk, Wei Ouyang, Florian Jug, Joran Deschamps"
 ---
 
-## AI4Life Open Calls and Public Challenges: why, how, and what we have learned
-
 **Preprint**: [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.07.21.739486v2.abstract)  
 **Posted**: July 22, 2026  
 **Authors**: Vera Galinova, Mehdi Seifi, Beatriz Serrano Solano, Kristina Lidayova, Damian Dalle Nogare, Agustin Andres Corbat, Joshua Talks, Edoardo Giacomello, Estibaliz Gomez-de-Mariscal, Mariana G. Ferreira, Caterina Fuster-Barceló, Juan Manuel Battagliotti, Carlos García-López-de-Haro, Benjamin Salmon, Melisande Croft, Si Young Yie, Guillermo Rey-Paniagua, Xiaotian Hu, Sungjun Cho, Aagam Sheth, Chhayansh Porwal, Xiaomeng Li, AI4Life Consortium, Ricardo Henriques, Xinyang Li, Alexander Krull, Anna Klemm, Arrate Muñoz Barrutia, Anna Kreshuk, Wei Ouyang, Florian Jug, Joran Deschamps

@@ -11,8 +11,6 @@ role: "Participant"
 layout: single
 ---
 
-## ImgLib2 and BigDataViewer Hackathon Prague
-
 In April 2024, I took part in the **ImgLib2 and BigDataViewer Hackathon** held in Prague, Czech Republic. The hackathon brought together developers and researchers to work on Java-based image analysis tooling, especially focused on ImgLib2 and BDV.
 
 My main contributions were on [**SAMJ**](https://github.com/segment-anything-models-java/SAMJ-IJ), a Segment Anything Model integration for ImageJ, and other foundational improvements to the Java image processing stack.

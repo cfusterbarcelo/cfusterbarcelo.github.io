@@ -8,8 +8,6 @@ date: 2023-09-23
 location: "Madrid, Spain"
 ---
 
-## Estimation of Endolymphatic Hydrops Ratios in Ménière’s Disease
-
 🎓 **Institution**: [Universidad Carlos III de Madrid](https://www.uc3m.es)  
 📚 **Program**: Degree in Biomedical Engineering  
 👥 **Co-Tutors**: Arrate Muñoz-Barrutia and myself  

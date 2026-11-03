@@ -1,7 +1,7 @@
 ---
 title: "ECG and PPG Applications in Healthcare"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2025-ecg-ppg-comillas
 venue: "Biosignals Course, Universidad Pontificia Comillas"
 date: 2025-02-22

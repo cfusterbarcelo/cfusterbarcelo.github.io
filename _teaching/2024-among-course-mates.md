@@ -8,8 +8,6 @@ date: 2024-05-15
 location: "Madrid, Spain"
 ---
 
-## Among Coursemates Tutorship Program
-
 🧑‍🏫 **Program**: [Among Coursemates](https://www.uc3m.es/studentsupport/among-coursemates)  
 🏫 **Institution**: Universidad Carlos III de Madrid  
 👥 **Tutored Students**: 4 second-year students mentoring first-year peers  

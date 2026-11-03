@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dra. Caterina Fuster-Barceló"
+title: "Dr. Caterina Fuster-Barceló"
 excerpt: "Postdoctoral researcher in computational bioimage analysis developing robust, efficient, and transferable AI for microscopy."
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="home-intro">
-  <p class="home-lead">I am a postdoctoral researcher in <strong>computational bioimage analysis</strong> at the <a href="https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html">Uhlmann Group</a> and the <a href="https://www.biovisioncenter.uzh.ch/en.html">BioVision Center</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a>.</p>
+  <p class="home-lead">I am a postdoctoral researcher in <strong>computational bioimage analysis</strong> in the <a href="https://www.mls.uzh.ch/en/research/uhlmann.html">Bioimaging and Data Analysis Group (Uhlmann Lab)</a>, led by Dr. Virginie Uhlmann, at the <a href="https://www.mls.uzh.ch/en.html">Department of Molecular Life Sciences</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a>.</p>
 
   <p>My work focuses on foundation models, efficient adaptation, reproducible AI, and practical deployment for microscopy and bioimage analysis. I am interested in building robust, efficient, and transferable methods that can support real scientific workflows, and my profile combines methodological research with software, training, and community-facing contributions such as the <a href="https://bioimage.io/">BioImage Model Zoo</a>.</p>
 
@@ -38,8 +38,8 @@ redirect_from:
   <section class="home-block">
     <h2 class="section-title">Current Affiliations</h2>
     <ul class="home-focus-list">
-      <li><a href="https://www.biovisioncenter.uzh.ch/en/people/team/virginie.html">Uhlmann Group</a></li>
-      <li><a href="https://www.biovisioncenter.uzh.ch/en.html">BioVision Center</a></li>
+      <li><a href="https://www.mls.uzh.ch/en/research/uhlmann.html">Bioimaging and Data Analysis Group (Uhlmann Lab)</a></li>
+      <li><a href="https://www.mls.uzh.ch/en.html">Department of Molecular Life Sciences</a></li>
       <li><a href="https://www.uzh.ch/en.html">University of Zurich</a></li>
     </ul>
   </section>

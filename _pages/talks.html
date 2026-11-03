@@ -1,21 +1,21 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Talks, Lectures & Posters"
 permalink: /talks/
-excerpt: "Talks, invited presentations, workshops, and conference sessions."
+excerpt: "Talks, invited lectures, and poster presentations."
 author_profile: true
 ---
 
 {% include base_path %}
 
 <!-- Talks -->
-<h2 class="section-title">Talks and Presentations</h2>
+<h2 class="section-title">Talks, Lectures &amp; Posters</h2>
 {% assign sorted_talks = site.talks | sort: "date" | reverse %}
 {% for post in sorted_talks %}
   <div class="talk-entry">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="year-badge">{{ post.date | date: "%Y" }}</span>
-    <div class="meta">{{ post.venue }} — {{ post.location }}</div>
+    <div class="meta">{{ post.type }} · {{ post.venue }}{% if post.location %} — {{ post.location }}{% endif %}</div>
   </div>
 {% endfor %}
 
