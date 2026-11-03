@@ -60,6 +60,8 @@ I am a postdoctoral researcher in the [Bioimaging and Data Analysis Group (Uhlma
 
 ## Awards, Fellowships & Grants
 
+- **Global Young Scientists Summit (GYSS) 2027** — _2026, National Research Foundation Singapore_
+  - Selected to represent the University of Zurich at the [GYSS 2027](https://gyss.nrf.gov.sg) in Singapore (4–8 January 2027). [Event page]({{ '/events/2027-gyss-singapore' | relative_url }})
 - **MSCA Postdoctoral Fellowship - Seal of Excellence** - _2025, European Commission_
   - Recognized for high-quality research proposal in the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship programme.
 - **UC3M Mobility Grant for Research Stays** — _2023, Universidad Carlos III de Madrid_
@@ -206,7 +208,7 @@ For full citations and publication details, see the [Publications page]({{ '/pub
 - Machine Learning with Python (edX)
 - [Deep Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=359&asig=18056&idioma=2), Universidad Carlos III de Madrid (UC3M)
 
-## Awards & Recognition
+## Other Recognition
 - Finalist in [Thesis Talks 2021](https://www.uc3m.es/doctorado/thesis-talk-2021), [video](https://media.uc3m.es/video/60d2df8c8f4208a50b8b456d?track_id=60d2e01c8f4208f50b8b4567)
 - Honours in Linear Algebra & Discrete Mathematics, _2016_
 - Short-story contest winner, _2016_

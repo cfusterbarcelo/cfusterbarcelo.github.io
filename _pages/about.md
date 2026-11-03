@@ -11,7 +11,7 @@ redirect_from:
 <div class="home-intro">
   <p class="home-lead">I am a postdoctoral researcher in <strong>computational bioimage analysis</strong> in the <a href="https://www.mls.uzh.ch/en/research/uhlmann.html">Bioimaging and Data Analysis Group (Uhlmann Lab)</a>, led by Dr. Virginie Uhlmann, at the <a href="https://www.mls.uzh.ch/en.html">Department of Molecular Life Sciences</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a>.</p>
 
-  <p>My work focuses on foundation models, efficient adaptation, reproducible AI, and practical deployment for microscopy and bioimage analysis. I am interested in building robust, efficient, and transferable methods that can support real scientific workflows, and my profile combines methodological research with software, training, and community-facing contributions such as the <a href="https://bioimage.io/">BioImage Model Zoo</a>.</p>
+  <p>My work focuses on representation learning, foundation models, efficient adaptation, reproducible AI, and practical deployment for microscopy and bioimage analysis. I am interested in building robust, efficient, and transferable methods that can support real scientific workflows, and my profile combines methodological research with software, training, and community-facing contributions such as the <a href="https://bioimage.io/">BioImage Model Zoo</a>.</p>
 
   <div class="home-actions">
     <a href="{{ '/cv/' | relative_url }}" class="cv-action-link">CV</a>

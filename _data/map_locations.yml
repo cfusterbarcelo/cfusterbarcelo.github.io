@@ -54,6 +54,10 @@
   latitude: 49.2402
   longitude: 6.9969
 
+- name: "Singapore"
+  latitude: 1.2966
+  longitude: 103.7764
+
 - name: "Stockholm, Sweden"
   latitude: 59.3293
   longitude: 18.0686
