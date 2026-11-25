@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-25",
+  "scholar": {
+    "profile_id": "zHebeGsAAAAJ",
+    "all": {
+      "citations": 150,
+      "h_index": 7,
+      "i10_index": 6
+    },
+    "recent": {
+      "citations": 150,
+      "h_index": 7,
+      "i10_index": 6
+    },
+    "since_year": 2021,
+    "annual": {
+      "2022": 2,
+      "2023": 6,
+      "2024": 17,
+      "2025": 41,
+      "2026": 80
+    },
+    "article_count": 18,
+    "articles": [
+      {
+        "id": "qjMakFHDy7sC",
+        "title": "BioImage. IO Chatbot: a community-driven AI assistant for integrative computational bioimaging",
+        "citations": 39
+      },
+      {
+        "id": "u5HHmVD_uO8C",
+        "title": "ELEKTRA: ELEKTRokardiomatrix application to biometric identification with convolutional neural networks",
+        "citations": 26
+      },
+      {
+        "id": "Y0pCki6q_DkC",
+        "title": "The crucial role of bioimage analysts in scientific research and publication",
+        "citations": 19
+      },
+      {
+        "id": "eQOLeE2rZwMC",
+        "title": "SAMJ: fast image annotation on ImageJ/Fiji via segment anything model",
+        "citations": 14
+      },
+      {
+        "id": "zYLM7Y9cAGgC",
+        "title": "Exploring the power of photoplethysmogram matrix for atrial fibrillation detection with integrated explainability",
+        "citations": 13
+      },
+      {
+        "id": "W7OEmFMy1HYC",
+        "title": "ECG-based patient identification: A comprehensive evaluation across health and activity conditions",
+        "citations": 10,
+        "marked": true
+      },
+      {
+        "id": "ufrVoPGSRksC",
+        "title": "The impact of gamification on learning outcomes: experiences from a Biomedical Engineering course",
+        "citations": 7
+      },
+      {
+        "id": "WF5omc3nYNoC",
+        "title": "Scaffolding collaborative learning in STEM: A two-year evaluation of a tool-integrated project-based methodology",
+        "citations": 6
+      },
+      {
+        "id": "IjCSPb-OGe4C",
+        "title": "Bridging the gap: Integrating cutting-edge techniques into biological imaging with deepImageJ",
+        "citations": 4
+      },
+      {
+        "id": "2osOgNQ5qMEC",
+        "title": "Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection",
+        "citations": 4
+      },
+      {
+        "id": "roLk4NBRz8UC",
+        "title": "Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?",
+        "citations": 3
+      },
+      {
+        "id": "Se3iqnhoufwC",
+        "title": "Assessing the reproducibility of a bioimage analysis workflow characterising tissue flow in Drosophila",
+        "citations": 2
+      },
+      {
+        "id": "5nxA0vEk-isC",
+        "title": "AI4Life Open Calls and Public Challenges: why, how, and what we have learned",
+        "citations": 1
+      },
+      {
+        "id": "8k81kl-MbHgC",
+        "title": "BioEngine: scalable execution and adaptation of bioimage AI through agent-readable interfaces",
+        "citations": 1
+      },
+      {
+        "id": "UeHWp8X0CEIC",
+        "title": "Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de ménière",
+        "citations": 1
+      },
+      {
+        "id": "LkGwnXOMwfcC",
+        "title": "OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI",
+        "citations": 0
+      },
+      {
+        "id": "YsMSGLbcyi4C",
+        "title": "Can You Afford to Research? The Financial Strain of Ph. D. students in Spain",
+        "citations": 0
+      },
+      {
+        "id": "u-x6o8ySG0sC",
+        "title": "Biopotential signals and their applicability to cibersecurity problems",
+        "citations": 0
+      }
+    ]
+  },
+  "catalogue": [
+    {
+      "title": "ELEKTRA: ELEKTRokardiomatrix Application to Biometric Identification with Convolutional Neural Networks",
+      "url": "/publication/2022-elektra",
+      "category": "Peer-review Journals",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "u5HHmVD_uO8C"
+    },
+    {
+      "title": "Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Ménière",
+      "url": "/publication/2023-caseib",
+      "category": "Conference Proceedings",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "UeHWp8X0CEIC"
+    },
+    {
+      "title": "BioImage.IO Chatbot: A Community-Driven AI Assistant for Integrative Computational Bioimaging",
+      "url": "/publication/2023-chatbot",
+      "category": "Peer-review Journals",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "qjMakFHDy7sC"
+    },
+    {
+      "title": "DL4MicEverywhere: Deep learning for microscopy made flexible, shareable, and reproducible",
+      "url": "/publication/2023-dl4miceverywhere",
+      "category": "Peer-review Journals",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": null
+    },
+    {
+      "title": "Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection",
+      "url": "/publication/2023-ppg-af",
+      "category": "Conference Proceedings",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "2osOgNQ5qMEC"
+    },
+    {
+      "title": "Exploring the Power of Photoplethysmogram Matrix for Atrial Fibrillation Detection with Integrated Explainability",
+      "url": "/publication/2023-ppm",
+      "category": "Peer-review Journals",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "zYLM7Y9cAGgC"
+    },
+    {
+      "title": "Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ",
+      "url": "/publication/2023-deepimagej",
+      "category": "Peer-review Journals",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "IjCSPb-OGe4C"
+    },
+    {
+      "title": "The Crucial Role of Bioimage Analysts in Scientific Research and Publication",
+      "url": "/publication/2024-bioimage-analysts",
+      "category": "Peer-review Journals",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "Y0pCki6q_DkC"
+    },
+    {
+      "title": "Harnessing Deep Learning in Bioimaging: The DeepImageJ Journey",
+      "url": "/publication/2024-ECBA",
+      "category": "Conference Abstracts",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": null
+    },
+    {
+      "title": "Can You Afford to Research? The Financial Strain of Ph.D. Students in Spain",
+      "url": "/publication/2024-financial-strain-phd",
+      "category": "Conference Proceedings",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "YsMSGLbcyi4C"
+    },
+    {
+      "title": "ECG-Based Patient Identification: A Comprehensive Evaluation Across Health and Activity Conditions",
+      "url": "/publication/2024-Patient-ID",
+      "category": "Peer-review Journals",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "W7OEmFMy1HYC"
+    },
+    {
+      "title": "The impact of gamification on learning outcomes: experiences from a Biomedical Engineering course",
+      "url": "/publication/2025-gamification-biomedical-engineering",
+      "category": "Preprints",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "ufrVoPGSRksC"
+    },
+    {
+      "title": "SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model",
+      "url": "/publication/2025-samj",
+      "category": "Peer-review Journals",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "eQOLeE2rZwMC"
+    },
+    {
+      "title": "Scaffolding Collaborative Learning in STEM: A Two-Year Evaluation of a Tool-Integrated Project-Based Methodology",
+      "url": "/publication/2025-scaffolding-stem",
+      "category": "Preprints",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "WF5omc3nYNoC"
+    },
+    {
+      "title": "AI4Life Open Calls and Public Challenges: why, how, and what we have learned",
+      "url": "/publication/2026-ai4life-open-calls",
+      "category": "Preprints",
+      "first_author": false,
+      "last_author": false,
+      "scholar_id": "5nxA0vEk-isC"
+    },
+    {
+      "title": "Assessing the reproducibility of a bioimage analysis workflow characterising tissue flow in Drosophila",
+      "url": "/publication/2026-globias-reproducibility",
+      "category": "Peer-review Journals",
+      "first_author": false,
+      "last_author": true,
+      "scholar_id": "Se3iqnhoufwC"
+    },
+    {
+      "title": "OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI",
+      "url": "/publication/2026-orehas",
+      "category": "Preprints",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "LkGwnXOMwfcC"
+    },
+    {
+      "title": "Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?",
+      "url": "/publication/2026-vfms-electron-microscopy",
+      "category": "Conference Proceedings",
+      "first_author": true,
+      "last_author": false,
+      "scholar_id": "roLk4NBRz8UC"
+    }
+  ]
+}

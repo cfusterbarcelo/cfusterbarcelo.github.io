@@ -1,6 +1,7 @@
 ---
 title: "Scaffolding Collaborative Learning in STEM: A Two-Year Evaluation of a Tool-Integrated Project-Based Methodology"
 collection: publications
+scholar_id: "WF5omc3nYNoC"
 category: "Preprints"
 permalink: /publication/2025-scaffolding-stem
 excerpt: "A two-year evaluation of tool-supported project-based learning and peer assessment in a STEM master's course."

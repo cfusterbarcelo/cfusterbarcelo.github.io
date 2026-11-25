@@ -1,6 +1,7 @@
 ---
 title: "Assessing the reproducibility of a bioimage analysis workflow characterising tissue flow in Drosophila"
 collection: publications
+scholar_id: "Se3iqnhoufwC"
 category: "Peer-review Journals"
 permalink: /publication/2026-globias-reproducibility
 excerpt: "A reproducibility study on a bioimage analysis workflow characterising tissue flow in Drosophila, published in Journal of Microscopy."

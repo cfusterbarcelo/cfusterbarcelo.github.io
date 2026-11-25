@@ -1,6 +1,7 @@
 ---
 title: "Unveiling Hidden Patterns: Harnessing the Power of Short PPG-Traces for Atrial Fibrillation Detection"
 collection: publications
+scholar_id: "2osOgNQ5qMEC"
 category: "Conference Proceedings"
 permalink: /publication/2023-ppg-af
 excerpt: "Using short PPG traces and musical features to detect atrial fibrillation with high accuracy."

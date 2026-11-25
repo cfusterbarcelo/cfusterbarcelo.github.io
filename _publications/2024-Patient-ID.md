@@ -1,6 +1,7 @@
 ---
 title: "ECG-Based Patient Identification: A Comprehensive Evaluation Across Health and Activity Conditions"
 collection: publications
+scholar_id: "W7OEmFMy1HYC"
 category: "Peer-review Journals"
 permalink: /publication/2024-Patient-ID
 excerpt: "A comprehensive evaluation of ECG-based patient identification under health and activity conditions."

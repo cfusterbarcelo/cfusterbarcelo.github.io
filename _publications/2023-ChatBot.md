@@ -1,6 +1,7 @@
 ---
 title: "BioImage.IO Chatbot: A Community-Driven AI Assistant for Integrative Computational Bioimaging"
 collection: publications
+scholar_id: "qjMakFHDy7sC"
 category: "Peer-review Journals"
 permalink: /publication/2023-chatbot
 excerpt: "AI-powered assistant transforming the way researchers interact with bioimage analysis tools."

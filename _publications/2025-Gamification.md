@@ -1,6 +1,7 @@
 ---
 title: "The impact of gamification on learning outcomes: experiences from a Biomedical Engineering course"
 collection: publications
+scholar_id: "ufrVoPGSRksC"
 category: "Preprints"
 permalink: /publication/2025-gamification-biomedical-engineering
 excerpt: "An evaluation of digital tool integration and gamification-inspired practices in a Biomedical Engineering course."

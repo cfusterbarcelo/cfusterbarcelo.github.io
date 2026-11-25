@@ -8,11 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.author.googlescholar %}
-<p>You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>.</p>
-{% endif %}
-
 {% assign categories_order = "Peer-review Journals,Preprints,Conference Proceedings,Conference Abstracts,Datasets,Misc" | split: "," %}
+{% capture keys %}{% for entry in site.data.publication_history %}{{ entry[0] }}|{% endfor %}{% endcapture %}
+{% assign snapshot_keys = keys | split: "|" | sort | reverse %}
+{% assign latest_key = snapshot_keys | first %}
+{% assign latest = site.data.publication_history[latest_key] %}
+{% if latest %}
+  {% include publication-tracker.html %}
+{% elsif site.author.googlescholar %}
+  <p>You can also find my articles on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+{% endif %}
 
 {% for category in categories_order %}
   {% assign publications_in_category = site.publications | where: "category", category %}
@@ -26,6 +31,12 @@ author_profile: true
         <span class="year-badge">{{ post.date | date: "%Y" }}</span>
         {% if post.venue %}
           <div class="meta">Published in {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}</div>
+        {% endif %}
+        {% if latest and post.scholar_id %}
+          {% assign article = latest.scholar.articles | where: "id", post.scholar_id | first %}
+          {% if article %}
+            <div class="meta">{{ article.citations }} {% if article.citations == 1 %}citation{% else %}citations{% endif %} on Google Scholar as of {{ latest.date | date: "%d %b %Y" }}</div>
+          {% endif %}
         {% endif %}
         {% if post.authors %}
           <div class="description">{{ post.authors | replace: "Caterina Fuster-Barceló", "<strong>Caterina Fuster-Barceló</strong>" }}</div>

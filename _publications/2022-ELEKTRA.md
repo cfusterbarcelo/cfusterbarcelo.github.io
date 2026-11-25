@@ -1,6 +1,7 @@
 ---
 title: "ELEKTRA: ELEKTRokardiomatrix Application to Biometric Identification with Convolutional Neural Networks"
 collection: publications
+scholar_id: "u5HHmVD_uO8C"
 category: "Peer-review Journals"
 permalink: /publication/2022-elektra
 excerpt: "Biometric identification using ELEKTRokardiomatrix with Convolutional Neural Networks. Achieved 99.53% accuracy with minimal error rates using simple CNN architectures."

@@ -1,6 +1,7 @@
 ---
 title: "OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI"
 collection: publications
+scholar_id: "LkGwnXOMwfcC"
 category: "Preprints"
 permalink: /publication/2026-orehas
 excerpt: "A fully automated pipeline for volumetric quantification of endolymphatic hydrops from routine MRI."

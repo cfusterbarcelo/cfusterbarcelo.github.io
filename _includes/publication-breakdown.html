@@ -1,0 +1,23 @@
+<table>
+  <caption>Authorship by publication type</caption>
+  <thead>
+    <tr><th scope="col">Publication type</th><th scope="col">Total</th><th scope="col">First author</th><th scope="col">Last author</th></tr>
+  </thead>
+  <tbody>
+    {% assign recorded_categories = include.papers | map: "category" | uniq %}
+    {% assign breakdown_categories = categories_order | concat: recorded_categories | uniq %}
+    {% for category in breakdown_categories %}
+      {% assign papers = include.papers | where: "category", category %}
+      {% if papers.size > 0 %}
+        {% assign first_authored = papers | where: "first_author", true %}
+        {% assign last_authored = papers | where: "last_author", true %}
+        <tr><th scope="row">{{ category | escape }}</th><td>{{ papers.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td></tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+  <tfoot>
+    {% assign first_authored = include.papers | where: "first_author", true %}
+    {% assign last_authored = include.papers | where: "last_author", true %}
+    <tr><th scope="row">Total</th><td>{{ include.papers.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td></tr>
+  </tfoot>
+</table>

@@ -1,6 +1,7 @@
 ---
 title: "Estimación de la proporción de hidrops endolinfático en pacientes con la enfermedad de Ménière"
 collection: publications
+scholar_id: "UeHWp8X0CEIC"
 category: "Conference Proceedings"
 permalink: /publication/2023-caseib
 excerpt: "Presentación en póster sobre el uso de técnicas de Deep Learning para estimar la proporción de hidrops endolinfático en pacientes con la enfermedad de Ménière."

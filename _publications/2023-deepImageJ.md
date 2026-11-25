@@ -1,6 +1,7 @@
 ---
 title: "Bridging the Gap: Integrating Cutting-edge Techniques into Biological Imaging with deepImageJ"
 collection: publications
+scholar_id: "IjCSPb-OGe4C"
 category: "Peer-review Journals"
 permalink: /publication/2023-deepimagej
 excerpt: "Empowering researchers with deepImageJ: bridging deep learning and accessible biological image analysis."

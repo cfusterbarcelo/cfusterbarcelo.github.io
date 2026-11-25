@@ -1,6 +1,7 @@
 ---
 title: "AI4Life Open Calls and Public Challenges: why, how, and what we have learned"
 collection: publications
+scholar_id: "5nxA0vEk-isC"
 category: "Preprints"
 permalink: /publication/2026-ai4life-open-calls
 excerpt: "bioRxiv preprint summarizing lessons from the AI4Life Open Calls and Public Challenges run between 2023 and 2025."

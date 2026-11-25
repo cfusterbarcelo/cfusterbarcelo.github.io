@@ -1,6 +1,7 @@
 ---
 title: "The Crucial Role of Bioimage Analysts in Scientific Research and Publication"
 collection: publications
+scholar_id: "Y0pCki6q_DkC"
 category: "Peer-review Journals"
 permalink: /publication/2024-bioimage-analysts
 excerpt: "A perspective on the critical contributions and challenges of bioimage analysts in biological research."

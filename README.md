@@ -16,6 +16,13 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
+## Update the publication statistics
+
+1. Update the entries in `_publications/`. For a paper that appears on Google Scholar, set its `scholar_id` to the article ID after the colon in the paper’s `citation_for_view` URL parameter. Authorship counts follow the order in the website’s `authors` field.
+2. Open [the public Google Scholar profile in English](https://scholar.google.com/citations?user=zHebeGsAAAAJ&hl=en&pagesize=100), expand **Show more** until all articles are visible, and save the page as HTML.
+3. Run `bundle exec ruby _scripts/publication_snapshot.rb YYYY-MM-DD /path/to/scholar.html` with the date the profile was observed. The script also accepts a JSON file matching the `scholar` object in a previous snapshot.
+4. Commit the new file under `_data/publication_history/` with any catalogue edits. The publications page shows the newest snapshot and keeps older dates in its update history.
+
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above

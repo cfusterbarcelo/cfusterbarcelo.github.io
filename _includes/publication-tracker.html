@@ -1,0 +1,52 @@
+<section class="publication-tracker" aria-labelledby="publication-tracker-title">
+  <h2 id="publication-tracker-title" class="section-title">Publication statistics</h2>
+  <p>Updated <time datetime="{{ latest.date }}">{{ latest.date | date: "%d %B %Y" }}</time>.
+    Citation metrics come from <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
+    Publication and authorship counts come from this website.</p>
+  <dl class="publication-totals">
+    <div><dt>Listed publications</dt><dd>{{ latest.catalogue.size }}</dd></div>
+    <div><dt>Citations</dt><dd>{{ latest.scholar.all.citations }}</dd></div>
+    <div><dt>h-index</dt><dd>{{ latest.scholar.all.h_index }}</dd></div>
+    <div><dt>i10-index</dt><dd>{{ latest.scholar.all.i10_index }}</dd></div>
+  </dl>
+  {% include publication-breakdown.html papers=latest.catalogue %}
+  <details>
+    <summary>Citations by year</summary>
+    <p>Since {{ latest.scholar.since_year }}, Google Scholar reports {{ latest.scholar.recent.citations }} citations, an h-index of {{ latest.scholar.recent.h_index }}, and an i10-index of {{ latest.scholar.recent.i10_index }}.</p>
+    <table>
+      <thead><tr><th scope="col">Year</th><th scope="col">Citations received</th></tr></thead>
+      <tbody>
+        {% for year in latest.scholar.annual %}
+          <tr><th scope="row">{{ year[0] }}</th><td>{{ year[1] }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </details>
+  <details>
+    <summary>Update history ({{ snapshot_keys.size }})</summary>
+    <div class="publication-table-scroll" role="region" aria-label="Publication and citation history" tabindex="0">
+      <table>
+        <thead><tr><th scope="col">Updated</th><th scope="col">Publications</th><th scope="col">First author</th><th scope="col">Last author</th><th scope="col">Citations</th><th scope="col">h-index</th><th scope="col">i10-index</th></tr></thead>
+        <tbody>
+          {% for key in snapshot_keys %}
+            {% assign record = site.data.publication_history[key] %}
+            {% assign first_authored = record.catalogue | where: "first_author", true %}
+            {% assign last_authored = record.catalogue | where: "last_author", true %}
+            <tr>
+              <th scope="row"><time datetime="{{ record.date }}">{{ record.date }}</time></th>
+              <td>{{ record.catalogue.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td>
+              <td>{{ record.scholar.all.citations }}</td><td>{{ record.scholar.all.h_index }}</td><td>{{ record.scholar.all.i10_index }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% for key in snapshot_keys offset:1 %}
+      {% assign record = site.data.publication_history[key] %}
+      <details>
+        <summary>Publications by type on {{ record.date }}</summary>
+        {% include publication-breakdown.html papers=record.catalogue %}
+      </details>
+    {% endfor %}
+  </details>
+</section>

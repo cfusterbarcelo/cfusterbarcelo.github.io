@@ -1,6 +1,7 @@
 ---
 title: "Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?"
 collection: publications
+scholar_id: "roLk4NBRz8UC"
 category: "Conference Proceedings"
 permalink: /publication/2026-vfms-electron-microscopy
 excerpt: "Accepted at the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026."
