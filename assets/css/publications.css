@@ -1,0 +1,332 @@
+.publication-overview {
+  --ink: #223c43;
+  --muted: #50676c;
+  --teal: #196574;
+  --rule: #d5e2e3;
+  margin: 0 0 1.2rem;
+  color: var(--ink);
+}
+
+.publication-overview__main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem 2rem;
+  padding: 0.6rem 0 1rem;
+}
+
+.publication-overview__intro {
+  flex: 3 1 19rem;
+  min-width: 0;
+}
+
+.publication-overview__intro p {
+  max-width: 36ch;
+  margin: 0 0 0.75rem;
+  font: 1.35rem/1.36 Georgia, "Times New Roman", serif;
+}
+
+.publication-overview__intro strong {
+  color: var(--teal);
+}
+
+.publication-overview nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 23rem;
+  gap: 0.2rem 0.8rem;
+}
+
+.publication-overview a {
+  color: var(--teal);
+  text-decoration: underline;
+  text-decoration-color: #91b7be;
+  text-underline-offset: 0.18em;
+}
+
+.publication-overview a:hover,
+.publication-overview a:focus-visible {
+  text-decoration-color: currentColor;
+}
+
+.publication-overview nav a {
+  justify-self: start;
+  padding-block: 0.12rem;
+  font-size: 0.9rem;
+}
+
+.citation-trend {
+  display: block;
+  flex: 2 1 13.5rem;
+  min-width: 0;
+  max-width: 100%;
+  margin: 0;
+  padding: 0.75rem 1rem;
+  border-radius: 0.45rem;
+  background: #eff6f6;
+}
+
+.citation-trend figcaption {
+  margin: 0;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1.3;
+}
+
+.citation-trend__years {
+  display: flex;
+  overflow-x: auto;
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0 0.15rem;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.citation-trend__years li {
+  flex: 1 0 2.2rem;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.citation-trend__year,
+.citation-trend__value {
+  color: var(--muted);
+  font-size: 0.875rem;
+  line-height: 1.2;
+}
+
+.citation-trend__year {
+  order: 1;
+  padding-top: 0.26rem;
+  border-top: 1px solid #b3cbcf;
+}
+
+.citation-trend__plot {
+  height: 4.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.citation-trend__bar {
+  flex: none;
+  width: 40%;
+  max-width: 1.45rem;
+  background: #62969d;
+  border-radius: 2px 2px 0 0;
+}
+
+.citation-trend__years li:last-child .citation-trend__bar {
+  background: var(--teal);
+}
+
+.citation-trend__value {
+  flex: none;
+  margin-bottom: 0.1rem;
+}
+
+.citation-trend__source {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
+}
+
+.publication-details {
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.publication-details summary {
+  padding: 0.6rem 0.15rem;
+  color: var(--teal);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.publication-details > summary {
+  list-style: none;
+}
+
+.publication-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.publication-details__toggle::before {
+  display: inline-block;
+  width: 0.75em;
+  font-weight: 600;
+  content: "+";
+}
+
+.publication-details[open] > summary .publication-details__toggle::before {
+  content: "−";
+}
+
+.publication-details summary small {
+  float: right;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.publication-details table {
+  width: 100%;
+  margin: 0.7rem 0 1rem;
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  border: 0;
+}
+
+.publication-details caption {
+  padding-bottom: 0.3rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.publication-details thead {
+  background: transparent;
+  color: var(--muted);
+}
+
+.publication-details th,
+.publication-details td {
+  padding: 0.35rem 0.45rem;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  text-align: right;
+}
+
+.publication-details tbody th {
+  font-weight: 400;
+}
+
+.publication-details th:first-child {
+  padding-left: 0;
+  text-align: left;
+}
+
+.publication-details tfoot {
+  font-weight: 600;
+}
+
+.publication-indices,
+.publication-indices div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35em;
+}
+
+.publication-indices {
+  gap: 1.2rem;
+  margin: 0 0 0.9rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.publication-indices dd {
+  margin: 0;
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.publication-history-scroll {
+  overflow-x: auto;
+}
+
+.publication-details time {
+  white-space: nowrap;
+}
+
+.publication-category {
+  scroll-margin-top: 1rem;
+  color: #273d43;
+  font-size: 1.25rem;
+  border-bottom: 1px solid #d5e2e3;
+}
+
+.publication-overview + .publication-category {
+  margin-top: 1.3rem;
+}
+
+.publication-entry {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  grid-template-areas: "year title" ". meta" ". authors";
+  align-items: baseline;
+  gap: 0.2rem 0.55rem;
+  margin: 1rem 0 1.4rem;
+}
+
+.publication-entry__title {
+  grid-area: title;
+  margin: 0;
+  font-size: 1.06rem;
+  line-height: 1.35;
+}
+
+.publication-entry__title a {
+  color: #225562;
+  text-decoration: none;
+  font: inherit;
+}
+
+.publication-entry__title a:hover,
+.publication-entry__title a:focus-visible {
+  text-decoration: underline;
+}
+
+.publication-entry__year {
+  grid-area: year;
+  color: #54686d;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.publication-entry .meta {
+  grid-area: meta;
+  margin: 0;
+}
+
+.publication-entry .description {
+  grid-area: authors;
+  margin: 0;
+}
+
+.pub-entry .meta .publication-citations {
+  color: inherit;
+  font: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+@media (max-width: 32em) {
+  .publication-overview__intro p { font-size: 1.2rem; }
+  .publication-details summary small {
+    float: none;
+    display: block;
+    margin-left: 1.15em;
+  }
+  .publication-entry {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.55rem;
+  }
+  .publication-entry .meta {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+  .publication-entry__title,
+  .publication-entry .description {
+    flex: 0 0 100%;
+    min-width: 0;
+    order: 1;
+    overflow-wrap: anywhere;
+  }
+}

@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 excerpt: "Peer-reviewed publications, preprints, conference proceedings, and abstracts."
 author_profile: true
+stylesheet: /assets/css/publications.css
 ---
 
 {% include base_path %}
@@ -23,27 +24,31 @@ author_profile: true
   {% assign publications_in_category = site.publications | where: "category", category %}
 
   {% if publications_in_category.size > 0 %}
-    <h2 class="section-title">{{ category }}</h2>
+    <h2 class="section-title publication-category" id="pub-{{ category | slugify }}">{{ category | replace: "Peer-review Journals", "Journal articles" | capitalize | escape }}</h2>
     {% assign sorted_publications = publications_in_category | sort: "date" | reverse %}
     {% for post in sorted_publications %}
-      <div class="pub-entry">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="year-badge">{{ post.date | date: "%Y" }}</span>
-        {% if post.venue %}
-          <div class="meta">Published in {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}</div>
-        {% endif %}
+      <article class="pub-entry publication-entry">
+        <h3 class="publication-entry__title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        <time class="publication-entry__year" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%Y" }}</time>
+        {% assign article = nil %}
         {% if latest and post.scholar_id %}
           {% assign article = latest.scholar.articles | where: "id", post.scholar_id | first %}
-          {% if article %}
-            <div class="meta">{{ article.citations }} {% if article.citations == 1 %}citation{% else %}citations{% endif %} on Google Scholar as of {{ latest.date | date: "%d %b %Y" }}</div>
-          {% endif %}
+        {% endif %}
+        {% if post.venue or article %}
+          <div class="meta">
+            {% if post.venue %}{{ post.venue | escape }}{% if post.location %}, {{ post.location | escape }}{% endif %}{% endif %}
+            {% if article %}
+              {% if post.venue %}<span aria-hidden="true"> · </span>{% endif %}
+              <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;user={{ latest.scholar.profile_id }}&amp;citation_for_view={{ latest.scholar.profile_id }}:{{ article.id }}" title="Google Scholar, {{ latest.date | date: '%d %B %Y' }}">{{ article.citations }} {% if article.citations == 1 %}citation{% else %}citations{% endif %}</a>
+            {% endif %}
+          </div>
         {% endif %}
         {% if post.authors %}
           <div class="description">{{ post.authors | replace: "Caterina Fuster-Barceló", "<strong>Caterina Fuster-Barceló</strong>" }}</div>
         {% elsif post.excerpt %}
           <div class="description">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</div>
         {% endif %}
-      </div>
+      </article>
     {% endfor %}
   {% endif %}
 {% endfor %}

@@ -1,52 +1,84 @@
-<section class="publication-tracker" aria-labelledby="publication-tracker-title">
-  <h2 id="publication-tracker-title" class="section-title">Publication statistics</h2>
-  <p>Updated <time datetime="{{ latest.date }}">{{ latest.date | date: "%d %B %Y" }}</time>.
-    Citation metrics come from <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
-    Publication and authorship counts come from this website.</p>
-  <dl class="publication-totals">
-    <div><dt>Listed publications</dt><dd>{{ latest.catalogue.size }}</dd></div>
-    <div><dt>Citations</dt><dd>{{ latest.scholar.all.citations }}</dd></div>
-    <div><dt>h-index</dt><dd>{{ latest.scholar.all.h_index }}</dd></div>
-    <div><dt>i10-index</dt><dd>{{ latest.scholar.all.i10_index }}</dd></div>
-  </dl>
-  {% include publication-breakdown.html papers=latest.catalogue %}
-  <details>
-    <summary>Citations by year</summary>
-    <p>Since {{ latest.scholar.since_year }}, Google Scholar reports {{ latest.scholar.recent.citations }} citations, an h-index of {{ latest.scholar.recent.h_index }}, and an i10-index of {{ latest.scholar.recent.i10_index }}.</p>
-    <table>
-      <thead><tr><th scope="col">Year</th><th scope="col">Citations received</th></tr></thead>
-      <tbody>
-        {% for year in latest.scholar.annual %}
-          <tr><th scope="row">{{ year[0] }}</th><td>{{ year[1] }}</td></tr>
+<section class="publication-overview" aria-label="Publication overview">
+  <div class="publication-overview__main">
+    <div class="publication-overview__intro">
+      <p>Browse <strong>{{ site.publications.size }} {% if site.publications.size == 1 %}publication{% else %}publications{% endif %}</strong> on bioimage analysis, biomedical signal processing, and engineering education.</p>
+      <nav aria-label="Browse publications by type">
+        {% assign listed_categories = site.publications | map: "category" | uniq %}
+        {% for category in categories_order %}
+          {% if listed_categories contains category %}
+            <a href="#pub-{{ category | slugify }}">{{ category | replace: "Peer-review Journals", "Journal articles" | capitalize | escape }}</a>
+          {% endif %}
         {% endfor %}
-      </tbody>
-    </table>
-  </details>
-  <details>
-    <summary>Update history ({{ snapshot_keys.size }})</summary>
-    <div class="publication-table-scroll" role="region" aria-label="Publication and citation history" tabindex="0">
-      <table>
-        <thead><tr><th scope="col">Updated</th><th scope="col">Publications</th><th scope="col">First author</th><th scope="col">Last author</th><th scope="col">Citations</th><th scope="col">h-index</th><th scope="col">i10-index</th></tr></thead>
-        <tbody>
-          {% for key in snapshot_keys %}
-            {% assign record = site.data.publication_history[key] %}
-            {% assign first_authored = record.catalogue | where: "first_author", true %}
-            {% assign last_authored = record.catalogue | where: "last_author", true %}
-            <tr>
-              <th scope="row"><time datetime="{{ record.date }}">{{ record.date }}</time></th>
-              <td>{{ record.catalogue.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td>
-              <td>{{ record.scholar.all.citations }}</td><td>{{ record.scholar.all.h_index }}</td><td>{{ record.scholar.all.i10_index }}</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
+      </nav>
     </div>
-    {% for key in snapshot_keys offset:1 %}
-      {% assign record = site.data.publication_history[key] %}
-      <details>
-        <summary>Publications by type on {{ record.date }}</summary>
-        {% include publication-breakdown.html papers=record.catalogue %}
-      </details>
-    {% endfor %}
+
+    {% assign annual = latest.scholar.annual %}
+    <figure class="citation-trend">
+      {% if annual.size > 0 %}
+        <figcaption>Citations by year</figcaption>
+        {% assign peak = 1 %}
+        {% capture year_keys %}
+          {% for entry in annual %}
+            {{ entry[0] }}
+            {% if entry[1] > peak %}{% assign peak = entry[1] %}{% endif %}
+          {% endfor %}
+        {% endcapture %}
+        {% assign years = year_keys | split: " " | sort %}
+        <ol class="citation-trend__years" role="list" aria-label="Annual citation counts">
+          {% for year in years %}
+            {% assign count = annual[year] %}
+            <li>
+              <span class="citation-trend__year">{{ year }}</span>
+              <span class="citation-trend__plot">
+                <span class="citation-trend__value">{{ count }}</span>
+                <span class="citation-trend__bar" aria-hidden="true" style="height: {{ count | times: 3.0 | divided_by: peak | round: 3 }}rem"></span>
+              </span>
+            </li>
+          {% endfor %}
+        </ol>
+      {% endif %}
+      <a class="citation-trend__source" href="{{ site.author.googlescholar | escape }}">{{ latest.scholar.all.citations }} {% if latest.scholar.all.citations == 1 %}citation{% else %}citations{% endif %} on Google Scholar</a>
+    </figure>
+  </div>
+
+  <details class="publication-details">
+    <summary>
+      <span class="publication-details__toggle" aria-hidden="true"></span>
+      <span>Authorship and citation history</span>
+      <small>Updated <time datetime="{{ latest.date }}">{{ latest.date | date: "%d %b %Y" }}</time></small>
+    </summary>
+    {% include publication-breakdown.html papers=latest.catalogue %}
+    {% if snapshot_keys.size == 1 %}
+      <dl class="publication-indices" aria-label="Google Scholar indices">
+        <div><dt>h-index</dt><dd>{{ latest.scholar.all.h_index }}</dd></div>
+        <div><dt>i10-index</dt><dd>{{ latest.scholar.all.i10_index }}</dd></div>
+      </dl>
+    {% else %}
+      <div class="publication-history-scroll" role="region" aria-label="Dated publication snapshots" tabindex="0">
+        <table>
+          <caption>Update history</caption>
+          <thead><tr><th scope="col">Date</th><th scope="col">Publications</th><th scope="col">First author</th><th scope="col">Last author</th><th scope="col">Citations</th><th scope="col">h-index</th><th scope="col">i10-index</th></tr></thead>
+          <tbody>
+            {% for key in snapshot_keys %}
+              {% assign record = site.data.publication_history[key] %}
+              {% assign first_authored = record.catalogue | where: "first_author", true %}
+              {% assign last_authored = record.catalogue | where: "last_author", true %}
+              <tr>
+                <th scope="row"><time datetime="{{ record.date }}">{{ record.date }}</time></th>
+                <td>{{ record.catalogue.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td>
+                <td>{{ record.scholar.all.citations }}</td><td>{{ record.scholar.all.h_index }}</td><td>{{ record.scholar.all.i10_index }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% for key in snapshot_keys offset:1 %}
+        {% assign record = site.data.publication_history[key] %}
+        <details>
+          <summary>Publications by type on {{ record.date }}</summary>
+          {% include publication-breakdown.html papers=record.catalogue %}
+        </details>
+      {% endfor %}
+    {% endif %}
   </details>
 </section>

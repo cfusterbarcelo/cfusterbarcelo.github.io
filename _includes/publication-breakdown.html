@@ -11,7 +11,7 @@
       {% if papers.size > 0 %}
         {% assign first_authored = papers | where: "first_author", true %}
         {% assign last_authored = papers | where: "last_author", true %}
-        <tr><th scope="row">{{ category | escape }}</th><td>{{ papers.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td></tr>
+        <tr><th scope="row">{{ category | replace: "Peer-review Journals", "Journal articles" | capitalize | escape }}</th><td>{{ papers.size }}</td><td>{{ first_authored.size }}</td><td>{{ last_authored.size }}</td></tr>
       {% endif %}
     {% endfor %}
   </tbody>
